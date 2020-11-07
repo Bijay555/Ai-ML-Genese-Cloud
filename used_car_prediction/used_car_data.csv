@@ -1,0 +1,2218 @@
+Brand,Model,Model_year,Transmission,Engine_size(cc),Drivetrain,Fuel_type,Colour,Lot_no,Kilometer,Status,Price
+Chevrolet,aveo,2009, Manual,1150, 2WD, Petrol, golden,6,200,USED,Rs. 975000
+Chevrolet,captiva,2015, Automatic,2000, 4WD, Diesel, Grey,8,100,USED,Rs. 3000000
+Chevrolet,aveo,2009, Manual,1150, 2WD, Petrol, golden,6,42000,USED,Rs. 975000
+Chevrolet,captiva,2010, Automatic,2000, 4WD, Diesel, Grey,8,51000,USED,Rs. 3000000
+Chevrolet,spark,2012, Manual,1000, 2WD, Petrol, Sky Blue ,9,38000,USED,Rs. 1000000
+Chevrolet,beat,2010, Manual,1200, 2WD, Petrol, Green,8,15000,USED,Rs. 1425000
+Chevrolet,captiva,2011, Manual,2500, 2WD, Diesel, Red/Maroon,3,35000,USED,Rs. 2700000
+Chevrolet,aveo,2008, Manual,1200, 2WD, Petrol, Maroon,8,36800,USED,Rs. 1250000
+Chevrolet,aveo,2012, Manual,1300, 2WD, Petrol, royal black,9,26000,USED,Rs. 1475000
+Chevrolet,aveo,2012, Manual,1200, 2WD, Petrol, metalic sky blue,9,70000,USED,Rs. 1300000
+Chevrolet,beat,2010, Manual,1200, 2WD, Petrol, Golden Silver ,8,45000,USED,Rs. 1150000
+Chevrolet,aveo,2009, Manual,1200, 2WD, Petrol, Red,7,45000,USED,Rs. 925000
+Chevrolet,aveo,2012, Manual,1400, 2WD, Petrol, Lilene Beige,10,17000,USED,Rs. 1650000
+Chevrolet,spark,2012, Manual,1000, 2WD, Petrol, White,15,40000,USED,Rs. 1100000
+Chevrolet,spark,2009, Manual,1000, 2WD, Petrol, Red,10,27000,USED,Rs. 975000
+Chevrolet,spark,2009, Manual,1000, 2WD, Petrol, Bue,7,40000,USED,Rs. 975000
+Chevrolet,spark,2012, Automatic,1000, 2WD, Petrol, golden,1,34000,USED,Rs. 1200000
+Chevrolet,spark,2010, Manual,1000, 2WD, Petrol, Light Golden,8,36000,USED,Rs. 1075000
+Chevrolet,beat,2010, Manual,1200, 2WD, Petrol, Silver,8,35000,USED,Rs. 1275000
+Chevrolet,spark,2010, Automatic,1000, 2WD, Petrol, Sky blue,10,53000,USED,Rs. 110000
+Chevrolet,aveo,2009, Manual,1400, 2WD, Petrol, Silver,7,30000,USED,Rs. 1450000
+Chevrolet,u-va,2008, Manual,1150, 2WD, Petrol, golden silver,6,41000,USED,Rs. 1050000
+Chevrolet,captiva,2010, Automatic,2000, 4WD, Diesel, silver,7,62000,USED,Rs. 3500000
+Chevrolet,captiva,2009, Automatic,2000, 4WD, Diesel, silver,7,46471,USED,Rs. 5000000
+Chevrolet,uva,2009, Manual,1150, 2WD, Petrol, Metallic,7,50500,USED,Rs. 1200000
+Chevrolet,aveo,2010, Manual,1200, 2WD, Petrol, Maroon,8,34500,USED,Rs. 1450000
+Chevrolet,aveo,2009, Manual,1400, 2WD, Petrol, Maroon,7,30000,USED,Rs. 1400000
+Chevrolet,aveo,2010, Manual,1400, 2WD, Petrol, Golden,8,48000,USED,Rs. 1450000
+Chevrolet,uva,2009, Manual,1200, 2WD, Petrol, Red,7,38000,USED,Rs. 1100000
+Chevrolet,spark,2009, Manual,1000, 2WD, Petrol, Red,9,53000,USED,Rs. 1100000
+Chevrolet,captiva,2009, Automatic,2000, 4WD, Diesel, Silver,7,51000,USED,Rs. 3750000
+Chevrolet,captiva,2009, Automatic,2000, 4WD, Diesel, silver,7,52000,USED,Rs. 4000000
+Chevrolet,sedan,2009, Manual,1600, 2WD, Petrol, Golden,7,46000,USED,Rs. 1450000
+Chevrolet,aveo,2010, Manual,800, 2WD, Petrol, Gray,8,30000,USED,Rs. 1200000
+Chevrolet,aveo,2011, Manual,1500, 2WD, Petrol, Black,8,35000,USED,Rs. 1600000
+Chevrolet,uva,2007, Manual,1400, 2WD, Petrol, golden,12,40000,USED,Rs. 1050000
+Chevrolet,beat,2011, Manual,1200, 2WD, Petrol, WHITE,9,25000,USED,Rs. 1650000
+Chevrolet,aveo,2009, Manual,1150, 2WD, Petrol, Platinum Metallic,9,35000,USED,Rs. 1400000
+Chevrolet,aveo,2010, Manual,1400, 2WD, Petrol, Dark Gray,8,52000,USED,Rs. 1700000
+Chevrolet,aveo,2009, Manual,1200, 2WD, Petrol, Golden,7,60000,USED,Rs. 1350000
+Chevrolet,aveo,2009, Manual,1400, 2WD, Petrol, Silver,7,40000,USED,Rs. 1550000
+Chevrolet,spark,2009, Manual,1000, 2WD, Petrol, Blue,7,34000,USED,Rs. 1050000
+Chevrolet,sedan,2010, Manual,1400, 2WD, Petrol, black,10,50000,USED,Rs. 1695000
+Chevrolet,aveo,2013, Manual,1600, 4WD, Petrol, Chocolate Grey,12,3800,USED,Rs. 2000000
+Chevrolet,spark,2010, Manual,800, 2WD, Petrol, Grey,10,30000,USED,Rs. 1200000
+Chevrolet,aveo,2008, Manual,1150, 2WD, Petrol, Platinum Metallic,8,61500,USED,Rs. 1300000
+Chevrolet,spark,2009, Manual,1000, 2WD, Petrol, Caviar Black ,9,25000,USED,Rs. 1200000
+Chevrolet,captiva,2009, Automatic,2000, 4WD, Diesel, SILVER,7,48000,USED,Rs. 4200000
+Chevrolet,spark,2011, Manual,1000, 2WD, Petrol, white ,9,30000,USED,Rs. 1150000
+Chevrolet,aveo,2006, Manual,1600, 2WD, Petrol,  Pearl Silver,6,40000,USED,Rs. 1350000
+Chevrolet,aveo,2007, Manual,1200, 2WD, Petrol, Silver,5,45000,USED,Rs. 1575000
+Chevrolet,aveo,2006, Manual,1600, 2WD, Petrol, orange ,5,43000,USED,Rs. 1425000
+Chevrolet,aveo,2012, Manual,1400, 2WD, Petrol, Velvet Red,9,13000,USED,Rs. 2300000
+Chevrolet,captiva,2010, Automatic,2000, 4WD, Diesel, Silver,9,29000,USED,Rs. 5200000
+Chevrolet,beat,2011, Manual,1200, 2WD, Petrol, Beige,8,26000,USED,Rs. 1600000
+Chevrolet,beat,2010, Manual,1200, 2WD, Petrol, sky blue,10,32000,USED,Rs. 1600000
+Chevrolet,spark,2009, Manual,1000, 2WD, Petrol, Caviar Black,7,26000,USED,Rs. 1200000
+Chevrolet,spark,2009, Manual,1000, 2WD, Petrol, Maroon,7,34000,USED,Rs. 1125000
+Chevrolet,aveo,2010, Manual,1400, 2WD, Petrol, Grey,10,28000,USED,Rs. 1725000
+Chevrolet,aveo,2012, Manual,1600, 2WD, Petrol, Grey,12,19000,USED,Rs. 2200000
+Chevrolet,aveo,2009, Manual,1150, 2WD, Petrol, Platinum Metallic,9,35000,USED,Rs. 1500000
+Chevrolet,captiva,2010, Manual,2000, 2WD, Diesel, White,10,30000,USED,Rs. 4000000
+Chevrolet,aveo,2008, Manual,1150, 2WD, Petrol, Platinum Metallic,6,50000,USED,Rs. 1325000
+Chevrolet,captiva,2010, Manual,2000, 2WD, Diesel, Golden,7,35378,USED,Rs. 6200000
+Chevrolet,captiva,2011, Manual,2500, 2WD, Diesel, Lenin Beige,11,50000,USED,Rs. 3000000
+Chevrolet,aveo,2011, Automatic,1400, 2WD, Petrol, Sandive grey,8,9500,USED,Rs. 1800000
+Chevrolet,beat,2010, Manual,1200, 2WD, Petrol, Red,8,42083,USED,Rs. 1800000
+Chevrolet,aveo,2007, Manual,1150, 2WD, Petrol, Silver,5,42000,USED,Rs. 1200000
+Fiat,avventura,2015, Manual,1400, 2WD, Petrol, Silver ,13,22000,USED,Rs. 2300000
+Fiat,avventura,2015, Manual,1400, 2WD, Petrol, Silver,13,10000,USED,Rs. 2700000
+Fiat,punto,2012, Manual,1200, 2WD, Petrol, Cream Blue,10,18300,USED,Rs. 1499999
+Fiat,linea,2012, Automatic,1400, 2WD, Petrol, White,9,26000,USED,Rs. 2350000
+Fiat,figo,2015, Manual,1400, 2WD, Petrol, Off white ,14,20000,USED,Rs. 1800000
+Fiat,palio,2003, Manual,1200, 2WD, Petrol, dark grey,5,60000,USED,Rs. 550000
+Fiat,punto,2011, Manual,1200, 2WD, Petrol, White,9,28500,USED,Rs. 1375000
+Fiat,punto,2003, Manual,1200, 2WD, Petrol, Red,4,79000,USED,Rs. 675000
+Fiat,figo,1999, Manual,1400, 2WD, Diesel, maroon(red),3,83518,USED,Rs. 450000
+Ford,figo,2013, Manual,1200, 2WD, Petrol, White ,21,47000,USED,Rs. 1425000
+Ford,figo,2010, Manual,1200, 2WD, Petrol, Golden Grey,10,30000,USED,Rs. 1200000
+Ford,figo,2011, Manual,1200, 2WD, Petrol, Silver,22,41000,USED,Rs. 1250000
+Ford,figo,2012, Manual,1200, 2WD, Petrol, Silver,10,60000,USED,Rs. 1250000
+Ford,ecosport,2018, Manual,1500, 2WD, Petrol, Moondust Silver,21,16000,USED,Rs. 3300000
+Ford,ecosport,2014, Automatic,1500, 2WD, Petrol, Mars Red,12,37000,USED,Rs. 2600000
+Ford,figo,2017, Manual,1500, 4WD, Diesel, Grey,11,90000,USED,Rs. 1050000
+Ford,figo,2016, Manual,1200, 2WD, Petrol, smoke grey,4,72000,USED,Rs. 17000
+Ford,figo,2013, Manual,1200, 2WD, Petrol, Blue,10,47000,USED,Rs. 1450000
+Ford,figo,2016, Manual,1200, 2WD, Petrol, Silver,16,31000,USED,Rs. 1850000
+Ford,titanium,2019, Manual,1200, 2WD, Petrol, White Gold,21,7000,USED,Rs. 3100000
+Ford,ecosport,2013, Manual,1000, 2WD, Petrol, silver,11,40000,USED,Rs. 2400000
+Ford,titanium,2013, Manual,1400, 2WD, Diesel, Silver,10,90000,USED,Rs. 1950000
+Ford,figo,2014, Manual,1200, 2WD, Petrol, Orange,12,33000,USED,Rs. 1400000
+Ford,titanium,2015, Manual,1500, 2WD, Diesel, Silver,13,40000,USED,Rs. 2900000
+Ford,fiesta,2015, Manual,1600, 2WD, Petrol, White,13,35000,USED,Rs. 1450000
+Ford,ecosport,2013, Manual,1500, 2WD, Diesel, Chilly Silver ,10,43000,USED,Rs. 2500000
+Ford,figo,2014, Manual,1200, 2WD, Petrol, grey,11,16401,USED,Rs. 1700000
+Ford,figo,2014, Manual,1200, 2WD, Petrol, white,12,12800,USED,Rs. 1700000
+Ford,ecosport,2014, Automatic,1500, 2WD, Petrol, Sea greay,14,52000,USED,Rs. 3100000
+Ford,fiesta,2012, Automatic,1500, 2WD, Petrol, Red,9,41500,USED,Rs. 2700000
+Ford,figo,2012, Manual,1200, 2WD, Petrol, Space gray,9,23500,USED,Rs. 1500000
+Ford,ecosport,2016, Manual,1500, 2WD, Petrol, silver,16,30000,USED,Rs. 260000
+Ford,ecosport,2018, Manual,1500, 2WD, Petrol, White,20,5000,USED,Rs. 3400000
+Ford,fiesta,2014, Manual,1500, 2WD, Diesel, White,12,55000,USED,Rs. 2250000
+Ford,titanium,2014, Automatic,1600, 4WD, Petrol, FROGEN WHITE,12,15600,USED,Rs. 4950000
+Ford,ecosport,2014, Automatic,1500, 2WD, Petrol, Sea greay,14,52000,USED,Rs. 3100000
+Ford,figo,2014, Manual,1200, 2WD, Petrol, Paprika Red,12,12300,USED,Rs. 1850000
+Ford,ecosport,2010, Manual,1600, 2WD, Petrol, Grey,10,55000,USED,Rs. 1200000
+Ford,titanium,2014, Manual,1000, 2WD, Petrol, Moondust Silver,11,44000,USED,Rs. 3000000
+Ford,figo,2011, Manual,1200, 2WD, Petrol, Chill,8,32000,USED,Rs. 1375000
+Ford,titanium,2013, Manual,1600, 2WD, Petrol, Moondust Silver,10,42500,USED,Rs. 1850000
+Ford,ecosport,2014, Manual,1500, 2WD, Petrol, White,11,25000,USED,Rs. 2800000
+Ford,figo,2014, Manual,1200, 2WD, Petrol, Sea gray ,11,4500,USED,Rs. 2080000
+Ford,figo,2012, Manual,1200, 2WD, Petrol, Grey,12,16000,USED,Rs. 1750000
+Ford,titanium,2012, Automatic,1500, 2WD, Petrol, Sea Grey,9,34500,USED,Rs. 2400000
+Ford,figo,2014, Manual,1200, 2WD, Petrol, Silver,11,20000,USED,Rs. 1525000
+Ford,figo,2010, Manual,1200, 2WD, Petrol, Green,8,39000,USED,Rs. 1300000
+Ford,figo,2012, Manual,1200, 2WD, Petrol, Siver,9,20000,USED,Rs. 1350000
+Ford,figo,2012, Manual,1200, 2WD, Petrol, Grey,10,20000,USED,Rs. 1550000
+Ford,figo,2014, Manual,1400, 2WD, Diesel, White,12,8000,USED,Rs. 200000
+Ford,figo,2011, Manual,1200, 2WD, Petrol, Diamond white,11,40500,USED,Rs. 1350000
+Ford,figo,2013, Manual,1200, 2WD, Petrol, silver,10,42500,USED,Rs. 1525000
+Ford,figo,2012, Manual,1400, 2WD, Diesel, white,9,47500,USED,Rs. 1375000
+Ford,ecosport,2013, Manual,1500, 2WD, Petrol, White,11,18000,USED,Rs. 3550000
+Ford,figo,2011, Manual,1200, 2WD, Petrol, White,9,33000,USED,Rs. 1435000
+Ford,figo,2011, Manual,1200, 2WD, Petrol, Grey,9,25000,USED,Rs. 1325000
+Ford,fiesta,2014, Manual,1500, 2WD, Petrol, Dark grey,10,22000,USED,Rs. 3400000
+Ford,titanium,2014, Manual,1500, 2WD, Diesel, Blue,11,26450,USED,Rs. 3800000
+Ford,fiesta,2012, Manual,1600, 2WD, Petrol, Red,10,42000,USED,Rs. 1750000
+Ford,figo,2012, Manual,1200, 2WD, Petrol, white,10,7000,USED,Rs. 1475000
+Ford,ecosport,2014, Manual,1500, 2WD, Petrol, White,12,11000,USED,Rs. 2450000
+Ford,figo,2011, Manual,1200, 2WD, Petrol, silver,9,38500,USED,Rs. 1425000
+Ford,figo,2012, Manual,1200, 2WD, Petrol, Blue,10,18000,USED,Rs. 1375000
+Ford,figo,2010, Manual,1200, 2WD, Petrol, Silver,8,35000,USED,Rs. 1250000
+Ford,figo,2013, Manual,1200, 2WD, Petrol, silky silver,12,22000,USED,Rs. 1650000
+Ford,titanium,2009, Automatic,3000, 4WD, Diesel, Light Green,8,37500,USED,Rs. 4500000
+Ford,figo,2011, Manual,1400, 2WD, Diesel, Grey,9,40000,USED,Rs. 1450000
+Ford,fiesta,2012, Manual,1600, 2WD, Petrol, milky white,10,29000,USED,Rs. 1600000
+Ford,titanium,2013, Manual,1000, 2WD, Petrol, silver,11,28000,USED,Rs. 3275000
+Ford,ecosport,2013, Manual,1600, 2WD, Petrol, Silver,11,20000,USED,Rs. 1800000
+Ford,titanium,2014, Manual,1500, 2WD, Diesel, Beautiful White,12,7900,USED,Rs. 4350000
+Ford,figo,2011, Manual,1200, 2WD, Petrol, grey,9,31000,USED,Rs. 1350000
+Ford,figo,2011, Manual,1200, 2WD, Petrol, squeeze ,9,36000,USED,Rs. 1500000
+Ford,figo,2015, Manual,1200, 2WD, Petrol, Chill,13,300,USED,Rs. 2380000
+Ford,figo,2012, Manual,1200, 2WD, Petrol, Gray ,9,26000,USED,Rs. 1650000
+Ford,titanium,2015, Manual,1500, 2WD, Petrol, Metalic Grey,13,600,USED,Rs. 3999000
+Ford,figo,2012, Manual,1300, 2WD, Petrol, Gray ,9,30000,USED,Rs. 1600000
+Ford,figo,2003, Manual,1300, 2WD, Petrol, Gray,4,60000,USED,Rs. 425000
+Ford,figo,2012, Manual,1400, 2WD, Diesel, Paprika red ,10,27500,USED,Rs. 2300000
+Ford,figo,2010, Manual,1200, 2WD, Petrol, red,8,32000,USED,Rs. 1550000
+Ford,titanium,2015, Manual,1400, 2WD, Diesel, Chill,13,300,USED,Rs. 3000000
+Ford,figo,2014, Manual,1200, 2WD, Petrol, silver,12,4300,USED,Rs. 2200000
+Ford,figo,2011, Manual,1300, 2WD, Diesel, gray,9,32000,USED,Rs. 1574997
+Ford,fiesta,2014, Manual,1500, 2WD, Diesel, Diamond White,12,370,USED,Rs. 3400000
+Ford,titanium,2014, Manual,1500, 2WD, Diesel, Diamond White,12,5185,USED,Rs. 3700000
+Ford,figo,2012, Manual,1200, 2WD, Petrol, Pearl silver ,13,31000,USED,Rs. 1400000
+Ford,figo,2014, Manual,1200, 2WD, Petrol, Diamond White,11,4900,USED,Rs. 1950000
+Ford,titanium,2014, Manual,1400, 2WD, Diesel, Sea Grey,11,1700,USED,Rs. 2800000
+Ford,titanium,2014, Manual,1600, 2WD, Petrol, Sea Grey,11,2400,USED,Rs. 2350000
+Ford,figo,2012, Manual,1200, 2WD, Petrol, diamond,9,42000,USED,Rs. 1850000
+Ford,titanium,2014, Manual,1600, 2WD, Petrol, Sea Grey,11,2400,USED,Rs. 2350000
+Ford,figo,2012, Manual,1300, 2WD, Petrol, silver,10,21000,USED,Rs. 1400000
+Ford,figo,2010, Manual,1200, 2WD, Petrol, Pearl silver ,11,45000,USED,Rs. 1450000
+Ford,figo,2013, Manual,1200, 2WD, Petrol, silver,11,16000,USED,Rs. 1400000
+Ford,figo,2012, Manual,1400, 2WD, Petrol, Paprika red,10,27000,USED,Rs. 2650000
+Ford,figo,2012, Manual,1200, 2WD, Petrol, Gray,9,13000,USED,Rs. 1725000
+Ford,ranger,2010, Manual,2500, 2WD, Diesel, White,8,60000,USED,Rs. 2900000
+Ford,figo,2012, Manual,1300, 2WD, Petrol, Gray ,9,23000,USED,Rs. 1600000
+Ford,figo,2006, Manual,1400, 2WD, Petrol, Red,7,30000,USED,Rs. 3000000
+Ford,ecosport,2014, Manual,1500, 2WD, Diesel, Mars Red,12,17000,USED,Rs. 4150000
+Ford,figo,2010, Manual,1300, 2WD, Petrol, Red ,8,35000,USED,Rs. 1525000
+Ford,figo,2011, Manual,1200, 2WD, Petrol, white,9,23000,USED,Rs. 1575000
+Ford,figo,2011, Manual,1200, 2WD, Petrol, Colorado Red,8,20000,USED,Rs. 1500000
+Ford,figo,2012, Manual,1200, 2WD, Petrol, D.White,10,35000,USED,Rs. 1775000
+Ford,titanium,2012, Automatic,2500, 4WD, Petrol, Moondust Silver,9,18500,USED,Rs. 7000000
+Ford,figo,2011, Manual,1200, 2WD, Petrol, white,11,40000,USED,Rs. 1425000
+Ford,figo,2012, Manual,1300, 2WD, Petrol, silver,10,22000,USED,Rs. 1725000
+Ford,figo,2011, Manual,1200, 2WD, Petrol, Squeeze ,9,35000,USED,Rs. 1575000
+Ford,figo,2013, Manual,1200, 2WD, Petrol, Silky silver ,11,25000,USED,Rs. 1650000
+Ford,figo,2011, Manual,2000, 2WD, Petrol, SQUEEZE (GREEN),9,35000,USED,Rs. 1550000
+Ford,figo,2014, Manual,1200, 2WD, Petrol, Diamond White,12,5000,USED,Rs. 2000000
+Ford,ranger,2010, Manual,2500, 2WD, Diesel, White ,10,60000,USED,Rs. 2700000
+Ford,figo,2014, Manual,1200, 2WD, Petrol, Silver,2,18000,USED,Rs. 1925000
+Ford,figo,2013, Manual,1200, 2WD, Petrol, Silky silver ,11,23000,USED,Rs. 1650000
+Ford,titanium,2014, Manual,1500, 2WD, Diesel, Red,11,14000,USED,Rs. 4500000
+Ford,figo,2015, Manual,1200, 2WD, Petrol, SILVER,12,6000,USED,Rs. 2025000
+Ford,figo,2012, Manual,1400, 2WD, Diesel, Paprika red,10,23500,USED,Rs. 2700000
+Ford,figo,2013, Manual,1200, 2WD, Petrol, Silver,10,95000,USED,Rs. 1900000
+Ford,titanium,2013, Manual,1600, 2WD, Petrol, Sea Grey,11,4200,USED,Rs. 2150000
+Ford,figo,2012, Manual,1200, 2WD, Petrol, Kinetic blue,3,22000,USED,Rs. 1650000
+Ford,titanium,2014, Manual,1500, 4WD, Petrol, Smoke,1,6500,USED,Rs. 3800000
+Ford,ecosport,2014, Manual,1500, 2WD, Petrol, Mars Red,14,14000,USED,Rs. 3250000
+Ford,ecosport,2014, Manual,1500, 2WD, Petrol, Blue,12,6400,USED,Rs. 3000000
+Ford,figo,2015, Manual,1200, 2WD, Petrol, SILVER,12,6000,USED,Rs. 2000000
+Ford,figo,2011, Manual,1200, 2WD, Petrol, Chill,8,35000,USED,Rs. 1550000
+Ford,figo,2010, Manual,1200, 2WD, Petrol, Silver,8,27100,USED,Rs. 1425000
+Ford,titanium,2010, Manual,2500, 2WD, Diesel, White,7,65000,USED,Rs. 4200000
+Ford,figo,2012, Manual,1200, 2WD, Petrol, Silver,10,24000,USED,Rs. 1550000
+Ford,titanium,2014, Manual,1500, 2WD, Petrol, Mars Red,14,4000,USED,Rs. 3800000
+Ford,figo,2010, Manual,1200, 2WD, Petrol, white,8,25000,USED,Rs. 1450000
+Ford,figo,2012, Manual,1200, 2WD, Petrol, White,9,29000,USED,Rs. 2000000
+Ford,figo,2011, Manual,1200, 2WD, Petrol, Sea Grey,11,26000,USED,Rs. 1750000
+Ford,figo,2013, Manual,1200, 2WD, Petrol, Sea Gray,13,9100,USED,Rs. 1675000
+Ford,figo,2010, Manual,1200, 2WD, Petrol, white ,8,22000,USED,Rs. 1600000
+Ford,figo,2010, Manual,1200, 2WD, Petrol, White,8,23000,USED,Rs. 1475000
+Ford,figo,2010, Manual,1200, 2WD, Petrol, Silver,8,27100,USED,Rs. 1600000
+Ford,titanium,2013, Manual,1000, 2WD, Petrol, Siver,11,13000,USED,Rs. 4000000
+Ford,figo,2012, Manual,1200, 2WD, Petrol, White,9,29000,USED,Rs. 1800000
+Ford,titanium,2012, Manual,1600, 2WD, Petrol, Panther Black,10,10000,USED,Rs. 2300000
+Ford,figo,2012, Manual,1400, 2WD, Diesel, Diamond white,10,20000,USED,Rs. 2300000
+Ford,titanium,2013, Automatic,3000, 4WD, Diesel, White,10,7900,USED,Rs. 7000000
+Ford,figo,2012, Manual,1200, 2WD, Petrol, White,10,29000,USED,Rs. 1850000
+Ford,figo,2012, Manual,1200, 2WD, Petrol, Blue,10,15800,USED,Rs. 1575000
+Ford,fiesta,2012, Manual,1500, 2WD, Petrol, Silver,9,40000,USED,Rs. 3000000
+Ford,figo,2012, Manual,1200, 2WD, Petrol, Grey,11,22000,USED,Rs. 1750000
+Ford,fiesta,2014, Manual,1500, 2WD, Diesel, Grey,11,12000,USED,Rs. 3500000
+Ford,figo,2010, Manual,1200, 2WD, Petrol, Sea Grey,8,21000,USED,Rs. 1750000
+Ford,fiesta,2014, Manual,1500, 2WD, Petrol, white,13,2200,USED,Rs. 3350000
+Ford,figo,2011, Manual,1200, 2WD, Petrol, Sea Grey,9,25000,USED,Rs. 1800000
+Ford,figo,2011, Manual,1200, 2WD, Petrol, Silver,9,10500,USED,Rs. 1950000
+Ford,ecosport,2013, Manual,1500, 2WD, Diesel, Black,10,18000,USED,Rs. 4000000
+Ford,figo,2011, Manual,1300, 2WD, Petrol, Grey,10,17000,USED,Rs. 1700000
+Ford,ecosport,2014, Manual,1500, 2WD, Petrol, White,14,14000,USED,Rs. 3350000
+Ford,figo,2014, Manual,1200, 2WD, Petrol, Silver,10,14000,USED,Rs. 1650000
+Ford,figo,2010, Manual,1200, 2WD, Petrol, Green,2,20000,USED,Rs. 1590000
+Ford,titanium,2012, Manual,1490, 2WD, Petrol, Black,2,27000,USED,Rs. 2850000
+Ford,fiesta,2013, Manual,1500, 2WD, Diesel, silver,11,8900,USED,Rs. 3450000
+Honda,cr-v,2016, Automatic,2000, 2WD, Petrol, white,11,8000,USED,Rs. 1000000
+Honda,city,2008, Manual,1500, 2WD, Petrol, Silver,6,63000,USED,Rs. 1350000
+Honda,city,2013, Manual,1500, 2WD, Petrol, maroon red,10,37000,USED,Rs. 2400000
+Honda,city,2010, Manual,1500, 2WD, Petrol, grey,8,37000,USED,Rs. 2250000
+Honda,jazz,2009, Manual,1200, 2WD, Petrol, silver,7,40000,USED,Rs. 1650000
+Honda,brio,2014, Manual,1200, 2WD, Petrol, White,11,13600,USED,Rs. 1875000
+Honda,jazz,2010, Manual,1200, 2WD, Petrol, Maroon Red,7,45606,USED,Rs. 1800000
+Honda,city,2008, Manual,1497, 2WD, Petrol, Grey,6,52000,USED,Rs. 1450000
+Honda,city,2015, Manual,1500, 2WD, Petrol, Red,15,2015,USED,Rs. 2800000
+Honda,jazz,2009, Manual,1200, 2WD, Petrol, Blue,7,42000,USED,Rs. 1600000
+Honda,city,2011, Manual,1500, 2WD, Petrol, black ,10,37000,USED,Rs. 110000
+Honda,cr-v,2007, Automatic,1997, 4WD, Petrol, Golden,6,57000,USED,Rs. 4151000
+Honda,civic,2010, Manual,1800, 2WD, Petrol, Golden,10,44000,USED,Rs. 3250000
+Honda,city,2010, Manual,1500, 2WD, Petrol, Grey,7,29000,USED,Rs. 2325000
+Honda,city,2006, Manual,1497, 2WD, Petrol, Silver ,5,50010,USED,Rs. 1800000
+Honda,crv,2006, Manual,1900, 2WD, Petrol, Navy Green,6,55000,USED,Rs. 4200000
+Honda,city,2013, Manual,1500, 2WD, Petrol, White,10,19000,USED,Rs. 2750000
+Honda,city,2004, Manual,1400, 2WD, Petrol, Grey,5,50000,USED,Rs. 1250000
+Honda,jazz,2012, Manual,1200, 2WD, Petrol, White,10,10000,USED,Rs. 2250000
+Honda,brio,2012, Manual,1198, 2WD, Petrol, Silver,9,27600,USED,Rs. 1775000
+Honda,city,2013, Manual,1500, 2WD, Petrol, red,10,49000,USED,Rs. 3100000
+Honda,city,2006, Manual,1497, 2WD, Petrol, Silver ,5,50010,USED,Rs. 1800000
+Honda,crv,2007, Automatic,1900, 2WD, Petrol, Navy green,6,55000,USED,Rs. 4200000
+Honda,cr-v,2007, Automatic,2000, 4WD, Petrol, Silver,6,56000,USED,Rs. 4600000
+Honda,city,2009, Manual,1497, 2WD, Petrol, Bluish Silver,6,49000,USED,Rs. 1775000
+Honda,city,2015, Manual,1500, 2WD, Petrol, SILVER,13,4500,USED,Rs. 3500000
+Honda,city,2009, Manual,1500, 2WD, Petrol, Silver,7,33000,USED,Rs. 2150000
+Honda,city,2009, Manual,1600, 2WD, Petrol, Baidge,6,40000,USED,Rs. 2150000
+Honda,city,2009, Manual,1495, 2WD, Petrol, Silver ,9,38000,USED,Rs. 2150000
+Honda,city,2012, Manual,1600, 2WD, Petrol, sliver,9,41000,USED,Rs. 2600000
+Honda,city,2005, Manual,1500, 2WD, Petrol, Golden,5,55000,USED,Rs. 1425000
+Honda,brio,2012, Manual,1200, 2WD, Petrol, grey,10,20000,USED,Rs. 1750000
+Honda,city,2005, Manual,1500, 2WD, Petrol, Light Blue,5,45000,USED,Rs. 1475000
+Honda,city,2006, Manual,1500, 2WD, Petrol, Grey,8,47900,USED,Rs. 1700000
+Honda,brio,2012, Manual,1197, 2WD, Petrol, Blue ,10,27000,USED,Rs. 1800000
+Honda,city,2014, Manual,1500, 2WD, Petrol, Silver,11,20000,USED,Rs. 3100000
+Honda,brio,2012, Manual,1200, 2WD, Petrol, Dark Grey,9,15000,USED,Rs. 1750000
+Honda,cr-v,2009, Automatic,2000, 4WD, Petrol, black,7,39000,USED,Rs. 4900000
+Honda,civic,2002, Manual,1500, 2WD, Petrol, maroon,4,72000,USED,Rs. 1325000
+Honda,city,2010, Manual,1497, 2WD, Petrol, silver,7,32100,USED,Rs. 2550000
+Honda,city,2014, Manual,1498, 2WD, Petrol, tafeta white,12,7231,USED,Rs. 3400000
+Honda,city,2007, Manual,1500, 2WD, Petrol, Silver,6,30000,USED,Rs. 2000000
+Honda,city,2006, Manual,1500, 2WD, Petrol, Golden,2,50000,USED,Rs. 1450000
+Honda,city,2004, Manual,1500, 2WD, Petrol, mettalic grey,5,36000,USED,Rs. 1200000
+Honda,city,2011, Manual,1500, 2WD, Petrol, Red,8,12800,USED,Rs. 3150000
+Honda,city,2005, Manual,1500, 2WD, Petrol, Metallic silver,5,45000,USED,Rs. 1400000
+Honda,city,2008, Manual,1500, 2WD, Petrol, grey,6,37000,USED,Rs. 1800000
+Honda,city,2013, Manual,1500, 2WD, Petrol, White ,10,35000,USED,Rs. 3000000
+Honda,city,2005, Manual,1487, 2WD, Petrol, Silver,2,31000,USED,Rs. 1425000
+Honda,city,2009, Automatic,1200, 2WD, Petrol, black,7,35000,USED,Rs. 2650000
+Honda,crv,2007, Manual,1977, 4WD, Petrol, Black,6,38300,USED,Rs. 4800000
+Hyundai,accent,2008, Manual,1400, 2WD, Petrol, Silver,8,95000,USED,Rs. 1350000
+Hyundai,i10,2016, Manual,1200, 2WD, Petrol, Grey,16,28000,USED,Rs. 2200000
+Hyundai,santro,2013, Manual,1200, 2WD, Petrol, Grey,11,45000,USED,Rs. 1450000
+Hyundai,i20,2016, Manual,1200, 2WD, Petrol, Silver,15,30000,USED,Rs. 29550000
+Hyundai,i10,2016, Manual,1200, 2WD, Petrol, Grey,16,29000,USED,Rs. 2150000
+Hyundai,santro,2014, Manual,1000, 2WD, Petrol, Silver,11,62000,USED,Rs. 1700000
+Hyundai,santro,2008, Manual,1000, 2WD, Petrol, White,1,40000,USED,Rs. 950000
+Hyundai,i10,2011, Manual,1200, 2WD, Petrol, SILVER,9,40000,USED,Rs. 1750000
+Hyundai,i20,2010, Manual,1200, 2WD, Petrol, Silver,7,40000,USED,Rs. 1250000
+Hyundai,santro,2009, Manual,1100, 2WD, Petrol, Silver,7,45000,USED,Rs. 1125000
+Hyundai,getz,2007, Manual,1400, 2WD, Petrol, Black,5,80000,USED,Rs. 1050000
+Hyundai,i20,2016, Manual,1200, 2WD, Petrol, Brown,15,31000,USED,Rs. 2950000
+Hyundai,i10,2010, Manual,1100, 2WD, Petrol, Grey,8,41000,USED,Rs. 1450000
+Hyundai,santro,2007, Manual,1000, 2WD, Petrol, Red ,6,70000,USED,Rs. 1150000
+Hyundai,i10,2009, Manual,1200, 2WD, Petrol, yellow,7,50000,USED,Rs. 1350000
+Hyundai,i10,2003, Manual,1100, 2WD, Petrol, White,5,47000,USED,Rs. 600000
+Hyundai,i10,2013, Manual,1200, 2WD, Petrol, Grey ,22,37000,USED,Rs. 1850000
+Hyundai,accent,2009, Manual,1400, 2WD, Petrol, Maroon,8,75000,USED,Rs. 1720000
+Hyundai,i10,2010, Manual,1200, 2WD, Petrol, Silver,8,50000,USED,Rs. 1475000
+Hyundai,i20,2015, Manual,1200, 2WD, Petrol, silver,16,30000,USED,Rs. 2775000
+Hyundai,i10,2009, Manual,1100, 2WD, Petrol, Maroon,7,50000,USED,Rs. 1215000
+Hyundai,i20,2009, Manual,1200, 2WD, Petrol, Grey,7,45000,USED,Rs. 1425000
+Hyundai,i10,2009, Manual,1200, 2WD, Petrol, Maroon,7,45000,USED,Rs. 1325000
+Hyundai,i20,2016, Manual,1200, 2WD, Petrol, Silver,15,29000,USED,Rs. 2950000
+Hyundai,asta,2014, Manual,1200, 2WD, Petrol, Silver,12,38000,USED,Rs. 2175000
+Hyundai,i10,2014, Manual,1200, 2WD, Petrol, Maroon,12,36000,USED,Rs. 1875000
+Hyundai,i20,2014, Manual,1200, 2WD, Petrol, Silver,14,39000,USED,Rs. 2050000
+Hyundai,i20,2015, Manual,1200, 2WD, Petrol, White,14,28000,USED,Rs. 2800000
+Hyundai,asta,2010, Manual,1200, 2WD, Petrol, Grey,8,45000,USED,Rs. 1600000
+Hyundai,tucson,2006, Manual,2000, 2WD, Diesel, light green,5,82000,USED,Rs. 1950000
+Hyundai,i10,2012, Manual,1200, 2WD, Petrol, Silver,10,41000,USED,Rs. 1575000
+Hyundai,i10,2009, Manual,1200, 2WD, Petrol, Red,7,52000,USED,Rs. 1250000
+Hyundai,i10,2016, Manual,1200, 2WD, Petrol, Silver,15,25000,USED,Rs. 1950000
+Hyundai,i20,2015, Manual,1200, 2WD, Petrol, silver,15,40000,USED,Rs. 2250000
+Hyundai,eon,2013, Manual,800, 2WD, Petrol, Silver,11,31000,USED,Rs. 1225000
+Hyundai,creta,2016, Manual,1600, 2WD, Petrol, Maroon,16,38000,USED,Rs. 4150000
+Hyundai,i20,2018, Manual,1200, 2WD, Petrol, white ,19,9900,USED,Rs. 2975000
+Hyundai,santro,2009, Manual,1100, 2WD, Petrol, blue,21,60000,USED,Rs. 1050000
+Hyundai,i20,2016, Manual,1200, 2WD, Petrol, Brown,15,25000,USED,Rs. 3000000
+Hyundai,asta,2017, Manual,1200, 2WD, Petrol, red & black,17,15000,USED,Rs. 3100000
+Hyundai,santro,2013, Manual,1100, 2WD, Petrol, Maroon,10,38600,USED,Rs. 1450000
+Hyundai,i20,2016, Manual,1200, 2WD, Petrol, Silver,16,34000,USED,Rs. 3000000
+Hyundai,tucson,2011, Manual,2000, 4WD, Petrol, Silver,9,59000,USED,Rs. 3700000
+Hyundai,creta,2016, Manual,1400, 2WD, Petrol, maroon,16,20000,USED,Rs. 3700000
+Hyundai,i10,2014, Manual,1200, 2WD, Petrol, grey,12,27000,USED,Rs. 1850000
+Hyundai,i10,2014, Manual,1200, 2WD, Petrol, grey,12,27000,USED,Rs. 1850000
+Hyundai,creta,2018, Manual,1600, 2WD, Petrol, White,19,11000,USED,Rs. 4000000
+Hyundai,i10,2014, Manual,1200, 2WD, Petrol, silver,12,27000,USED,Rs. 1900000
+Hyundai,asta,2013, Manual,1200, 2WD, Petrol, Red,11,43000,USED,Rs. 2100000
+Hyundai,santro,2007, Manual,1100, 2WD, Petrol, Real Earth,5,65000,USED,Rs. 1000000
+Hyundai,i10,2009, Manual,1200, 2WD, Petrol, Golden ,1,45000,USED,Rs. 1200000
+Hyundai,tucson,2007, Manual,2000, 4WD, Diesel, Sky Blue,5,60000,USED,Rs. 2400000
+Hyundai,asta,2014, Manual,1200, 2WD, Petrol, Maroon red,11,40000,USED,Rs. 2196000
+Hyundai,i10,2014, Manual,1200, 2WD, Petrol, GREY,12,27005,USED,Rs. 1850000
+Hyundai,i10,2014, Manual,1200, 2WD, Petrol, Grey,12,42000,USED,Rs. 1850000
+Hyundai,i20,2016, Manual,1200, 2WD, Petrol, silver,16,7500,USED,Rs. 3200000
+Hyundai,santro,2007, Manual,1100, 2WD, Petrol, Real Earth,5,65000,USED,Rs. 1000000
+Hyundai,santro,2012, Manual,1100, 2WD, Petrol, Carbon grey,10,36000,USED,Rs. 1525000
+Hyundai,tucson,2013, Manual,2000, 4WD, Petrol, Silky Brown ,13,31000,USED,Rs. 4200000
+Hyundai,santro,2013, Manual,1200, 2WD, Petrol, Grey,11,45000,USED,Rs. 1450000
+Hyundai,i10,2016, Manual,1200, 2WD, Petrol, Sleek silver,15,18000,USED,Rs. 2300000
+Hyundai,getz,2009, Manual,1400, 2WD, Petrol, Metalic Silver,7,47000,USED,Rs. 1089996
+Hyundai,i10,2009, Manual,1200, 2WD, Petrol, Golden ,1,45000,USED,Rs. 1180000
+Hyundai,santro,2009, Manual,1200, 2WD, Petrol, Silver,7,60000,USED,Rs. 1150000
+Hyundai,santro,2002, Manual,1000, 2WD, Petrol, Silver,4,65000,USED,Rs. 625000
+Hyundai,eon,2012, Manual,800, 2WD, Petrol, Gray,9,50000,USED,Rs. 1250000
+Hyundai,i10,2010, Manual,1200, 2WD, Petrol, Blushing Red,8,31000,USED,Rs. 1475000
+Hyundai,santro,2001, Manual,1000, 2WD, Petrol, Grey,3,61000,USED,Rs. 630000
+Hyundai,eon,2017, Manual,800, 2WD, Petrol, silver,18,25000,USED,Rs. 1350000
+Hyundai,i10,2011, Manual,1200, 2WD, Petrol, Red,9,33000,USED,Rs. 1650000
+Hyundai,asta,2009, Manual,1200, 2WD, Petrol, Grey,7,48000,USED,Rs. 1550000
+Hyundai,i10,2013, Manual,1200, 2WD, Petrol, Silver,11,38255,USED,Rs. 1675000
+Hyundai,i10,2014, Manual,1200, 2WD, Petrol, Grey ,12,34000,USED,Rs. 1850000
+Hyundai,tucson,2008, Manual,2000, 4WD, Diesel, Maroon ,6,53000,USED,Rs. 2600000
+Hyundai,santro,2009, Manual,1100, 2WD, Petrol, Red,11,49000,USED,Rs. 1150000
+Hyundai,asta,2015, Manual,1200, 2WD, Petrol, Grey,13,5200,USED,Rs. 2455000
+Hyundai,santro,2001, Manual,1000, 2WD, Petrol, Grey,3,61000,USED,Rs. 690000
+Hyundai,i10,2010, Manual,1200, 2WD, Petrol, Silver ,8,35000,USED,Rs. 1750000
+Hyundai,i10,2009, Manual,1200, 2WD, Petrol, Gray,7,30000,USED,Rs. 1380000
+Hyundai,getz,2008, Manual,1400, 2WD, Petrol, Golden,6,34000,USED,Rs. 1235000
+Hyundai,santro,2010, Manual,1000, 2WD, Petrol, Pearl White,8,20000,USED,Rs. 1325000
+Hyundai,i10,2014, Manual,1200, 2WD, Petrol, Grey,12,25000,USED,Rs. 2025000
+Hyundai,tucson,2006, Manual,2000, 4WD, Diesel, Silver,5,74000,USED,Rs. 2500000
+Hyundai,i10,2010, Manual,1200, 2WD, Petrol, Dark Grey,8,32000,USED,Rs. 1525000
+Hyundai,i10,2009, Manual,1200, 2WD, Petrol, Blue,6,44500,USED,Rs. 1450000
+Hyundai,santro,2008, Manual,1100, 2WD, Petrol, Blue,6,35000,USED,Rs. 1150000
+Hyundai,tucson,2009, Manual,2000, 4WD, Diesel, Silver,8,65700,USED,Rs. 3150000
+Hyundai,accent,2008, Manual,1400, 2WD, Petrol, Royal blue,7,38000,USED,Rs. 1410000
+Hyundai,santro,2008, Manual,1100, 2WD, Petrol, Silver,7,59000,USED,Rs. 1099999
+Hyundai,santro,2011, Manual,1100, 2WD, Petrol, Maroon,9,35600,USED,Rs. 1325000
+Hyundai,santro,2008, Manual,1100, 2WD, Petrol, Silver,7,55000,USED,Rs. 1125000
+Hyundai,asta,2010, Manual,1200, 2WD, Petrol, Grey,8,43000,USED,Rs. 1775000
+Hyundai,asta,2010, Manual,1200, 2WD, Petrol, Grey,8,32400,USED,Rs. 1725000
+Hyundai,i10,2016, Manual,1200, 4WD, Petrol, Dark Grey Stardust,15,13000,USED,Rs. 2400000
+Hyundai,i10,2009, Manual,1100, 2WD, Petrol, Silver,7,46000,USED,Rs. 1275000
+Hyundai,asta,2010, Manual,1200, 2WD, Petrol, Silver,8,39000,USED,Rs. 1750000
+Hyundai,tucson,2008, Manual,2000, 4WD, Diesel, maroon,6,51000,USED,Rs. 2650000
+Hyundai,asta,2010, Manual,1200, 2WD, Petrol, Grey,8,32400,USED,Rs. 1725000
+Hyundai,santro,2000, Manual,1000, 2WD, Petrol, Silver,3,85000,USED,Rs. 525000
+Hyundai,i20,2014, Manual,1200, 2WD, Petrol, Metallic silver,12,5200,USED,Rs. 2400000
+Hyundai,santro,2007, Manual,1100, 2WD, Petrol, Champion Gold,6,53000,USED,Rs. 1125000
+Hyundai,santro,2011, Manual,1100, 2WD, Petrol, Standard Black,7,57000,USED,Rs. 675000
+Hyundai,asta,2014, Manual,1200, 2WD, Petrol, Red,11,15500,USED,Rs. 2375000
+Hyundai,i10,2009, Manual,1200, 2WD, Petrol, Grey ,7,67000,USED,Rs. 1475000
+Hyundai,santro,2007, Manual,1100, 2WD, Petrol, white,6,56700,USED,Rs. 1135000
+Hyundai,i10,2010, Manual,1200, 2WD, Petrol, Blushing red,8,39000,USED,Rs. 1475000
+Hyundai,asta,2009, Manual,1200, 2WD, Petrol, Silver,7,37000,USED,Rs. 1650000
+Hyundai,tucson,2007, Manual,2000, 4WD, Diesel, red,6,77000,USED,Rs. 2900000
+Hyundai,asta,2009, Manual,1200, 2WD, Petrol, Silver,7,27000,USED,Rs. 1650000
+Hyundai,santro,2009, Manual,1100, 2WD, Petrol, BIue,7,40000,USED,Rs. 1225000
+Hyundai,elite,2015, Manual,1200, 2WD, Petrol, Grey,14,9000,USED,Rs. 2950000
+Hyundai,i10,2013, Manual,1200, 2WD, Petrol, Grey,10,23000,USED,Rs. 1850000
+Hyundai,accent,2009, Manual,1400, 2WD, Petrol, Silver,7,26600,USED,Rs. 1425000
+Hyundai,i10,2012, Manual,1200, 2WD, Petrol, silver,16,27000,USED,Rs. 1695000
+Hyundai,santro,2003, Manual,1100, 2WD, Petrol, Light Green,4,79000,USED,Rs. 750000
+Hyundai,asta,2009, Manual,1200, 2WD, Petrol, SiIver,7,30000,USED,Rs. 1700000
+Hyundai,eon,2013, Manual,800, 2WD, Petrol, Silver,11,10000,USED,Rs. 1450000
+Hyundai,i20,2010, Manual,1200, 2WD, Petrol, Silver,8,42000,USED,Rs. 1585000
+Hyundai,i20,2010, Manual,1200, 2WD, Petrol, Golden,8,41000,USED,Rs. 1575000
+Hyundai,santro,2006, Manual,1100, 2WD, Petrol, sky Blue,5,80000,USED,Rs. 975000
+Hyundai,getz,2009, Manual,1400, 2WD, Petrol, Golden,7,25000,USED,Rs. 1300000
+Hyundai,i10,2009, Manual,1100, 2WD, Petrol, blue,6,18000,USED,Rs. 1275000
+Hyundai,santro,2007, Manual,1100, 2WD, Petrol, White,5,52000,USED,Rs. 850000
+Hyundai,i10,2014, Automatic,1200, 2WD, Petrol, Red,14,22000,USED,Rs. 2100000
+Hyundai,asta,2010, Manual,1200, 2WD, Petrol, Maroon,8,46000,USED,Rs. 1790000
+Hyundai,santro,2000, Manual,1100, 2WD, Petrol, Green,3,51000,USED,Rs. 590000
+Hyundai,tucson,2008, Manual,2000, 4WD, Diesel, Aqua Silver,6,56581,USED,Rs. 3100000
+Hyundai,getz,2006, Manual,1400, 2WD, Petrol, Silver,5,49723,USED,Rs. 1100000
+Hyundai,santro,2008, Manual,1100, 2WD, Petrol, Blue,6,34000,USED,Rs. 1175000
+Hyundai,asta,2010, Manual,1200, 2WD, Petrol, Marhoon,8,38000,USED,Rs. 1750000
+Hyundai,i20,2010, Manual,1200, 2WD, Petrol, Crystal White,7,42000,USED,Rs. 1575000
+Hyundai,getz,2009, Manual,1400, 2WD, Petrol, silver,9,46000,USED,Rs. 1375000
+Hyundai,asta,2009, Manual,1200, 2WD, Petrol, Siver,7,27000,USED,Rs. 1700000
+Hyundai,santro,2009, Manual,1100, 2WD, Petrol, Golden,7,40000,USED,Rs. 1225000
+Hyundai,asta,2009, Manual,1200, 2WD, Petrol, chympigyan gold,7,32000,USED,Rs. 1525000
+Hyundai,santro,2003, Manual,1100, 2WD, Petrol, Sky Blue,4,26000,USED,Rs. 775000
+Hyundai,santro,2008, Manual,1100, 2WD, Petrol, Grey,6,40000,USED,Rs. 1100000
+Hyundai,santro,2005, Manual,1100, 2WD, Petrol, Maroon,5,50000,USED,Rs. 950000
+Hyundai,asta,2009, Manual,1200, 2WD, Petrol, Silver,7,32000,USED,Rs. 1775000
+Hyundai,tucson,2009, Manual,2000, 4WD, Diesel, Silver ,8,45000,USED,Rs. 3349000
+Hyundai,getz,2009, Manual,1400, 2WD, Petrol, Bue,7,30000,USED,Rs. 1275000
+Hyundai,santro,2006, Manual,1100, 2WD, Petrol, Whiskey BIue,5,50000,USED,Rs. 1000000
+Hyundai,i10,2013, Manual,1200, 2WD, Petrol, silky silver,10,21000,USED,Rs. 1775000
+Hyundai,tucson,2006, Manual,2000, 4WD, Diesel, light blue,5,56000,USED,Rs. 2600000
+Hyundai,i10,2011, Manual,1100, 2WD, Petrol, White,9,26000,USED,Rs. 1575000
+Hyundai,asta,2010, Manual,1200, 2WD, Petrol, White,7,25500,USED,Rs. 1795000
+Hyundai,i10,2012, Manual,1200, 2WD, Petrol, Sleek Silver,10,28000,USED,Rs. 1775000
+Hyundai,eon,2012, Manual,800, 2WD, Petrol, Metallic Blue,9,29000,USED,Rs. 1090000
+Hyundai,i10,2009, Manual,1200, 2WD, Petrol, Red,7,43000,USED,Rs. 1540000
+Hyundai,i10,2012, Manual,1200, 2WD, Petrol, Silver,2,33000,USED,Rs. 1665000
+Hyundai,accent,2008, Manual,1400, 2WD, Petrol, Bue,6,40000,USED,Rs. 1425000
+Hyundai,santro,2007, Manual,1000, 2WD, Petrol, White,6,40000,USED,Rs. 900000
+Hyundai,santro,2007, Manual,1100, 2WD, Petrol, Siver,6,40000,USED,Rs. 1150000
+Hyundai,asta,2009, Automatic,1400, 2WD, Petrol, maroon,7,40000,USED,Rs. 1850000
+Hyundai,i10,2009, Manual,1200, 2WD, Petrol, Grey,7,43000,USED,Rs. 1850000
+Hyundai,i10,2010, Manual,1200, 2WD, Petrol, Silver,9,26000,USED,Rs. 1600000
+Hyundai,i10,2010, Manual,1200, 2WD, Petrol, champion gold,9,31000,USED,Rs. 1525000
+Hyundai,asta,2014, Manual,1200, 2WD, Petrol, White,11,16000,USED,Rs. 2450000
+Hyundai,santro,2000, Manual,1000, 2WD, Petrol, Siver,3,60000,USED,Rs. 550000
+Hyundai,i10,2011, Manual,1100, 2WD, Petrol, gray,9,23000,USED,Rs. 1550000
+Hyundai,asta,2014, Manual,1200, 2WD, Petrol, maroon,11,14000,USED,Rs. 2375000
+Hyundai,i20,2010, Manual,1200, 2WD, Petrol, gray,8,37000,USED,Rs. 1725000
+Hyundai,i20,2009, Manual,1200, 2WD, Petrol, Siver,7,26000,USED,Rs. 1500000
+Hyundai,i10,2011, Manual,1100, 2WD, Petrol, White,9,30000,USED,Rs. 1575000
+Hyundai,asta,2010, Manual,1200, 2WD, Petrol, Silver,8,30000,USED,Rs. 1775000
+Hyundai,i10,2014, Manual,1200, 2WD, Petrol, Siver,12,14000,USED,Rs. 1875000
+Hyundai,santro,2007, Manual,1100, 2WD, Petrol, Siver,6,40000,USED,Rs. 1150000
+Hyundai,i10,2014, Manual,1200, 2WD, Petrol, Stardust,12,15000,USED,Rs. 2200000
+Hyundai,santro,2006, Manual,1100, 2WD, Petrol, Silver,5,60000,USED,Rs. 1200000
+Hyundai,i20,2010, Manual,1200, 2WD, Petrol, Maroon,8,32000,USED,Rs. 1500000
+Hyundai,i10,2010, Manual,1200, 2WD, Petrol, Grey,7,30000,USED,Rs. 1575000
+Hyundai,i10,2010, Manual,1200, 2WD, Petrol, SIVER,8,30000,USED,Rs. 1575000
+Hyundai,asta,2014, Manual,1200, 2WD, Petrol, Grey,12,25000,USED,Rs. 2400000
+Hyundai,santro,2003, Manual,1100, 2WD, Petrol, Black,4,50000,USED,Rs. 725000
+Hyundai,accent,2004, Manual,1300, 2WD, Petrol, grey,5,53000,USED,Rs. 850000
+Hyundai,i10,2013, Manual,1200, 2WD, Petrol, Grey,10,43000,USED,Rs. 1860000
+Hyundai,i10,2009, Manual,1100, 2WD, Petrol, Blue,7,50000,USED,Rs. 1300000
+Hyundai,i10,2010, Manual,1200, 2WD, Petrol, Golden,9,37000,USED,Rs. 1575000
+Hyundai,santro,2008, Manual,1100, 2WD, Petrol, silver,7,50000,USED,Rs. 1225000
+Hyundai,i10,2009, Manual,1100, 2WD, Petrol, Maroon,7,50000,USED,Rs. 1325000
+Hyundai,i10,2011, Manual,1200, 2WD, Petrol, Red,9,29000,USED,Rs. 1650000
+Hyundai,santro,2007, Manual,1000, 2WD, Petrol, Silver,7,52000,USED,Rs. 900000
+Hyundai,i10,2013, Manual,1100, 2WD, Petrol, gray,10,25000,USED,Rs. 1600000
+Hyundai,i10,2010, Manual,1200, 2WD, Petrol, Silver,9,30000,USED,Rs. 1575000
+Hyundai,eon,2012, Manual,800, 2WD, Petrol, Amber grey,10,64400,USED,Rs. 1350000
+Hyundai,elantra,2014, Manual,1600, 2WD, Petrol, Wine Red,12,13000,USED,Rs. 3100000
+Hyundai,i10,2008, Manual,1200, 2WD, Petrol, Silver ,6,40000,USED,Rs. 1325000
+Hyundai,santro,2006, Manual,1100, 2WD, Petrol, White,6,50000,USED,Rs. 1075000
+Hyundai,i10,2009, Manual,1200, 2WD, Petrol, Silver,7,35000,USED,Rs. 1445000
+Hyundai,santro,2010, Manual,1100, 2WD, Petrol, Silver,8,32000,USED,Rs. 1325000
+Hyundai,i10,2009, Manual,1200, 2WD, Petrol, Blue,7,38000,USED,Rs. 1400000
+Hyundai,asta,2010, Manual,1200, 2WD, Petrol, White,8,30000,USED,Rs. 1800000
+Hyundai,santro,2010, Manual,1100, 2WD, Petrol, Silver,8,37000,USED,Rs. 1310000
+Hyundai,santro,2007, Manual,1100, 2WD, Petrol, Bright Silver,6,53000,USED,Rs. 1175000
+Hyundai,accent,2009, Manual,1400, 2WD, Petrol, Grey,7,34000,USED,Rs. 1650000
+Hyundai,i10,2012, Manual,1100, 2WD, Petrol, grey,10,35000,USED,Rs. 1600000
+Hyundai,accent,2008, Manual,1400, 2WD, Petrol, Silver,6,35000,USED,Rs. 1425000
+Hyundai,i10,2009, Manual,1100, 2WD, Petrol, Light Golden ,7,40000,USED,Rs. 1275000
+Hyundai,i10,2009, Manual,1200, 2WD, Petrol, Grey,7,37000,USED,Rs. 1400000
+Hyundai,santro,2011, Manual,1100, 2WD, Petrol, Sleek Silver,9,22500,USED,Rs. 1345000
+Hyundai,accent,2008, Manual,1400, 2WD, Petrol, Silver,6,42000,USED,Rs. 1550000
+Hyundai,santro,2006, Manual,1100, 2WD, Petrol, golden,5,55000,USED,Rs. 1050000
+Hyundai,tucson,2011, Automatic,2000, 4WD, Diesel, Grey,9,53000,USED,Rs. 5800000
+Hyundai,i20,2016, Manual,1200, 2WD, Petrol, Silver,15,400,USED,Rs. 3350000
+Hyundai,santro,2007, Manual,1100, 2WD, Petrol, Sky Blue,6,45000,USED,Rs. 1150000
+Hyundai,santro,2011, Manual,1100, 2WD, Petrol, Silver,9,35000,USED,Rs. 2011
+Hyundai,getz,2007, Manual,1400, 2WD, Petrol, Sky Blue,5,63000,USED,Rs. 1000000
+Hyundai,asta,2010, Manual,1200, 2WD, Petrol, Red,9,4500,USED,Rs. 2000000
+Hyundai,i10,2010, Manual,1200, 2WD, Petrol, Sampion Gold,8,42000,USED,Rs. 1525000
+Hyundai,santro,2006, Manual,1000, 2WD, Petrol, White,2,40000,USED,Rs. 1025000
+Hyundai,i10,2014, Manual,1200, 2WD, Petrol, Grey,12,5500,USED,Rs. 2125000
+Hyundai,santro,2013, Manual,1100, 2WD, Petrol, gray,10,25000,USED,Rs. 1600000
+Hyundai,santro,2013, Manual,1100, 2WD, Petrol, gray,10,25000,USED,Rs. 1600000
+Hyundai,i10,2009, Manual,1200, 2WD, Petrol, Black,7,40000,USED,Rs. 1350000
+Hyundai,i20,2010, Manual,1200, 2WD, Petrol, Silver,8,28000,USED,Rs. 1625000
+Hyundai,santro,2013, Manual,1100, 2WD, Petrol, gray,10,25000,USED,Rs. 1500000
+Hyundai,i10,2013, Manual,1200, 2WD, Petrol, Gray,10,26000,USED,Rs. 1775000
+Hyundai,santro,2013, Manual,1100, 2WD, Petrol, gray,10,25000,USED,Rs. 1550000
+Hyundai,santro,2013, Manual,1100, 2WD, Petrol, gray,10,25000,USED,Rs. 1550000
+Hyundai,santro,2004, Manual,1100, 2WD, Petrol, Grey,5,60000,USED,Rs. 800000
+Hyundai,elantra,2013, Manual,1600, 2WD, Petrol, White,10,21000,USED,Rs. 3100000
+Hyundai,i10,2008, Manual,1100, 2WD, Petrol, silver,6,20000,USED,Rs. 1324999
+Hyundai,santro,2013, Manual,1100, 2WD, Petrol, gray,10,25000,USED,Rs. 1600000
+Hyundai,santro,2009, Manual,1100, 2WD, Petrol, Silver,7,50000,USED,Rs. 1225000
+Hyundai,i10,2013, Manual,1200, 2WD, Petrol, Silver,11,16000,USED,Rs. 1875000
+Hyundai,tucson,2007, Manual,2000, 2WD, Petrol, black,6,1991,USED,Rs. 2725000
+Hyundai,tucson,2010, Manual,2000, 2WD, Diesel, Grey,8,33000,USED,Rs. 4800000
+Hyundai,santro,2007, Manual,1100, 2WD, Petrol, Maroon,6,4000,USED,Rs. 1170000
+Hyundai,santro,2013, Manual,1100, 2WD, Petrol, gray,10,25000,USED,Rs. 1600000
+Hyundai,santro,2013, Automatic,1100, 2WD, Petrol, gray,10,1500,USED,Rs. 1400000
+Hyundai,santro,2008, Manual,1100, 2WD, Petrol, Blue,6,35000,USED,Rs. 1175000
+Hyundai,santro,2005, Manual,1100, 2WD, Petrol, silver,8,65000,USED,Rs. 850000
+Hyundai,i20,2009, Manual,1200, 2WD, Petrol, Silver,7,40000,USED,Rs. 1575000
+Hyundai,tucson,2011, Manual,2000, 4WD, Diesel, Black grey ,9,23000,USED,Rs. 5050000
+Hyundai,i10,2011, Manual,1200, 2WD, Petrol, Silver,9,29000,USED,Rs. 1675000
+Hyundai,i10,2010, Manual,1200, 2WD, Petrol, Grey,9,49000,USED,Rs. 1525000
+Hyundai,i10,2008, Manual,1200, 2WD, Petrol, Silk Silver,8,35000,USED,Rs. 1545000
+Hyundai,i10,2012, Manual,1100, 2WD, Petrol, Red,9,23000,USED,Rs. 1675000
+Hyundai,asta,2009, Manual,1200, 2WD, Petrol, Grey,7,35000,USED,Rs. 1700000
+Hyundai,elantra,2014, Manual,1600, 2WD, Petrol, gray ,11,16000,USED,Rs. 3199999
+Hyundai,santro,2006, Manual,1100, 2WD, Petrol, silver green ,5,40000,USED,Rs. 1050000
+Hyundai,santro,2007, Manual,1100, 2WD, Petrol, Blue,7,50000,USED,Rs. 1150000
+Hyundai,tucson,2007, Manual,2000, 2WD, Petrol, maroon,6,46000,USED,Rs. 2850000
+Hyundai,getz,2009, Manual,1400, 2WD, Petrol, Grey,7,40000,USED,Rs. 1225000
+Hyundai,i10,2012, Manual,1100, 2WD, Petrol, Red,9,23000,USED,Rs. 1675000
+Hyundai,i10,2009, Manual,1200, 2WD, Petrol, Blue,7,40000,USED,Rs. 1435000
+Hyundai,getz,2006, Automatic,1400, 2WD, Petrol, Sky Blue,5,59000,USED,Rs. 1355000
+Hyundai,tucson,2009, Manual,2000, 4WD, Diesel, silver ,7,40000,USED,Rs. 3300000
+Hyundai,i20,2010, Manual,1200, 2WD, Petrol, Light Glden,8,30000,USED,Rs. 1625000
+Hyundai,i10,2009, Manual,1200, 2WD, Petrol, Silver,7,38000,USED,Rs. 1360000
+Hyundai,santro,2008, Manual,1100, 2WD, Petrol, Dark Grey,6,57000,USED,Rs. 1150000
+Hyundai,i10,2014, Manual,1200, 2WD, Petrol, White,12,10900,USED,Rs. 2455000
+Hyundai,i10,2013, Manual,1200, 2WD, Petrol, White,11,18000,USED,Rs. 1975000
+Hyundai,i10,2009, Manual,1100, 2WD, Petrol,  Sleek Silver,9,19200,USED,Rs. 155000
+Hyundai,santro,2008, Manual,1100, 2WD, Petrol, Silver,6,45000,USED,Rs. 1175000
+Hyundai,i10,2008, Manual,1200, 2WD, Petrol, silky silver,7,42000,USED,Rs. 1325000
+Hyundai,santro,2002, Manual,1100, 2WD, Petrol, Silver,4,70000,USED,Rs. 650000
+Hyundai,i10,2013, Manual,1200, 2WD, Petrol, Gray ,10,18000,USED,Rs. 1850000
+Hyundai,asta,2009, Manual,1200, 2WD, Petrol, `light golden,7,20000,USED,Rs. 1725000
+Hyundai,asta,2009, Manual,1200, 2WD, Petrol, Silver,7,27000,USED,Rs. 1725000
+Hyundai,i10,2009, Manual,1100, 2WD, Petrol,  Sleek Silver,9,19200,USED,Rs. 1550000
+Hyundai,asta,2010, Manual,1200, 2WD, Petrol, White,8,41000,USED,Rs. 1850000
+Hyundai,getz,2004, Manual,1400, 2WD, Petrol, Blue ,5,49000,USED,Rs. 1025000
+Hyundai,i20,2009, Automatic,1200, 2WD, Petrol, Grey,7,30000,USED,Rs. 1550000
+Hyundai,tucson,2013, Manual,2000, 4WD, Diesel, Metalic ,11,39000,USED,Rs. 6000000
+Hyundai,tucson,2009, Manual,2000, 2WD, Diesel, Silver ,7,43000,USED,Rs. 3300000
+Hyundai,i10,2008, Manual,1200, 2WD, Petrol, golden ,6,39000,USED,Rs. 1325000
+Hyundai,tucson,2006, Manual,2000, 2WD, Petrol, Silver ,5,54000,USED,Rs. 2650000
+Hyundai,i10,2014, Manual,1200, 2WD, Petrol, Wine Red,11,30400,USED,Rs. 2000000
+Hyundai,santro,2010, Manual,1100, 2WD, Petrol, Grey,8,30000,USED,Rs. 1300000
+Hyundai,i20,2010, Manual,1200, 2WD, Petrol, Silver,8,29000,USED,Rs. 1650000
+Hyundai,tucson,2007, Manual,2000, 4WD, Diesel, Maroon,6,68600,USED,Rs. 2650000
+Hyundai,i10,2014, Manual,1200, 2WD, Petrol, Silver,12,6000,USED,Rs. 2300000
+Hyundai,asta,2014, Manual,1200, 2WD, Petrol, Gray ,12,22000,USED,Rs. 2450000
+Hyundai,i20,2010, Manual,1200, 2WD, Petrol, Dark grey,7,35500,USED,Rs. 1650000
+Hyundai,i10,2014, Manual,1200, 2WD, Petrol, Wine Red,11,30450,USED,Rs. 2000000
+Hyundai,santro,2006, Manual,1100, 2WD, Petrol, Blue,5,40000,USED,Rs. 1100000
+Hyundai,santro,2011, Manual,1100, 2WD, Petrol, Light Golden ,9,30000,USED,Rs. 1350000
+Hyundai,i10,2009, Manual,1200, 2WD, Petrol, silky silver,7,41000,USED,Rs. 1450000
+Hyundai,i10,2014, Manual,1200, 2WD, Petrol, Wine Red,11,30000,USED,Rs. 2076000
+Hyundai,tucson,2011, Manual,2000, 4WD, Diesel, maroon red,9,34000,USED,Rs. 5200000
+Hyundai,i10,2009, Automatic,1200, 2WD, Petrol, Oyster grey,7,46000,USED,Rs. 1575000
+Hyundai,tucson,2012, Manual,2000, 2WD, Petrol, Brown,10,45000,USED,Rs. 5575000
+Hyundai,i10,2010, Manual,1200, 2WD, Petrol, Grey,7,30000,USED,Rs. 1475000
+Hyundai,i10,2009, Manual,1100, 2WD, Petrol, Blue,7,29000,USED,Rs. 1250000
+Hyundai,i10,2009, Manual,1100, 2WD, Petrol, maroon,7,22000,USED,Rs. 1250000
+Hyundai,tucson,2009, Manual,2000, 4WD, Diesel, Grey,8,35000,USED,Rs. 3500000
+Hyundai,i10,2008, Manual,1200, 2WD, Petrol, Gray ,6,36000,USED,Rs. 1350000
+Hyundai,i10,2010, Automatic,1200, 2WD, Petrol, silver,8,35000,USED,Rs. 1725000
+Hyundai,i10,2009, Manual,1200, 2WD, Petrol, Sampion Gold,7,45000,USED,Rs. 1390000
+Hyundai,asta,2010, Manual,1200, 2WD, Petrol, Black,8,30000,USED,Rs. 1850000
+Hyundai,tucson,2010, Manual,2000, 4WD, Diesel, Silver,9,30000,USED,Rs. 5800000
+Hyundai,accent,1995, Manual,1300, 2WD, Petrol, Metalic Blue,3,62000,USED,Rs. 250000
+Hyundai,santro,2003, Manual,1000, 2WD, Petrol," silver,green",12,40000,USED,Rs. 700000
+Hyundai,i10,2014, Manual,1200, 2WD, Petrol, silver,11,15000,USED,Rs. 2475000
+Hyundai,getz,2005, Manual,1400, 2WD, Petrol, Blue ,5,47000,USED,Rs. 1100000
+Hyundai,santro,2007, Manual,1100, 2WD, Petrol, Sky blue,6,44000,USED,Rs. 1175000
+Hyundai,santro,2007, Manual,1100, 2WD, Petrol, Silver,6,50000,USED,Rs. 1175000
+Hyundai,asta,2014, Manual,1200, 2WD, Petrol, Silver,11,13000,USED,Rs. 2450000
+Hyundai,santro,2000, Manual,1000, 2WD, Petrol, Sliver,3,58564,USED,Rs. 520000
+Hyundai,santro,2009, Manual,1100, 2WD, Petrol, light golden,7,29000,USED,Rs. 1250000
+Hyundai,asta,2014, Manual,1200, 2WD, Petrol, golden orange ,11,22000,USED,Rs. 2450000
+Hyundai,eon,2013, Manual,800, 2WD, Petrol, Gray,11,30000,USED,Rs. 1300000
+Hyundai,accent,2009, Manual,1400, 2WD, Petrol, Black ,6,39000,USED,Rs. 1499999
+Hyundai,eon,2013, Manual,800, 2WD, Petrol, silver,10,14000,USED,Rs. 1400000
+Hyundai,asta,2010, Manual,1200, 2WD, Petrol, Beautiful White,7,17000,USED,Rs. 1850000
+Hyundai,santro,2009, Manual,1100, 2WD, Petrol, grey,7,26000,USED,Rs. 1250000
+Hyundai,santro,2010, Manual,1100, 2WD, Petrol, grey,8,28000,USED,Rs. 1300000
+Hyundai,i10,2013, Manual,1200, 2WD, Petrol, Gray ,11,18000,USED,Rs. 1775000
+Hyundai,santro,2003, Manual,1200, 2WD, Petrol, Silver,4,70000,USED,Rs. 825000
+Hyundai,tucson,2008, Manual,2000, 4WD, Diesel, Maroon,6,51000,USED,Rs. 3200000
+Hyundai,i10,2011, Manual,1200, 2WD, Petrol, Grea,9,23000,USED,Rs. 1675000
+Hyundai,santro,2003, Manual,1100, 2WD, Petrol, white,4,51000,USED,Rs. 725000
+Hyundai,i10,2009, Manual,1200, 2WD, Petrol, Maroon,7,37000,USED,Rs. 1400000
+Hyundai,santro,2009, Manual,1100, 2WD, Petrol, silky silver,11,42000,USED,Rs. 1175000
+Hyundai,asta,2009, Manual,1200, 2WD, Petrol, Silver,7,40000,USED,Rs. 1750000
+Hyundai,santro,2000, Manual,1000, 2WD, Petrol, Golden,3,60000,USED,Rs. 600000
+Hyundai,i20,2004, Manual,1500, 2WD, Diesel, Golden,5,74000,USED,Rs. 780000
+Hyundai,asta,2014, Manual,1200, 2WD, Petrol, Silky silver ,11,14000,USED,Rs. 2450000
+Hyundai,santro,2009, Manual,1100, 2WD, Petrol, sky blue,7,38000,USED,Rs. 1150000
+Hyundai,santro,2009, Manual,1100, 2WD, Petrol, Gray ,7,41000,USED,Rs. 1150000
+Hyundai,i10,2010, Manual,1200, 2WD, Petrol, red,9,34000,USED,Rs. 1525000
+Hyundai,i10,2014, Manual,1200, 2WD, Petrol, silver,12,5000,USED,Rs. 2000000
+Hyundai,i10,2009, Manual,1200, 2WD, Petrol, marron red,7,27900,USED,Rs. 1425000
+Hyundai,santro,2010, Manual,1100, 2WD, Petrol, Gray,7,26000,USED,Rs. 1225000
+Hyundai,i10,2010, Manual,1200, 2WD, Petrol, Silver,8,30000,USED,Rs. 1575000
+Hyundai,accent,2009, Manual,1400, 2WD, Petrol, GREY,7,46000,USED,Rs. 1625000
+Hyundai,santro,2007, Manual,1200, 2WD, Petrol, Silver ,5,38000,USED,Rs. 1050000
+Hyundai,santro,2005, Manual,1100, 2WD, Petrol, Maroon,6,54000,USED,Rs. 1000000
+Hyundai,santro,2000, Manual,1000, 2WD, Petrol, Silver,3,72000,USED,Rs. 525000
+Hyundai,santro,2009, Manual,1100, 2WD, Petrol, Grey,8,40000,USED,Rs. 1250000
+Hyundai,asta,2009, Manual,1200, 2WD, Petrol, Shampion Gold,7,26000,USED,Rs. 1725000
+Hyundai,santro,2009, Manual,1100, 2WD, Petrol, maroon,7,22000,USED,Rs. 1250000
+Hyundai,santro,2007, Manual,1100, 2WD, Petrol, Maroon,6,41000,USED,Rs. 1175000
+Hyundai,tucson,2009, Manual,2000, 4WD, Diesel, Sky Blue ,8,55000,USED,Rs. 3300000
+Hyundai,eon,2013, Manual,800, 2WD, Petrol, silver,10,20000,USED,Rs. 1250000
+Hyundai,santro,2011, Manual,1100, 2WD, Petrol, Silk silver,9,26000,USED,Rs. 1350000
+Hyundai,i10,2010, Manual,1200, 2WD, Petrol, Maroon ,8,45000,USED,Rs. 1550000
+Hyundai,i10,2009, Manual,1200, 2WD, Petrol, gray,7,36000,USED,Rs. 1525000
+Hyundai,asta,2009, Manual,1200, 2WD, Petrol, Sky blue,7,40000,USED,Rs. 1750000
+Hyundai,santro,2007, Manual,1100, 2WD, Petrol, silver,6,29000,USED,Rs. 1175000
+Hyundai,santro,2005, Manual,1100, 2WD, Petrol, Maroon,5,51000,USED,Rs. 1025000
+Hyundai,santro,2008, Manual,1100, 2WD, Petrol, Blue,6,35000,USED,Rs. 1150000
+Hyundai,i10,2011, Manual,1200, 2WD, Petrol, Gray ,9,30000,USED,Rs. 1680000
+Hyundai,i10,2009, Manual,1200, 2WD, Petrol, grey,7,36000,USED,Rs. 1450000
+Hyundai,i10,2010, Manual,1200, 2WD, Petrol, Silver,8,31200,USED,Rs. 1475000
+Hyundai,asta,2009, Manual,1200, 2WD, Petrol, Gray,7,40000,USED,Rs. 1750000
+Hyundai,tucson,2002, Automatic,2000, 4WD, Diesel, White,9,41300,USED,Rs. 2450000
+Hyundai,santro,2008, Manual,1100, 2WD, Petrol, golden silver,6,45000,USED,Rs. 1175000
+Hyundai,i10,2015, Manual,1200, 2WD, Petrol, silver,13,11000,USED,Rs. 2150000
+Hyundai,tucson,2009, Manual,2000, 4WD, Diesel, Red ,7,46700,USED,Rs. 3500000
+Hyundai,santro,2010, Manual,1100, 2WD, Petrol, white,8,32000,USED,Rs. 1250000
+Hyundai,i10,2009, Manual,1200, 2WD, Petrol, Silver,7,33000,USED,Rs. 1400000
+Hyundai,getz,2009, Manual,1400, 2WD, Petrol, Midnight Gray,7,45000,USED,Rs. 1250000
+Hyundai,santro,2006, Manual,1100, 2WD, Petrol, sky blue,5,48000,USED,Rs. 1090000
+Hyundai,asta,2010, Manual,1200, 2WD, Petrol, Gray,9,30000,USED,Rs. 1850000
+Hyundai,accent,2009, Manual,1400, 2WD, Petrol, Silver,7,42000,USED,Rs. 1625000
+Hyundai,tucson,2006, Manual,2000, 4WD, Diesel, sky blue,5,54000,USED,Rs. 2600000
+Hyundai,santro,2009, Manual,1100, 2WD, Petrol, maroon,7,33000,USED,Rs. 1200000
+Hyundai,asta,2009, Manual,1200, 2WD, Petrol, Gray,7,40000,USED,Rs. 1750000
+Hyundai,santro,2010, Manual,1100, 2WD, Petrol, Gray,8,30000,USED,Rs. 1300000
+Hyundai,asta,2014, Manual,1200, 2WD, Petrol, Gray ,11,18000,USED,Rs. 2450000
+Hyundai,eon,2012, Manual,800, 2WD, Petrol, silky silver,9,29000,USED,Rs. 1225000
+Hyundai,santro,2005, Manual,1100, 2WD, Petrol, Sky blue,5,40000,USED,Rs. 1025000
+Hyundai,santro,2007, Manual,1100, 2WD, Petrol, snow white,5,36000,USED,Rs. 1150000
+Hyundai,i10,2009, Manual,1200, 2WD, Petrol, Brick red,7,50000,USED,Rs. 1550000
+Hyundai,i10,2009, Manual,1200, 2WD, Petrol, Maroon,7,37000,USED,Rs. 1425000
+Hyundai,getz,2007, Manual,1300, 2WD, Petrol, blue,13,39000,USED,Rs. 1150000
+Hyundai,santro,2001, Manual,1000, 2WD, Petrol, Grey ,1,76000,USED,Rs. 510000
+Hyundai,santro,2010, Manual,1100, 2WD, Petrol, Silver,8,41000,USED,Rs. 1225000
+Hyundai,accent,2006, Manual,1400, 2WD, Petrol, Midnight grey,5,35000,USED,Rs. 1550000
+Hyundai,i10,2009, Manual,1200, 2WD, Petrol, Brick red,7,50000,USED,Rs. 1600000
+Hyundai,accent,2006, Manual,1400, 2WD, Petrol, Silver,5,45000,USED,Rs. 1300000
+Hyundai,tucson,2008, Manual,2000, 4WD, Diesel, sky blue,6,49000,USED,Rs. 3150000
+Hyundai,i10,2010, Manual,1200, 2WD, Petrol, red,8,22000,USED,Rs. 1520000
+Hyundai,accent,2009, Manual,1400, 2WD, Petrol, SILVER,7,39000,USED,Rs. 1575000
+Hyundai,asta,2009, Manual,1200, 2WD, Petrol, Gray ,7,37000,USED,Rs. 1705000
+Hyundai,i20,2010, Manual,1200, 2WD, Petrol, Sparkle Blue,9,45000,USED,Rs. 1850000
+Hyundai,santro,2006, Manual,1100, 2WD, Petrol, Maroon,5,50000,USED,Rs. 1100000
+Hyundai,getz,2009, Manual,1400, 2WD, Petrol, silver,7,55000,USED,Rs. 1475000
+Hyundai,asta,2010, Manual,1300, 2WD, Petrol, Gray ,8,34000,USED,Rs. 1750000
+Hyundai,i10,2009, Manual,1200, 2WD, Petrol, Sky blue,7,35000,USED,Rs. 1400000
+Hyundai,asta,2010, Manual,1200, 2WD, Petrol, GREY,8,36000,USED,Rs. 1824000
+Hyundai,i10,2010, Manual,1200, 2WD, Petrol, champagyan gold,8,23000,USED,Rs. 1575000
+Hyundai,santro,2006, Manual,1100, 2WD, Petrol, silver golden,5,36000,USED,Rs. 1075000
+Hyundai,i10,2012, Manual,1200, 2WD, Petrol, Maroon,10,18000,USED,Rs. 1750000
+Hyundai,tucson,2007, Manual,2000, 4WD, Diesel, Sky Blue,6,59000,USED,Rs. 2850000
+Hyundai,santro,2008, Manual,1100, 2WD, Petrol, Sky Blue,6,55000,USED,Rs. 1175000
+Hyundai,eon,2012, Manual,800, 2WD, Petrol, silver,9,32000,USED,Rs. 1275000
+Hyundai,i10,2009, Manual,1200, 2WD, Petrol, black,7,25000,USED,Rs. 1380000
+Hyundai,santro,2011, Manual,1100, 2WD, Petrol, Maroon ,9,27000,USED,Rs. 1350000
+Hyundai,i10,2010, Manual,1200, 2WD, Petrol, Siliver,8,25100,USED,Rs. 1590000
+Hyundai,eon,2012, Manual,800, 2WD, Petrol, grey,10,11700,USED,Rs. 1450000
+Hyundai,santro,2010, Manual,1100, 2WD, Petrol, Silver ,8,31000,USED,Rs. 1225000
+Hyundai,i10,2009, Manual,1200, 2WD, Petrol, light gold,6,40000,USED,Rs. 1360000
+Hyundai,i10,2009, Manual,1100, 2WD, Petrol, Grey ,7,35000,USED,Rs. 1275000
+Hyundai,santro,2001, Manual,1100, 2WD, Petrol, Marron,3,45000,USED,Rs. 675000
+Hyundai,santro,2005, Manual,1100, 2WD, Petrol, Maroon,5,55000,USED,Rs. 1050000
+Hyundai,i10,2012, Manual,1200, 2WD, Petrol, Golden,9,30000,USED,Rs. 1725000
+Hyundai,santro,2003, Manual,1100, 2WD, Petrol, Forest Dew,3,50000,USED,Rs. 675000
+Hyundai,santro,2007, Manual,1100, 2WD, Petrol, Line Blue,5,40000,USED,Rs. 1200000
+Hyundai,santro,2004, Manual,1100, 2WD, Petrol, gray,5,43000,USED,Rs. 950000
+Hyundai,i10,2009, Manual,1100, 2WD, Petrol, Gray,7,32000,USED,Rs. 1350000
+Hyundai,asta,2010, Manual,1200, 2WD, Petrol, Blue,8,25000,USED,Rs. 1825000
+Hyundai,i10,2009, Manual,1200, 2WD, Petrol, Maroon ,7,37000,USED,Rs. 1400000
+Hyundai,i10,2008, Manual,1100, 2WD, Petrol, Gray,6,40000,USED,Rs. 1275000
+Hyundai,asta,2009, Manual,1200, 2WD, Petrol, silver,7,32000,USED,Rs. 1750000
+Hyundai,santro,2000, Manual,1000, 2WD, Petrol, Sliver,3,59675,USED,Rs. 550000
+Hyundai,santro,2000, Manual,1000, 2WD, Petrol, Gray,3,60000,USED,Rs. 600000
+Hyundai,i20,2010, Manual,1200, 2WD, Petrol, Silver,9,33000,USED,Rs. 1775000
+Hyundai,i10,2009, Manual,1200, 2WD, Petrol, Sky blue,7,35000,USED,Rs. 1400000
+Hyundai,i10,2011, Manual,1200, 2WD, Petrol, Gray ,9,32000,USED,Rs. 1725000
+Hyundai,santro,2010, Manual,1100, 2WD, Petrol, Maroon ,8,7100,USED,Rs. 1350000
+Hyundai,santro,2009, Manual,1100, 2WD, Petrol, Gray ,7,37000,USED,Rs. 1200000
+Hyundai,i20,2011, Manual,1200, 2WD, Petrol, Silver,9,6500,USED,Rs. 2200000
+Hyundai,i10,2009, Manual,1200, 2WD, Petrol, Silver,7,40000,USED,Rs. 1400000
+Hyundai,santro,2008, Manual,1100, 2WD, Petrol, Light Golden,6,40000,USED,Rs. 1200000
+Hyundai,santro,2002, Manual,1100, 2WD, Petrol, Black,4,58000,USED,Rs. 725000
+Hyundai,i10,2009, Manual,1200, 2WD, Petrol, Red,7,32000,USED,Rs. 1400000
+Hyundai,i10,2008, Manual,1200, 2WD, Petrol, Gray,6,37000,USED,Rs. 1325000
+Hyundai,santro,2006, Manual,1100, 2WD, Petrol, golden ,5,50000,USED,Rs. 1100000
+Hyundai,i10,2010, Manual,1200, 2WD, Petrol, Gold,8,30000,USED,Rs. 1525000
+Hyundai,i10,2010, Manual,1200, 2WD, Petrol, red,7,28000,USED,Rs. 1590000
+Hyundai,asta,2014, Manual,1200, 2WD, Petrol, Silver,12,14000,USED,Rs. 2550000
+Hyundai,santro,2014, Manual,1100, 2WD, Petrol, Maroon,12,3000,USED,Rs. 1700000
+Hyundai,i20,2010, Manual,1200, 2WD, Petrol, Dark Grey,8,31442,USED,Rs. 1900000
+Hyundai,santro,2010, Manual,1100, 2WD, Petrol, Red,8,47000,USED,Rs. 1325000
+Hyundai,i10,2011, Manual,1200, 2WD, Petrol, Maroon,9,9000,USED,Rs. 1750000
+Hyundai,i10,2012, Manual,1200, 2WD, Petrol, silver,10,27000,USED,Rs. 1725000
+Hyundai,i10,2009, Manual,1200, 2WD, Petrol, grey,7,30000,USED,Rs. 1425000
+Hyundai,santro,2005, Manual,1100, 2WD, Petrol, Gray,5,44000,USED,Rs. 1050000
+Hyundai,asta,2014, Manual,1200, 2WD, Petrol, Gray ,10,9000,USED,Rs. 2450000
+Hyundai,i10,2012, Manual,1200, 2WD, Petrol, Gray,9,24000,USED,Rs. 1800000
+Hyundai,i10,2009, Manual,1200, 2WD, Petrol, shympain Gold,7,48000,USED,Rs. 1400000
+Hyundai,santro,2009, Manual,1100, 2WD, Petrol, Red,7,37000,USED,Rs. 1225000
+Hyundai,santro,2002, Manual,1000, 2WD, Petrol, Light Golden,4,58000,USED,Rs. 750000
+Hyundai,tucson,2009, Manual,2000, 4WD, Diesel, Aqua Silver,8,27000,USED,Rs. 3700000
+Hyundai,i10,2011, Manual,1200, 2WD, Petrol, Gray,9,26000,USED,Rs. 1750000
+Hyundai,asta,2014, Manual,1200, 2WD, Petrol, Gray ,12,120000,USED,Rs. 2425000
+Hyundai,santro,2009, Manual,1100, 2WD, Petrol, golden ,7,36000,USED,Rs. 1200000
+Hyundai,tucson,2004, Manual,2000, 4WD, Petrol, Silver ,5,41000,USED,Rs. 2400000
+Hyundai,i10,2010, Manual,1200, 2WD, Petrol, Blushing Red,8,32000,USED,Rs. 1575000
+Hyundai,accent,2000, Manual,1500, 2WD, Petrol, Milky white ,3,56000,USED,Rs. 650000
+Hyundai,i10,2008, Manual,1200, 2WD, Petrol, Silver,6,44000,USED,Rs. 1333333
+Hyundai,eon,2013, Manual,800, 2WD, Petrol, grey,11,50000,USED,Rs. 1450000
+Hyundai,asta,2014, Manual,1200, 2WD, Petrol, silver,12,8000,USED,Rs. 2154993
+Hyundai,accent,2001, Manual,1800, 2WD, Petrol, white,3,42000,USED,Rs. 700000
+Hyundai,asta,2010, Manual,1200, 2WD, Petrol, Grey ,8,38000,USED,Rs. 1825000
+Hyundai,tucson,2009, Manual,2000, 2WD, Diesel, Blue sky ,7,49000,USED,Rs. 3400000
+Hyundai,i20,2006, Manual,1500, 2WD, Petrol, Red,7,50000,USED,Rs. 900000
+Hyundai,asta,2010, Manual,1300, 2WD, Petrol, Gray ,8,38000,USED,Rs. 1800000
+Hyundai,eon,2012, Manual,800, 2WD, Petrol, Silky silver ,10,23000,USED,Rs. 1325000
+Hyundai,asta,2014, Manual,1200, 2WD, Petrol, silver,12,80000,USED,Rs. 2150000
+Hyundai,i10,2008, Manual,1200, 2WD, Petrol, silver ,6,39000,USED,Rs. 1350000
+Hyundai,i10,2010, Manual,1200, 2WD, Petrol, Silky silver ,13,34000,USED,Rs. 1550000
+Hyundai,santro,2008, Manual,1000, 2WD, Petrol, golden ,6,37000,USED,Rs. 850000
+Hyundai,i10,2008, Manual,1200, 2WD, Petrol, Grey ,6,39000,USED,Rs. 1350000
+Hyundai,asta,2009, Manual,1400, 2WD, Diesel, sampion gold,7,46000,USED,Rs. 1825000
+Hyundai,i10,2009, Manual,1200, 2WD, Petrol, Gray ,7,36000,USED,Rs. 1400000
+Hyundai,getz,2009, Manual,1400, 2WD, Petrol, Black,7,35600,USED,Rs. 1400000
+Hyundai,tucson,2011, Manual,2000, 2WD, Diesel, White ,11,90000,USED,Rs. 1000000
+Hyundai,i10,2009, Manual,1200, 2WD, Petrol, Maroon ,9,26000,USED,Rs. 1650000
+Hyundai,i10,2009, Manual,1100, 2WD, Petrol, BLUE,7,35000,USED,Rs. 1350000
+Hyundai,i10,2009, Manual,1100, 2WD, Petrol, Marron,7,28000,USED,Rs. 1350000
+Hyundai,eon,2012, Manual,800, 2WD, Petrol, Gray ,9,22000,USED,Rs. 1190000
+Hyundai,i10,2010, Manual,1200, 2WD, Petrol, Maroon,8,33000,USED,Rs. 1500000
+Hyundai,eon,2012, Manual,800, 2WD, Petrol, Silky silver ,10,23000,USED,Rs. 1325000
+Hyundai,accent,2007, Manual,1200, 2WD, Petrol, Whisky Blue,6,45000,USED,Rs. 1500000
+Hyundai,i10,2013, Manual,1200, 2WD, Petrol, Grey ,11,17000,USED,Rs. 1750000
+Hyundai,i10,2010, Manual,1100, 2WD, Petrol, GRAY,9,27950,USED,Rs. 1525000
+Hyundai,asta,2009, Manual,1200, 2WD, Petrol, Blue ,7,34000,USED,Rs. 1775000
+Hyundai,i10,2010, Manual,1200, 2WD, Petrol, Grey,9,40000,USED,Rs. 1550000
+Hyundai,tucson,2008, Manual,2000, 4WD, Diesel, teal blue,6,64272,USED,Rs. 3175000
+Hyundai,sonata,2010, Manual,2000, 2WD, Petrol, Grey,8,9000,USED,Rs. 4000000
+Hyundai,asta,2014, Manual,1200, 2WD, Petrol, Wine Red,12,11000,USED,Rs. 2550000
+Hyundai,i10,2008, Manual,1200, 2WD, Petrol, silky silver,8,27000,USED,Rs. 1700000
+Hyundai,santro,2006, Manual,1100, 2WD, Petrol, Maroon,6,59000,USED,Rs. 1075000
+Hyundai,i10,2011, Manual,1100, 2WD, Petrol, Red,9,38000,USED,Rs. 1675000
+Hyundai,i10,2010, Manual,1200, 2WD, Petrol, silver,12,48000,USED,Rs. 1300000
+Hyundai,santro,2007, Manual,1100, 2WD, Petrol, Grey,5,50000,USED,Rs. 1200000
+Hyundai,santro,2004, Manual,1100, 2WD, Petrol, Silver,4,34000,USED,Rs. 845000
+Hyundai,i10,2009, Manual,1200, 2WD, Petrol, Silver,9,28000,USED,Rs. 1425000
+Hyundai,tucson,2006, Manual,2000, 4WD, Diesel, Silver,13,45890,USED,Rs. 2900000
+Hyundai,i10,2009, Manual,1200, 2WD, Petrol, yellow ,8,31000,USED,Rs. 1500000
+Hyundai,i10,2010, Manual,1200, 2WD, Petrol, Maroon ,8,33000,USED,Rs. 1500000
+Hyundai,asta,2010, Manual,1200, 2WD, Petrol, Silver,10,23000,USED,Rs. 1850000
+Hyundai,i10,2010, Manual,1200, 2WD, Petrol, Dark grey,8,32000,USED,Rs. 1575000
+Hyundai,i10,2009, Automatic,1200, 2WD, Petrol, grey,7,21000,USED,Rs. 1450000
+Hyundai,santro,2003, Manual,1100, 2WD, Petrol, Silver,5,66000,USED,Rs. 850000
+Hyundai,santro,2003, Manual,1100, 2WD, Petrol, white,5,60000,USED,Rs. 785000
+Hyundai,i10,2009, Automatic,1100, 2WD, Petrol, siver,7,45000,USED,Rs. 1175000
+Hyundai,tucson,2009, Manual,2000, 2WD, Diesel, Blue,9,50000,USED,Rs. 3500000
+Hyundai,santro,2001, Manual,1100, 2WD, Petrol, Silver,3,70000,USED,Rs. 700000
+Hyundai,santro,2003, Manual,1100, 2WD, Petrol, Blue,5,52000,USED,Rs. 825000
+Hyundai,i10,2011, Automatic,1200, 2WD, Petrol, silk silver,9,30000,USED,Rs. 1750000
+Hyundai,i10,2009, Manual,1200, 2WD, Petrol, Marron,7,28000,USED,Rs. 1450000
+Hyundai,tucson,2009, Manual,2000, 4WD, Diesel, Carbon Grey,1,49000,USED,Rs. 3700000
+Hyundai,tucson,2009, Manual,2000, 4WD, Diesel, Black,12,36195,USED,Rs. 3250000
+Hyundai,santro,2000, Manual,1000, 2WD, Petrol, DARK GREEN,3,50000,USED,Rs. 675000
+Hyundai,i20,2004, Manual,1500, 2WD, Diesel, blue sky,5,81000,USED,Rs. 800000
+Hyundai,santro,2009, Manual,1100, 2WD, Petrol, SILVER,7,350000,USED,Rs. 1375000
+Hyundai,i10,2008, Manual,1200, 2WD, Petrol, Silver ,6,35000,USED,Rs. 1225000
+Hyundai,santro,2001, Manual,1100, 2WD, Petrol, Silver,3,57000,USED,Rs. 750000
+Hyundai,santro,2007, Manual,1000, 2WD, Petrol, Light golden,6,50000,USED,Rs. 925000
+Hyundai,i10,2009, Manual,1200, 2WD, Petrol, Silver,9,42000,USED,Rs. 1315000
+Hyundai,tucson,2006, Manual,2000, 4WD, Diesel, silver,5,32000,USED,Rs. 2700000
+Hyundai,eon,2014, Manual,800, 2WD, Petrol, Grey,13,16000,USED,Rs. 1765000
+Hyundai,santro,2003, Manual,1100, 2WD, Petrol, Sky Blue,4,85000,USED,Rs. 700000
+Hyundai,asta,2010, Manual,1200, 2WD, Petrol, Golden,8,32000,USED,Rs. 1825000
+Hyundai,santro,2007, Manual,1200, 2WD, Petrol, White,6,40000,USED,Rs. 1150000
+Hyundai,santro,2005, Manual,1100, 2WD, Petrol, grey,9,43000,USED,Rs. 1050000
+Hyundai,santro,2005, Manual,1200, 2WD, Petrol, Silver ,5,52000,USED,Rs. 925000
+Hyundai,santro,2009, Manual,1200, 2WD, Petrol, Black ,7,34000,USED,Rs. 1250000
+Hyundai,eon,2014, Manual,800, 2WD, Petrol, blur,12,7000,USED,Rs. 170000
+Hyundai,i20,2012, Manual,1200, 4WD, Petrol, Red maron,9,14135,USED,Rs. 2300000
+Hyundai,tucson,2009, Manual,2000, 4WD, Diesel, Blue sky,7,44000,USED,Rs. 3400000
+Hyundai,i10,2011, Manual,1200, 2WD, Petrol, silvar,9,32000,USED,Rs. 1625000
+Hyundai,santro,2010, Manual,1100, 2WD, Petrol, SILVER,8,24000,USED,Rs. 1375000
+Hyundai,eon,2012, Manual,800, 2WD, Petrol, Silver ,10,14000,USED,Rs. 1375000
+Hyundai,santro,2007, Manual,1100, 2WD, Petrol, SILVER,6,32000,USED,Rs. 1200000
+Hyundai,santro,2009, Manual,1100, 2WD, Petrol, black,7,35000,USED,Rs. 1225000
+Hyundai,asta,2010, Manual,1200, 2WD, Petrol, Gray ,8,32000,USED,Rs. 1850000
+Hyundai,santro,2006, Manual,1100, 2WD, Petrol, real earth,5,35000,USED,Rs. 950000
+Hyundai,asta,2010, Manual,1200, 2WD, Petrol, Blue,7,43000,USED,Rs. 1849000
+Hyundai,getz,2005, Manual,1300, 2WD, Petrol, Sky Blue ,5,34000,USED,Rs. 1025000
+Hyundai,i10,2012, Manual,1200, 2WD, Petrol, CARBON GREY,10,15000,USED,Rs. 1650000
+Hyundai,santro,2002, Manual,1100, 2WD, Petrol, Black,12,78000,USED,Rs. 750000
+Hyundai,i10,2010, Manual,1100, 2WD, Petrol, Blue ,8,31000,USED,Rs. 1375000
+Hyundai,eon,2013, Manual,800, 2WD, Petrol, Blue ,10,12000,USED,Rs. 1425000
+Hyundai,i10,2009, Manual,1200, 2WD, Petrol, gray,7,32000,USED,Rs. 1375000
+Hyundai,i10,2011, Manual,1200, 2WD, Petrol, Gray ,9,30000,USED,Rs. 1625000
+Hyundai,santro,2003, Manual,1100, 2WD, Petrol, Silver,4,46000,USED,Rs. 785000
+Hyundai,santro,2003, Manual,1100, 2WD, Petrol, White,5,59336,USED,Rs. 800000
+Hyundai,i10,2010, Manual,1200, 2WD, Petrol, Black,8,18000,USED,Rs. 1450000
+Hyundai,i10,2010, Manual,1200, 2WD, Petrol, silky silver,9,26000,USED,Rs. 1625000
+Hyundai,tucson,2002, Manual,2000, 4WD, Petrol, Sky Blue,4,63100,USED,Rs. 1450000
+Hyundai,tucson,2008, Manual,2000, 4WD, Diesel, maroon ,6,34000,USED,Rs. 3250000
+Hyundai,eon,2012, Manual,800, 2WD, Petrol, blue ,10,35000,USED,Rs. 1325000
+Hyundai,asta,2012, Manual,1200, 2WD, Petrol, Black,7,37000,USED,Rs. 1530000
+Hyundai,i10,2011, Manual,1100, 2WD, Petrol, standard red,9,22000,USED,Rs. 1650000
+Hyundai,santro,2009, Manual,1100, 2WD, Petrol, maroon red,7,37000,USED,Rs. 1235000
+Hyundai,santro,2008, Manual,1000, 2WD, Petrol, Grey,8,74000,USED,Rs. 1000000
+Hyundai,santro,2006, Manual,1100, 2WD, Petrol, light grey metalic,5,70000,USED,Rs. 975000
+Hyundai,santro,2007, Manual,1100, 2WD, Petrol, golden,6,47000,USED,Rs. 1140000
+Hyundai,santro,2008, Manual,1100, 2WD, Petrol, silver,12,37000,USED,Rs. 1275000
+Hyundai,i10,2011, Manual,1200, 2WD, Petrol, Sleek Silver,9,16630,USED,Rs. 1950000
+Hyundai,i10,2012, Manual,1200, 2WD, Petrol, CARBON GREY,9,11000,USED,Rs. 1875000
+Hyundai,santro,2007, Manual,1100, 2WD, Petrol, sampion gold,12,42000,USED,Rs. 1175000
+Hyundai,santro,2007, Manual,1100, 2WD, Petrol, SILVER,1,65000,USED,Rs. 850000
+Hyundai,eon,2012, Manual,800, 2WD, Petrol, dark blue ,10,23000,USED,Rs. 1425000
+Hyundai,i10,2011, Manual,1200, 2WD, Petrol, Silver,11,27000,USED,Rs. 1750000
+Hyundai,i10,2011, Manual,1100, 2WD, Petrol, silver,9,23000,USED,Rs. 1625000
+Hyundai,santro,2007, Manual,1100, 2WD, Petrol, silky silver,6,37000,USED,Rs. 1195000
+Hyundai,i10,2011, Manual,1200, 2WD, Petrol, maroon,9,23000,USED,Rs. 1775000
+Hyundai,i10,2009, Manual,1200, 2WD, Petrol, BG BLACK,6,35000,USED,Rs. 1450000
+Hyundai,eon,2013, Manual,800, 2WD, Petrol, WHITE,10,11000,USED,Rs. 1475000
+Hyundai,i10,2011, Manual,1200, 2WD, Petrol, grenyet red,9,23000,USED,Rs. 1825000
+Hyundai,santro,2000, Manual,1000, 2WD, Petrol, LIGHT BLUE,3,75000,USED,Rs. 650000
+Hyundai,i20,2011, Manual,1400, 2WD, Diesel, RED,11,17000,USED,Rs. 1950000
+Hyundai,i10,2010, Manual,1200, 2WD, Petrol,  silver,9,26000,USED,Rs. 1625000
+Hyundai,santro,2007, Manual,1100, 2WD, Petrol, Maroon metallic,5,57000,USED,Rs. 1150000
+Hyundai,i10,2010, Manual,1200, 2WD, Petrol, Grey,8,36000,USED,Rs. 1550000
+Hyundai,tucson,2005, Manual,2000, 2WD, Diesel, Silky Silver,5,43000,USED,Rs. 2550000
+Hyundai,i10,2009, Manual,1200, 2WD, Petrol, silver,7,31000,USED,Rs. 1395000
+Hyundai,elantra,2013, Manual,1600, 2WD, Petrol, Creamy white,11,12000,USED,Rs. 4800000
+Hyundai,i10,2008, Manual,1100, 2WD, Petrol, Silver ,6,35000,USED,Rs. 1250000
+Hyundai,eon,2012, Manual,800, 2WD, Petrol, Blue,11,12500,USED,Rs. 1425000
+Hyundai,santro,2008, Manual,1100, 2WD, Petrol, Silky silver,6,30000,USED,Rs. 1265000
+Hyundai,santro,2010, Manual,1100, 2WD, Petrol, Black,8,25000,USED,Rs. 1290000
+Hyundai,i10,2013, Manual,1200, 2WD, Petrol, Silver ,11,17000,USED,Rs. 1775000
+Hyundai,tucson,2009, Manual,2000, 4WD, Diesel, Sky Blue,7,41000,USED,Rs. 3450000
+Hyundai,eon,2013, Manual,800, 2WD, Petrol, Silver,12,16000,USED,Rs. 1460000
+Hyundai,santro,2000, Manual,1100, 2WD, Petrol, Light Gold,3,95000,USED,Rs. 650000
+Hyundai,getz,2007, Manual,1400, 2WD, Petrol, sky blue,6,60000,USED,Rs. 1050000
+Hyundai,santro,2009, Manual,1100, 2WD, Petrol, Silver,7,36000,USED,Rs. 1225000
+Hyundai,i10,2010, Manual,1200, 2WD, Petrol, Dark grey,8,33000,USED,Rs. 1575000
+Hyundai,asta,2010, Manual,1200, 2WD, Petrol, White,7,55000,USED,Rs. 1875000
+Hyundai,i10,2010, Manual,1200, 2WD, Petrol, Silver,8,31800,USED,Rs. 1625000
+Hyundai,santro,2010, Manual,1100, 2WD, Petrol, Grey,8,37000,USED,Rs. 1390000
+Hyundai,santro,2006, Manual,1100, 2WD, Petrol, Troquoise Blue,5,65000,USED,Rs. 900000
+Hyundai,getz,2005, Manual,1300, 2WD, Petrol, black,5,35000,USED,Rs. 1425000
+Hyundai,i10,2014, Manual,1200, 2WD, Petrol, Gray &Black,11,6660,USED,Rs. 2250000
+Hyundai,getz,2008, Manual,1300, 2WD, Petrol, Maroon ,6,34000,USED,Rs. 1300000
+Hyundai,elantra,2013, Manual,1600, 2WD, Petrol, Creamy White,12,12000,USED,Rs. 5000000
+Hyundai,asta,2014, Manual,1200, 2WD, Petrol, White,12,3500,USED,Rs. 2499000
+Hyundai,i10,2009, Manual,1200, 2WD, Petrol, Silver,7,34000,USED,Rs. 1375000
+Hyundai,getz,2007, Manual,1400, 2WD, Petrol, skyblue,5,30000,USED,Rs. 1550000
+Hyundai,santro,2014, Manual,1100, 2WD, Petrol, Silky silver,11,9000,USED,Rs. 1425000
+Hyundai,santro,2010, Manual,1100, 2WD, Petrol, red,8,53000,USED,Rs. 1340000
+Hyundai,i10,2011, Manual,1200, 2WD, Petrol, Maroon ,9,26000,USED,Rs. 1700000
+Hyundai,i20,2010, Manual,1200, 2WD, Petrol, White,10,27000,USED,Rs. 1899999
+Hyundai,tucson,2008, Manual,2000, 4WD, Diesel, maroon red,6,37000,USED,Rs. 3300000
+Hyundai,santro,2007, Manual,1000, 2WD, Petrol, SILVER,1,45000,USED,Rs. 850000
+Hyundai,i10,2010, Manual,1200, 2WD, Petrol, Grey,7,25000,USED,Rs. 1475000
+Hyundai,asta,2007, Manual,1500, 2WD, Diesel, Silver,9,20000,USED,Rs. 1650000
+Hyundai,eon,2012, Manual,800, 2WD, Petrol, gray ,9,24000,USED,Rs. 1250000
+Hyundai,i10,2013, Manual,1200, 2WD, Petrol, silver,10,22000,USED,Rs. 1900000
+Hyundai,santro,2003, Manual,1000, 2WD, Petrol, Black,4,35000,USED,Rs. 750000
+Hyundai,santro,2009, Manual,1100, 2WD, Petrol, berry red,7,19000,USED,Rs. 1325000
+Hyundai,santro,2008, Manual,1100, 2WD, Petrol, SILVER,6,39000,USED,Rs. 1225000
+Hyundai,i10,2012, Manual,1200, 2WD, Petrol, CARBON GREY,10,15000,USED,Rs. 1725000
+Hyundai,i10,2013, Manual,1100, 2WD, Petrol, SILVER,10,15000,USED,Rs. 1950000
+Hyundai,asta,2009, Manual,1500, 2WD, Diesel, Silver,9,40000,USED,Rs. 1850000
+Hyundai,eon,2013, Manual,800, 2WD, Petrol, White,10,9500,USED,Rs. 1525000
+Hyundai,santro,2012, Manual,1100, 2WD, Petrol, Black,10,3700,USED,Rs. 1575000
+Hyundai,asta,2010, Manual,1200, 2WD, Petrol, Black,8,32000,USED,Rs. 1990000
+Hyundai,i10,2009, Manual,1200, 2WD, Petrol, Grey,7,27000,USED,Rs. 1380000
+Hyundai,eon,2012, Manual,800, 2WD, Petrol, Gray,9,18000,USED,Rs. 1325000
+Hyundai,santro,2007, Manual,1100, 2WD, Petrol, Maroon ,6,38000,USED,Rs. 1150000
+Hyundai,asta,2013, Manual,1200, 2WD, Petrol, Carbon Grey,11,9000,USED,Rs. 2350000
+Hyundai,santro,2006, Manual,1000, 2WD, Petrol, Silver,6,45000,USED,Rs. 850000
+Hyundai,tucson,2004, Manual,2000, 4WD, Diesel, Silver ,12,51000,USED,Rs. 2450000
+Hyundai,i10,2009, Manual,1200, 2WD, Petrol, Red,7,24500,USED,Rs. 1550000
+Hyundai,i10,2009, Manual,1200, 2WD, Petrol, Apline Blue,7,35000,USED,Rs. 1440000
+Hyundai,getz,2008, Manual,1400, 2WD, Petrol, ldark skyblue,6,58000,USED,Rs. 1450000
+Hyundai,asta,2010, Manual,1200, 2WD, Petrol, White,10,18000,USED,Rs. 2050000
+Hyundai,santro,2007, Manual,1000, 2WD, Petrol, Silver,6,80000,USED,Rs. 1000000
+Hyundai,i10,2013, Manual,1200, 2WD, Petrol, Silver,11,6700,USED,Rs. 2325000
+Hyundai,santro,2005, Manual,1000, 2WD, Petrol, Sliver,5,80000,USED,Rs. 102500
+Hyundai,santro,2006, Manual,1100, 2WD, Petrol, light blue  ,5,35000,USED,Rs. 1050000
+Hyundai,eon,2014, Manual,800, 2WD, Petrol, Red,12,1200,USED,Rs. 1700000
+Hyundai,santro,2009, Manual,1100, 2WD, Petrol, White,7,27050,USED,Rs. 1350000
+Hyundai,i10,2010, Manual,1200, 2WD, Petrol, Grey,10,30000,USED,Rs. 1575000
+Hyundai,asta,2010, Manual,1200, 2WD, Petrol, Grey,10,35000,USED,Rs. 1875000
+Hyundai,i20,2010, Manual,1200, 2WD, Petrol, maroon,10,38000,USED,Rs. 1725000
+Hyundai,i10,2009, Manual,1100, 2WD, Petrol, Grey ,7,80000,USED,Rs. 1400000
+Hyundai,i10,2009, Manual,1200, 2WD, Petrol, Champen Gold,9,40000,USED,Rs. 1425000
+Hyundai,asta,2009, Manual,1200, 2WD, Petrol, Silver,7,105000,USED,Rs. 1900000
+Hyundai,asta,2005, Manual,1500, 2WD, Diesel, Grey,5,58000,USED,Rs. 1450000
+Hyundai,i10,2011, Manual,1200, 2WD, Petrol, Sampain Gold,9,19000,USED,Rs. 1775000
+Hyundai,santro,2009, Manual,1100, 2WD, Petrol, Silver,9,29000,USED,Rs. 1240000
+Hyundai,santro,2007, Manual,1100, 2WD, Petrol, Cream,6,32000,USED,Rs. 1170000
+Hyundai,i10,2010, Manual,1200, 2WD, Petrol, Carbon Grey,9,40000,USED,Rs. 1515000
+Hyundai,accent,2009, Manual,1400, 2WD, Petrol, Mid nite grey,9,31000,USED,Rs. 1690000
+Hyundai,i20,2003, Manual,1500, 2WD, Petrol, Blue,5,74000,USED,Rs. 950000
+Hyundai,getz,2005, Manual,1300, 2WD, Petrol, Dark Blue,5,62000,USED,Rs. 1050000
+Hyundai,asta,2010, Manual,1200, 2WD, Petrol, Silver,10,23000,USED,Rs. 2050000
+Hyundai,santro,2007, Manual,1100, 2WD, Petrol, light blue ,5,36000,USED,Rs. 1150000
+Hyundai,accent,2007, Manual,1600, 2WD, Petrol, Sky Blue,6,28000,USED,Rs. 1850000
+Hyundai,santro,2004, Manual,1100, 2WD, Petrol, grey,4,57000,USED,Rs. 1000000
+Hyundai,i10,2009, Manual,1100, 2WD, Petrol, Maroon Red,7,23000,USED,Rs. 1450000
+Hyundai,i10,2009, Manual,1200, 2WD, Petrol, White,7,25000,USED,Rs. 1425000
+Hyundai,tucson,2009, Manual,2000, 2WD, Diesel, Teal Green,7,42000,USED,Rs. 3500000
+Hyundai,tucson,2012, Manual,2000, 4WD, Diesel, Brown,10,24000,USED,Rs. 5600000
+Hyundai,asta,2010, Manual,1200, 2WD, Petrol, Maroon Red,10,12700,USED,Rs. 2100000
+Hyundai,santro,2000, Manual,1100, 2WD, Petrol, Green,3,57000,USED,Rs. 700000
+Hyundai,getz,2008, Automatic,1400, 2WD, Petrol, Blue,7,67000,USED,Rs. 1350000
+Hyundai,i10,2011, Manual,1200, 2WD, Petrol, Grey,11,25800,USED,Rs. 1650000
+Hyundai,santro,2008, Manual,1000, 2WD, Petrol, Dark Blue,2,37500,USED,Rs. 1190000
+Hyundai,santro,2009, Manual,1100, 2WD, Petrol, Blue,7,37000,USED,Rs. 1250000
+Hyundai,santro,2006, Automatic,1100, 2WD, Petrol, Metalic Red,6,43000,USED,Rs. 1125000
+Hyundai,i10,2009, Manual,1200, 2WD, Petrol, White,9,29000,USED,Rs. 1385000
+Hyundai,i10,2009, Manual,1200, 2WD, Petrol, Silver,7,50000,USED,Rs. 1250000
+Hyundai,santro,2008, Manual,1100, 2WD, Petrol, Metallic Silver,6,37500,USED,Rs. 1400000
+Hyundai,tucson,2011, Manual,2000, 4WD, Diesel, Grey,9,30000,USED,Rs. 5700000
+Hyundai,i10,2009, Manual,1200, 2WD, Petrol, grey,7,29000,USED,Rs. 1575000
+Hyundai,santro,2006, Manual,1100, 2WD, Petrol, Silver,6,45000,USED,Rs. 1225000
+Hyundai,asta,2006, Manual,1500, 2WD, Diesel, Silver,5,51115,USED,Rs. 1425000
+Hyundai,asta,2003, Manual,1500, 2WD, Diesel, red,3,58400,USED,Rs. 1000000
+Hyundai,santro,2000, Manual,1000, 2WD, Petrol, Green,3,44000,USED,Rs. 650000
+Hyundai,i10,2013, Manual,1200, 2WD, Petrol, Silver,10,17000,USED,Rs. 1900000
+Hyundai,asta,2003, Manual,1500, 2WD, Diesel, Red,6,45000,USED,Rs. 1250000
+Hyundai,i10,2010, Manual,1200, 2WD, Petrol, Red,8,29660,USED,Rs. 1575000
+Hyundai,tucson,2014, Manual,2000, 4WD, Diesel, Grey,7,28338,USED,Rs. 3600000
+Hyundai,i10,2009, Manual,1200, 2WD, Petrol, Red,7,29376,USED,Rs. 1475000
+Hyundai,accent,2009, Manual,1400, 2WD, Petrol, Blue,7,43623,USED,Rs. 1600000
+Kia,sephia,2007, Manual,1500, 2WD, Petrol, Red,2,90000,USED,Rs. 1300000
+Kia,sportage,2010, Manual,2000, 2WD, Petrol, Blue Metalic,8,51000,USED,Rs. 3250000
+Kia,sportage,2010, Manual,2000, 4WD, Petrol, Grey,8,48000,USED,Rs. 3700000
+Kia,sportage,2006, Manual,2000, 4WD, Diesel, Silver,1,66000,USED,Rs. 2050000
+Kia,sportage,2011, Manual,2000, 4WD, Diesel, Red,8,44000,USED,Rs. 4600000
+Kia,sportage,2005, Manual,2000, 4WD, Diesel, Black,5,59000,USED,Rs. 2175000
+Kia,picanto,2006, Manual,1100, 2WD, Petrol, Red,5,34859,USED,Rs. 870000
+Kia,sportage,2011, Manual,2000, 4WD, Petrol, grey,9,43000,USED,Rs. 4150000
+Kia,picanto,2010, Manual,1200, 2WD, Petrol, PURPLE,1,65000,USED,Rs. 1050000
+Kia,picanto,2011, Manual,1100, 2WD, Petrol, Blue,19,55000,USED,Rs. 1075000
+Kia,sportage,2011, Manual,2000, 2WD, Diesel, Silver,9,43000,USED,Rs. 5200000
+Kia,picanto,2007, Manual,1100, 2WD, Petrol, Red,6,47500,USED,Rs. 900000
+Kia,picanto,2005, Manual,1100, 2WD, Petrol, Blue,5,50000,USED,Rs. 925000
+Kia,sportage,2011, Manual,2000, 4WD, Diesel, Silver,9,42000,USED,Rs. 5250000
+Kia,rio,2003, Manual,1350, 2WD, Petrol, Green,4,90000,USED,Rs. 650000
+Kia,picanto,2004, Manual,1100, 2WD, Petrol, black,5,63000,USED,Rs. 650000
+Kia,soul,2010, Manual,1600, 2WD, Petrol, Vanilla sake,8,35000,USED,Rs. 3200000
+Kia,picanto,2010, Manual,1100, 2WD, Petrol, Diamond Blue,9,27500,USED,Rs. 1260000
+Kia,sportage,2011, Manual,2000, 4WD, Diesel, Red,8,39000,USED,Rs. 4400000
+Kia,rio,2004, Manual,1400, 2WD, Petrol, silky silver,5,75000,USED,Rs. 750000
+Kia,sephia,2004, Manual,1400, 2WD, Petrol, silver,4,65000,USED,Rs. 875000
+Kia,sportage,2011, Manual,2000, 4WD, Petrol, silver,9,23000,USED,Rs. 4099999
+Kia,picanto,2004, Manual,1100, 2WD, Petrol, Black,5,62500,USED,Rs. 625000
+Kia,sportage,2008, Manual,2000, 4WD, Petrol, blue,6,55000,USED,Rs. 2850000
+Kia,carens,2003, Manual,2000, 2WD, Diesel, Silver Metallic Smoke Grey ,8,55000,USED,Rs. 1050000
+Kia,carens,2005, Manual,2000, 2WD, Diesel, Silver,5,95014,USED,Rs. 1150000
+Kia,sportage,2001, Manual,2000, 4WD, Petrol, Metalic Black,3,70000,USED,Rs. 1200000
+Kia,picanto,2009, Manual,1100, 2WD, Petrol, Grey,7,40000,USED,Rs. 1000000
+Kia,picanto,2008, Manual,1100, 2WD, Petrol, Blue,6,37000,USED,Rs. 1075000
+Kia,soul,2014, Manual,1600, 2WD, Diesel, Red,14,360000,USED,Rs. 4200000
+Kia,picanto,2011, Manual,1200, 2WD, Petrol, grey,10,25000,USED,Rs. 1500000
+Kia,picanto,2014, Automatic,1250, 2WD, Petrol, Titanium Silver,12,16000,USED,Rs. 2375000
+Kia,picanto,2008, Manual,1100, 2WD, Petrol, Blue,6,50000,USED,Rs. 1100000
+Kia,rio,2007, Manual,1400, 2WD, Petrol, Silver,6,70000,USED,Rs. 1100000
+Kia,picanto,2011, Manual,1200, 2WD, Petrol, brown ,10,29000,USED,Rs. 1500000
+Kia,sportage,2008, Manual,2000, 2WD, Diesel, Silver,6,45000,USED,Rs. 2850000
+Kia,picanto,2010, Manual,1100, 2WD, Petrol, Blue,9,27000,USED,Rs. 1300000
+Kia,picanto,2010, Manual,1100, 2WD, Petrol, Silver ,8,57000,USED,Rs. 1225000
+Kia,picanto,2011, Automatic,1250, 2WD, Petrol, Grey,9,35000,USED,Rs. 1975000
+Kia,sportage,2010, Manual,2000, 4WD, Diesel, vintage blue,8,43000,USED,Rs. 4400000
+Kia,sportage,2011, Manual,2000, 4WD, Diesel, Mineral silver,9,32000,USED,Rs. 5250000
+Kia,sportage,2009, Manual,2000, 2WD, Petrol, Black,7,50000,USED,Rs. 2300000
+Kia,picanto,2012, Automatic,1200, 2WD, Petrol, Grey,10,24000,USED,Rs. 2150000
+Kia,sportage,2010, Manual,2000, 4WD, Diesel, Silver,8,31000,USED,Rs. 4600000
+Kia,picanto,2006, Manual,1100, 2WD, Petrol, Blue,5,50000,USED,Rs. 875000
+Kia,picanto,2004, Manual,1100, 2WD, Petrol, Silver,5,45000,USED,Rs. 725000
+Kia,sephia,2003, Manual,1300, 2WD, Petrol, Black,3,56700,USED,Rs. 625000
+Kia,picanto,2007, Manual,1100, 2WD, Petrol, silky silver,6,69000,USED,Rs. 975000
+Kia,rio,2009, Manual,1400, 2WD, Petrol, black,7,25000,USED,Rs. 1450000
+Kia,sportage,2013, Manual,2000, 4WD, Petrol, Bright silver,11,10000,USED,Rs. 5600000
+Kia,picanto,2005, Manual,1100, 2WD, Petrol, Metallic Blue,5,57000,USED,Rs. 750000
+Kia,sportage,2011, Manual,2000, 4WD, Diesel, Sand Track,9,40000,USED,Rs. 5500000
+Kia,carens,2003, Manual,2000, 2WD, Diesel, SIlver Metallic Grey,8,55000,USED,Rs. 1350000
+Kia,picanto,2009, Manual,1100, 2WD, Petrol, Blue,7,40000,USED,Rs. 1225000
+Kia,sportage,2007, Manual,2000, 2WD, Diesel, Black,6,40000,USED,Rs. 2850000
+Kia,rio,2009, Manual,1400, 2WD, Petrol, Black,7,54000,USED,Rs. 1275000
+Kia,soul,2011, Manual,1600, 4WD, Petrol, Titanium ,9,62000,USED,Rs. 300000
+Kia,picanto,2004, Manual,1100, 2WD, Petrol, Blue,5,35400,USED,Rs. 950000
+Kia,rio,2004, Manual,1400, 2WD, Petrol, Silver,5,75000,USED,Rs. 800000
+Kia,sportage,2007, Manual,2000, 2WD, Diesel, Black,6,48000,USED,Rs. 2850000
+Kia,picanto,2008, Manual,1100, 2WD, Petrol, Gray ,6,40000,USED,Rs. 1100000
+Kia,rio,2011, Manual,1400, 2WD, Petrol, Grey ,9,37000,USED,Rs. 1650000
+Kia,picanto,2004, Manual,1100, 2WD, Petrol, silver,4,50000,USED,Rs. 825000
+Kia,picanto,2011, Manual,1250, 2WD, Petrol, Blue ,9,32000,USED,Rs. 1750000
+Kia,sportage,2015, Manual,2000, 4WD, Diesel, White,15,8500,USED,Rs. 7500000
+Kia,picanto,2009, Manual,1100, 2WD, Petrol, silver,12,40000,USED,Rs. 1175000
+Kia,picanto,2011, Manual,1250, 2WD, Petrol, Cafe Mocha,11,40000,USED,Rs. 2000000
+Kia,picanto,2011, Manual,1250, 4WD, Petrol, Red,9,62000,USED,Rs. 2300000
+Kia,cerato,2006, Manual,1600, 2WD, Petrol, Royal black,5,42000,USED,Rs. 1475000
+Kia,rio,2011, Manual,1400, 2WD, Petrol, Gray,9,30000,USED,Rs. 1550000
+Kia,sportage,2007, Manual,2000, 2WD, Petrol, Black,6,48000,USED,Rs. 2900000
+Kia,sportage,2011, Manual,2000, 4WD, Diesel, MINARAL SILVER,9,1995,USED,Rs. 4550000
+Kia,sephia,1999, Manual,1500, 2WD, Petrol, White,3,55000,USED,Rs. 650000
+Kia,sportage,2010, Manual,2000, 4WD, Diesel, white,8,44000,USED,Rs. 5100000
+Kia,picanto,2008, Manual,1100, 2WD, Petrol, silver,5,47251,USED,Rs. 850000
+Kia,picanto,2004, Manual,1100, 2WD, Petrol, Black,4,66000,USED,Rs. 880000
+Kia,sportage,2010, Manual,2000, 4WD, Diesel, metalic grey,6,25000,USED,Rs. 5025000
+Kia,sportage,2010, Manual,2000, 4WD, Petrol, BLACK,8,20800,USED,Rs. 4200000
+Kia,sportage,2010, Manual,1600, 4WD, Petrol, Black,8,22000,USED,Rs. 4200000
+Kia,sportage,2010, Automatic,2000, 4WD, Diesel, Bright Silver,8,33500,USED,Rs. 5700000
+Kia,sportage,2008, Manual,2000, 4WD, Diesel, Silver,6,52000,USED,Rs. 3000000
+Kia,sportage,2008, Manual,2000, 4WD, Diesel, Silver ,7,35000,USED,Rs. 3000000
+Kia,rio,2009, Manual,1400, 2WD, Petrol, White,7,35000,USED,Rs. 1400000
+Kia,sportage,2011, Manual,2000, 4WD, Diesel, BLACK,8,20000,USED,Rs. 4600000
+Kia,sportage,2011, Manual,2000, 4WD, Diesel, Brown,9,32287,USED,Rs. 4900000
+Kia,picanto,2008, Manual,1100, 2WD, Petrol, Blue,6,48074,USED,Rs. 1150000
+Kia,picanto,2011, Manual,1100, 2WD, Petrol, Blue sky ,9,26000,USED,Rs. 1750000
+Kia,cerato,2010, Manual,1600, 2WD, Petrol, Metallic Bronze,10,35000,USED,Rs. 2499000
+Kia,sportage,2003, Manual,2000, 4WD, Petrol, Blue,5,80000,USED,Rs. 1100000
+Kia,picanto,2007, Manual,1200, 2WD, Petrol, Blue,6,57000,USED,Rs. 975000
+Kia,picanto,2005, Manual,1100, 2WD, Petrol, orange ,5,85000,USED,Rs. 850000
+Kia,picanto,2011, Manual,1200, 2WD, Petrol, coffee mocha,9,12500,USED,Rs. 1475000
+Kia,rio,2007, Manual,1400, 2WD, Petrol, sampion gold,6,48000,USED,Rs. 1350000
+Kia,soul,2014, Manual,1600, 2WD, Diesel, Red,11,15000,USED,Rs. 4900000
+Kia,sportage,2003, Manual,2000, 2WD, Diesel, Maroon Red,8,45000,USED,Rs. 1650000
+Kia,rio,2009, Manual,1400, 2WD, Petrol, Red,1,31000,USED,Rs. 1600000
+Kia,sportage,2003, Manual,2000, 4WD, Diesel, Black,3,88000,USED,Rs. 1410000
+Kia,picanto,2005, Manual,1100, 2WD, Petrol, Silver,5,50000,USED,Rs. 875000
+Kia,soul,2010, Manual,1600, 2WD, Petrol, titanium silver ,10,28500,USED,Rs. 3000000
+Kia,rio,2012, Manual,1400, 2WD, Petrol, Grey,10,30000,USED,Rs. 2000000
+Kia,rio,2001, Manual,1350, 2WD, Petrol, blue metalic,3,52000,USED,Rs. 615000
+Kia,cerato,2006, Manual,1600, 2WD, Petrol, Light Sky Blue,5,30450,USED,Rs. 1600000
+Kia,picanto,2006, Manual,1200, 2WD, Petrol, Blue,5,54000,USED,Rs. 1000000
+Kia,sportage,2012, Manual,2000, 2WD, Diesel, Chocolate,10,15000,USED,Rs. 5750000
+Kia,sportage,2011, Manual,2000, 4WD, Diesel, black,8,19750,USED,Rs. 5500000
+Kia,sportage,2001, Automatic,2000, 4WD, Petrol, green,9,52000,USED,Rs. 1000000
+Kia,cerato,2007, Manual,1600, 2WD, Petrol, BLUE,6,42000,USED,Rs. 1450000
+Kia,sportage,2001, Automatic,2000, 4WD, Petrol, green,13,52000,USED,Rs. 1200000
+Kia,sportage,2010, Manual,2000, 4WD, Diesel, Metalic Silver,8,40000,USED,Rs. 5450000
+Kia,sportage,2000, Manual,2000, 4WD, Petrol, Blue,3,70000,USED,Rs. 1250000
+Kia,soul,2011, Manual,1600, 2WD, Petrol, Metallic Grey,9,48000,USED,Rs. 3100000
+Kia,cerato,2007, Manual,1600, 2WD, Petrol, Blue,6,42000,USED,Rs. 1500000
+Kia,sportage,2008, Manual,2000, 2WD, Diesel, Silver,8,30000,USED,Rs. 3200000
+Kia,picanto,2004, Manual,1100, 2WD, Petrol, Sky Blue,4,53000,USED,Rs. 890000
+Kia,picanto,2008, Manual,1250, 2WD, Petrol, Blue,8,22000,USED,Rs. 1175000
+Kia,picanto,2008, Automatic,1250, 2WD, Petrol, Royal Blue,6,17500,USED,Rs. 1180000
+Kia,rio,2003, Manual,1300, 2WD, Petrol, Metallic Grey,4,73000,USED,Rs. 790000
+Kia,sportage,2003, Manual,2000, 4WD, Petrol, Maroon,4,60000,USED,Rs. 1600000
+Kia,picanto,2006, Manual,1100, 2WD, Petrol, orange ,5,70000,USED,Rs. 1200000
+Kia,picanto,2004, Manual,1100, 2WD, Petrol, Black,4,80000,USED,Rs. 7700000
+Kia,cerato,2010, Manual,1600, 2WD, Petrol, Bright silver,10,28000,USED,Rs. 3100000
+Kia,sportage,2010, Manual,2000, 2WD, Diesel, Grey,8,34000,USED,Rs. 4500000
+Kia,picanto,2010, Manual,1200, 2WD, Petrol," blue,",8,45000,USED,Rs. 1400000
+Kia,sportage,2003, Manual,2000, 4WD, Petrol, Read,4,60000,USED,Rs. 1600000
+Kia,sportage,2003, Manual,2000, 4WD, Petrol, Read,4,60000,USED,Rs. 1600000
+Kia,sephia,2000, Manual,1500, 2WD, Petrol, Light Blue,3,80000,USED,Rs. 750000
+Kia,sportage,2006, Manual,2000, 4WD, Diesel, Black,5,60300,USED,Rs. 2600000
+Kia,sportage,2001, Manual,2000, 2WD, Petrol, Metallic Silver,4,72363,USED,Rs. 1100000
+Kia,sportage,2012, Manual,2000, 2WD, Petrol, Silver,9,17000,USED,Rs. 5000000
+Kia,rio,2004, Manual,1300, 2WD, Petrol, Silver,4,71118,USED,Rs. 975000
+Kia,picanto,2005, Manual,1100, 2WD, Petrol, Silver,5,44436,USED,Rs. 950000
+Land Rover,freelander,2008, Manual,2200, 4WD, Diesel, White,6,44500,USED,Rs. 8500000
+Land Rover,freelander,2007, Manual,2200, 4WD, Diesel, dark grey,6,110000,USED,Rs. 680000
+Land Rover,freelander,2010, Automatic,2200, 4WD, Diesel, LIGHT GREY,8,11000,USED,Rs. 9800000
+Land Rover,freelander,2009, Automatic,2200, 4WD, Diesel, silver,7,52000,USED,Rs. 9200000
+Land Rover,freelander,2005, Manual,2000, 2WD, Diesel, black,5,120000,USED,Rs. 4500000
+Land Rover,freelander,2010, Automatic,2000, 2WD, Diesel, SILVER,8,20000,USED,Rs. 7000000
+Land Rover,freelander,2008, Manual,2200, 4WD, Diesel, Grey,6,65000,USED,Rs. 7000000
+Land Rover,discovery,1996, Manual,2500, 4WD, Diesel, Silver,4,170000,USED,Rs. 1700000
+Land Rover,discovery,1996, Manual,2500, 4WD, Diesel, Silver,4,150000,USED,Rs. 1750000
+Land Rover,freelander,2009, Automatic,2200, 4WD, Diesel, Silver,7,36000,USED,Rs. 1050000
+Land Rover,discovery,2009, Automatic,2400, 2WD, Diesel, silver,8,34000,USED,Rs. 9800000
+Land Rover,discovery,1996, Manual,2800, 2WD, Diesel, White,4,203000,USED,Rs. 1125000
+Land Rover,freelander,2006, Manual,2000, 4WD, Diesel, Sea Green,6,63812,USED,Rs. 4800000
+Land Rover,freelander,2009, Manual,2200, 4WD, Diesel, Grey,7,47649,USED,Rs. 8000000
+Land Rover,discovery,2008, Automatic,2800, 4WD, Diesel, Golden,7,53000,USED,Rs. 8500000
+Land Rover,freelander,2008, Manual,2400, 2WD, Diesel, Silver,6,30000,USED,Rs. 7700000
+Land Rover,defender,2013, Manual,2400, 4WD, Diesel, White,10,7800,USED,Rs. 1150000
+Mahindra,bolero,2014, Manual,2600, 2WD, Diesel, White,11,70000,USED,Rs. 1250000
+Mahindra,Kuv,2016, Manual,1200, 2WD, Diesel, Sky Blue ,15,31000,USED,Rs. 2100000
+Mahindra,scorpio,2015, Manual,2200, 2WD, Diesel, Silver,15,28000,USED,Rs. 4400000
+Mahindra,scorpio,2017, Manual,2600, 4WD, Diesel, white,12,40000,USED,Rs. 1500000
+Mahindra,scorpio,2018, Manual,2200, 4WD, Diesel, Silver,19,7000,USED,Rs. 5400000
+Mahindra,scorpio,2010, Manual,2600, 4WD, Diesel, White,10,62000,USED,Rs. 2450000
+Mahindra,scorpio,2015, Manual,2200, 2WD, Diesel, Blue,13,61000,USED,Rs. 3350000
+Mahindra,scorpio,2015, Manual,2500, 2WD, Diesel, white,13,67874,USED,Rs. 2650000
+Mahindra,scorpio,2015, Manual,2600, 2WD, Diesel, Silver,13,200000,USED,Rs. 2800000
+Mahindra,scorpio,2015, Manual,2200, 4WD, Diesel, White ,13,45000,USED,Rs. 3800000
+Mahindra,bolero,2013, Manual,2600, 2WD, Diesel, WHITE,11,332000,USED,Rs. 1500000
+Mahindra,scorpio,2014, Manual,2200, 2WD, Diesel, Army,1,63000,USED,Rs. 2600000
+Mahindra,bolero,2004, Manual,2500, 4WD, Diesel, Green,4,95000,USED,Rs. 1050000
+Mahindra,bolero,2011, Manual,2600, 2WD, Diesel, Army,11,85000,USED,Rs. 1300000
+Mahindra,bolero,2009, Manual,2600, 2WD, Diesel, Red,10,2800,USED,Rs. 1000000
+Mahindra,Kuv,2016, Manual,1200, 2WD, Diesel, Grey,15,16000,USED,Rs. 2200000
+Mahindra,scorpio,2017, Manual,2200, 2WD, Diesel, Red,18,27984,USED,Rs. 4300000
+Mahindra,scorpio,2011, Manual,2600, 4WD, Diesel, Green,9,87000,USED,Rs. 2650000
+Mahindra,bolero,2018, Manual,2600, 4WD, Diesel, White,21,3500,USED,Rs. 2400000
+Mahindra,Kuv,2016, Manual,1200, 2WD, Petrol, Grey,16,28000,USED,Rs. 2400000
+Mahindra,scorpio,2017, Manual,2200, 4WD, Diesel, White,18,43000,USED,Rs. 5700000
+Mahindra,scorpio,2014, Manual,2200, 2WD, Diesel, Silver ,12,48000,USED,Rs. 3250000
+Mahindra,scorpio,2014, Manual,2600, 2WD, Petrol, White,12,150000,USED,Rs. 32000000
+Mahindra,bolero,2012, Manual,2600, 2WD, Diesel, Dark red,13,52000,USED,Rs. 2250000
+Mahindra,bolero,2017, Manual,2500, 2WD, Diesel, Silver,14,25000,USED,Rs. 2650000
+Mahindra,scorpio,2014, Manual,2600, 2WD, Diesel, mist silver,11,70000,USED,Rs. 2275000
+Mahindra,scorpio,2014, Manual,2200, 2WD, Diesel, Silver,12,60000,USED,Rs. 3250000
+Mahindra,scorpio,2014, Manual,2600, 2WD, Diesel, mist silver ,11,65500,USED,Rs. 2450000
+Mahindra,scorpio,2016, Manual,2200, 4WD, Diesel, Army,15,36000,USED,Rs. 2825000
+Mahindra,scorpio,2014, Manual,2200, 4WD, Diesel, Army colour,12,47000,USED,Rs. 2650000
+Mahindra,bolero,2012, Manual,2600, 2WD, Diesel, coat red,12,52000,USED,Rs. 2250000
+Mahindra,scorpio,2010, Manual,2600, 4WD, Diesel, black and silver,8,80000,USED,Rs. 2900000
+Mahindra,scorpio,2010, Manual,2600, 4WD, Diesel, black and silver,8,80000,USED,Rs. 2900000
+Mahindra,Kuv,2016, Manual,1200, 2WD, Petrol, Grey,15,1000,USED,Rs. 2600000
+Mahindra,scorpio,2016, Manual,2200, 2WD, Diesel, Silver,14,7000,USED,Rs. 3850000
+Mahindra,bolero,2010, Manual,2600, 2WD, Diesel, White,10,8000,USED,Rs. 1050000
+Mahindra,scorpio,2007, Manual,2600, 2WD, Petrol, White,6,70000,USED,Rs. 2600000
+Mahindra,scorpio,2015, Manual,2000, 2WD, Diesel, Grey,13,20000,USED,Rs. 3600000
+Mahindra,bolero,2015, Manual,2500, 4WD, Diesel, White ,13,16000,USED,Rs. 1750000
+Mahindra,scorpio,2010, Manual,2600, 4WD, Diesel, black and silver,8,80000,USED,Rs. 2900000
+Mahindra,scorpio,2005, Manual,2600, 4WD, Diesel, Silver,5,179000,USED,Rs. 1450000
+Mahindra,scorpio,2009, Manual,2600, 2WD, Petrol, Silver,7,48000,USED,Rs. 2975000
+Mahindra,scorpio,2013, Manual,2200, 2WD, Petrol, Java Brawn,10,35000,USED,Rs. 4450000
+Mahindra,scorpio,2012, Manual,2600, 2WD, Diesel, Rocky Beige,12,24500,USED,Rs. 860000
+Mahindra,scorpio,2014, Manual,2600, 2WD, Diesel, Mist Silver,11,63000,USED,Rs. 3000000
+Mahindra,bolero,2015, Manual,2600, 4WD, Diesel, silver,13,32000,USED,Rs. 2650000
+Mahindra,scorpio,2007, Automatic,2600, 4WD, Diesel, white,6,100000,USED,Rs. 2600000
+Mahindra,Kuv,2016, Manual,1200, 2WD, Petrol, designer grey,14,3200,USED,Rs. 2600000
+Mahindra,bolero,2014, Manual,2500, 2WD, Diesel, blue,5,80000,USED,Rs. 1600000
+Mahindra,scorpio,2013, Manual,2200, 4WD, Diesel, Maroon,11,25000,USED,Rs. 4700000
+Mahindra,bolero,2013, Manual,3000, 4WD, Diesel, white ,10,38000,USED,Rs. 1700000
+Mahindra,Kuv,2016, Manual,1200, 2WD, Petrol, Grey,14,6000,USED,Rs. 2450000
+Mahindra,scorpio,2014, Manual,2600, 2WD, Diesel, Mist Silver,11,63000,USED,Rs. 3000000
+Mahindra,scorpio,2013, Manual,2200, 4WD, Diesel, Red,10,32000,USED,Rs. 4850000
+Mahindra,bolero,2014, Manual,2600, 2WD, Diesel, Red,14,22000,USED,Rs. 2700000
+Mahindra,Kuv,2016, Manual,1200, 2WD, Petrol, designer grey,14,3200,USED,Rs. 2600000
+Mahindra,bolero,2008, Manual,2600, 2WD, Diesel, white,11,120000,USED,Rs. 900000
+Mahindra,scorpio,2010, Manual,2600, 4WD, Petrol, white ,8,32000,USED,Rs. 3149999
+Mahindra,scorpio,2014, Manual,2200, 2WD, Diesel, light Green,11,23000,USED,Rs. 3200000
+Mahindra,scorpio,2013, Manual,2200, 2WD, Petrol, Silver,1,36000,USED,Rs. 3100000
+Mahindra,scorpio,2012, Manual,2200, 2WD, Diesel, silver,10,32000,USED,Rs. 3000000
+Mahindra,scorpio,2010, Manual,2600, 4WD, Diesel, green,7,32000,USED,Rs. 3100000
+Mahindra,bolero,2009, Manual,2600, 4WD, Petrol, green,8,45000,USED,Rs. 1700000
+Mahindra,scorpio,2010, Manual,2600, 2WD, Diesel, granite red,10,27000,USED,Rs. 2250000
+Mahindra,scorpio,2013, Manual,2200, 2WD, Petrol, silver,10,26000,USED,Rs. 4375000
+Mahindra,scorpio,2011, Manual,2600, 2WD, Diesel, silky silver,14,47000,USED,Rs. 2350000
+Mahindra,scorpio,2013, Manual,1400, 2WD, Diesel, Silver,1,36000,USED,Rs. 3100000
+Mahindra,scorpio,2010, Manual,2600, 4WD, Diesel, white,14,47000,USED,Rs. 3100000
+Mahindra,scorpio,2011, Manual,2600, 2WD, Diesel, white,11,34000,USED,Rs. 2850000
+Mahindra,scorpio,2013, Manual,2500, 2WD, Diesel, Black,11,60000,USED,Rs. 2750000
+Mahindra,bolero,2010, Manual,2600, 4WD, Diesel, Army,13,61000,USED,Rs. 1325000
+Mahindra,scorpio,2010, Manual,2600, 2WD, Diesel, Army,13,38000,USED,Rs. 2250000
+Mahindra,scorpio,2010, Manual,2200, 4WD, Diesel, maroon ,8,52000,USED,Rs. 2450000
+Mahindra,scorpio,2010, Manual,2600, 2WD, Diesel, Light Green,10,65000,USED,Rs. 2450000
+Mahindra,bolero,2011, Manual,2500, 2WD, Diesel, White ,11,90000,USED,Rs. 1000000
+Mahindra,scorpio,2011, Manual,2500, 4WD, Diesel, Black ,9,51000,USED,Rs. 3400000
+Mahindra,scorpio,2002, Manual,2600, 4WD, Diesel, Black,4,60264,USED,Rs. 1400000
+Mahindra,scorpio,2010, Manual,2600, 2WD, Diesel, Gray ,8,45000,USED,Rs. 2350000
+Mahindra,scorpio,2013, Manual,2600, 2WD, Petrol, Silver ,10,30000,USED,Rs. 2750000
+Mahindra,scorpio,2010, Manual,2600, 2WD, Diesel, Light Green,10,65000,USED,Rs. 2475000
+Mahindra,scorpio,2012, Manual,2600, 2WD, Diesel, Black,12,45000,USED,Rs. 2875000
+Mahindra,bolero,2007, Manual,2600, 4WD, Diesel, white,5,75000,USED,Rs. 1050000
+Mahindra,scorpio,2014, Manual,2600, 2WD, Diesel, Silver,11,7000,USED,Rs. 3300000
+Mahindra,scorpio,2008, Manual,2800, 4WD, Diesel, Grey,8,82000,USED,Rs. 2650000
+Mahindra,bolero,2013, Manual,2600, 2WD, Diesel, Silver,11,35000,USED,Rs. 2220000
+Mahindra,scorpio,2013, Manual,2200, 2WD, Diesel, Silver ,10,19000,USED,Rs. 4400000
+Mahindra,bolero,2006, Manual,2500, 2WD, Diesel, Golden,5,80000,USED,Rs. 1400000
+Mahindra,bolero,2010, Manual,2600, 4WD, Diesel, Army,8,42000,USED,Rs. 1600000
+Mahindra,bolero,2011, Manual,2600, 2WD, Diesel, white ,12,42000,USED,Rs. 1275000
+Mahindra,scorpio,2012, Manual,2600, 2WD, Diesel, Silver,11,23000,USED,Rs. 2900000
+Mahindra,scorpio,2007, Manual,2500, 2WD, Diesel, White,6,47570,USED,Rs. 3000000
+Mahindra,bolero,2009, Manual,2600, 4WD, Diesel, white,7,50000,USED,Rs. 1300000
+Mahindra,bolero,2013, Manual,2600, 4WD, Diesel, creami white,13,6500,USED,Rs. 1750000
+Mahindra,scorpio,2014, Manual,2000, 4WD, Diesel, Silver,12,10000,USED,Rs. 4500000
+Mahindra,bolero,2005, Manual,2000, 4WD, Diesel, white ,12,52000,USED,Rs. 1225000
+Mahindra,bolero,2005, Manual,2600, 4WD, Diesel, white ,5,52000,USED,Rs. 900000
+Mahindra,scorpio,2009, Manual,2500, 4WD, Diesel, Metallic Silver,7,53000,USED,Rs. 2050000
+Mahindra,bolero,2009, Manual,2500, 2WD, Diesel, Black,7,36893,USED,Rs. 1925000
+Mahindra,scorpio,2012, Manual,2500, 4WD, Diesel, Silver,10,21000,USED,Rs. 3950000
+Mahindra,scorpio,2014, Manual,2600, 4WD, Diesel, White,11,48000,USED,Rs. 2800000
+Mahindra,scorpio,2011, Manual,2600, 4WD, Diesel, Black,9,38000,USED,Rs. 3600000
+Mahindra,scorpio,2008, Automatic,2450, 4WD, Diesel, Silver,8,150000,USED,Rs. 1700000
+Mahindra,bolero,2005, Manual,2500, 2WD, Diesel, Silver,5,87000,USED,Rs. 1250000
+Maruti Suzuki,swift,2018, Manual,1200, 2WD, Petrol, Silver,19,18000,USED,Rs. 2850000
+Maruti Suzuki,alto-800,2006, Manual,800, 2WD, Petrol, Silver,5,55000,USED,Rs. 575000
+Maruti Suzuki,celerio,2016, Manual,1000, 2WD, Petrol, Silver,14,41000,USED,Rs. 1725000
+Maruti Suzuki,alto-LXI,2011, Manual,1000, 2WD, Petrol, Maroon,9,38000,USED,Rs. 1150000
+Maruti Suzuki,alto-800,2002, Manual,800, 2WD, Petrol, Chocolate,4,76342,USED,Rs. 400000
+Maruti Suzuki,Omni,2010, Manual,800, 2WD, Petrol, Grey,8,88000,USED,Rs. 600000
+,,,,,,,,,,,
+Maruti Suzuki,800,2003, Manual,800, 2WD, Petrol, Cream,5,70000,USED,Rs. 300000
+Maruti Suzuki,eeco,2016, Manual,1200, 2WD, Petrol, Grey,16,35000,USED,Rs. 1500000
+Maruti Suzuki,alto-800,2005, Manual,800, 2WD, Petrol, Silver,5,65000,USED,Rs. 550000
+Maruti Suzuki,alto-800,2015, Manual,800, 2WD, Petrol, White ,13,34000,USED,Rs. 675000
+Maruti Suzuki,800,2014, Manual,800, 2WD, Petrol, Grey,12,37000,USED,Rs. 117500
+Maruti Suzuki,Omni,2009, Manual,800, 2WD, Petrol, sliver,9,55000,USED,Rs. 710000
+Maruti Suzuki,alto-800,2005, Manual,800, 2WD, Petrol, White,5,55000,USED,Rs. 350000
+Maruti Suzuki,800,1997, Manual,800, 2WD, Petrol, Silver,2,75000,USED,Rs. 250000
+Maruti Suzuki,alto-800,2000, Manual,800, 2WD, Petrol, blue,3,150000,USED,Rs. 350000
+Maruti Suzuki,alto-800,2018, Manual,800, 4WD, Petrol, White ,18,1500,USED,Rs. 975000
+Maruti Suzuki,swift,2009, Manual,1300, 2WD, Petrol, Silver,14,58000,USED,Rs. 1400000
+Maruti Suzuki,swift,2016, Manual,1200, 2WD, Petrol, silky silver ,16,29500,USED,Rs. 2479000
+,,,,,,,,,,,
+Maruti Suzuki,alto-800,2012, Manual,800, 2WD, Petrol, Silver,10,45000,USED,Rs. 750000
+Maruti Suzuki,alto-800,2015, Manual,800, 2WD, Petrol, Silver,13,120000,USED,Rs. 960000
+Maruti Suzuki,800,1996, Manual,800, 4WD, Petrol, white,3,48536,USED,Rs. 225000
+,,,,,,,,,,,
+Maruti Suzuki,swift,2016, Manual,1200, 2WD, Petrol, Grey,14,35000,USED,Rs. 2475000
+Maruti Suzuki,swift,2014, Manual,1200, 2WD, Petrol, Silver,12,34000,USED,Rs. 1900000
+,,,,,,,,,,,
+,,,,,,,,,,,
+Maruti Suzuki,alto-LXI,2015, Manual,1000, 2WD, Petrol, Silver,14,45000,USED,Rs. 1050000
+Maruti Suzuki,Omni,2009, Manual,800, 2WD, Petrol, Silver ,7,52000,USED,Rs. 625000
+Maruti Suzuki,alto-800,2001, Manual,1061, 2WD, Petrol, White,4,60000,USED,Rs. 400000
+Maruti Suzuki,swift,2014, Manual,1200, 2WD, Petrol, Silver,12,34000,USED,Rs. 1900000
+Maruti Suzuki,celerio,2016, Manual,1000, 2WD, Petrol, Chocolate Brown ,15,15000,USED,Rs. 1750000
+,,,,,,,,,,,
+Maruti Suzuki,alto-800,2008, Manual,800, 2WD, Petrol, Silver,1,56000,USED,Rs. 650000
+,,,,,,,,,,,
+Maruti Suzuki,alto-LXI,2012, Manual,1000, 2WD, Petrol, Maroon,10,52000,USED,Rs. 1025000
+Maruti Suzuki,swift,2008, Manual,1300, 2WD, Petrol, Silver,19,60000,USED,Rs. 1325000
+Maruti Suzuki,Omni,2009, Manual,800, 2WD, Petrol, White ,7,33000,USED,Rs. 625000
+Maruti Suzuki,alto-800,2014, Manual,800, 2WD, Petrol, Silver ,12,23000,USED,Rs. 975000
+Maruti Suzuki,swift,2005, Manual,1300, 2WD, Petrol, Silver,5,56000,USED,Rs. 1000000
+Maruti Suzuki,Omni,2012, Manual,800, 2WD, Petrol, White ,10,38000,USED,Rs. 525000
+Maruti Suzuki,swift,2014, Manual,1200, 2WD, Petrol, Blue,14,34000,USED,Rs. 2049000
+Maruti Suzuki,alto-800,2012, Manual,800, 2WD, Petrol, silver,2,35000,USED,Rs. 800000
+Maruti Suzuki,alto-LXI,2013, Manual,1000, 2WD, Petrol, Silver,10,38600,USED,Rs. 1150000
+Maruti Suzuki,alto-800,2006, Manual,800, 2WD, Petrol, Silver,2,56000,USED,Rs. 700000
+,,,,,,,,,,,
+Maruti Suzuki,swift,2015, Manual,1200, 2WD, Petrol, Silver,12,25000,USED,Rs. 2450000
+Maruti Suzuki,Omni,2018, Manual,800, 2WD, Petrol, Silver,19,3000,USED,Rs. 1479000
+Maruti Suzuki,Omni,2018, Manual,800, 2WD, Petrol, White,19,3500,USED,Rs. 1099000
+,,,,,,,,,,,
+Maruti Suzuki,alto-LXI,2012, Manual,1000, 2WD, Petrol, Red,10,52000,USED,Rs. 1025000
+,,,,,,,,,,,
+Maruti Suzuki,swift,2009, Manual,1300, 2WD, Petrol, Dark Red,19,48000,USED,Rs. 1300000
+Maruti Suzuki,alto-800,2013, Manual,800, 2WD, Petrol, Silver ,10,45000,USED,Rs. 825000
+,,,,,,,,,,,
+Maruti Suzuki,eeco,2018, Manual,1196, 2WD, Petrol, Silver,19,300,USED,Rs. 2199000
+,,,,,,,,,,,
+,,,,,,,,,,,
+Maruti Suzuki,swift,2013, Manual,1200, 2WD, Petrol, maroon,10,8000,USED,Rs. 2250000
+Maruti Suzuki,swift,2013, Manual,1200, 2WD, Petrol, alpine blue,11,18000,USED,Rs. 2300000
+,,,,,,,,,,,
+,,,,,,,,,,,
+Maruti Suzuki,astar,2010, Manual,1000, 2WD, Petrol, Desert brown,8,39000,USED,Rs. 1130000
+Maruti Suzuki,alto-800,2007, Manual,800, 2WD, Petrol, blue,5,60000,USED,Rs. 675000
+,,,,,,,,,,,
+Maruti Suzuki,swift,2010, Manual,1197, 2WD, Petrol, artic white,8,31000,USED,Rs. 1850000
+Maruti Suzuki,alto-800,2000, Manual,800, 2WD, Petrol, Blue ,3,77000,USED,Rs. 424000
+Maruti Suzuki,alto-800,2000, Manual,800, 2WD, Petrol, Blue,2,77000,USED,Rs. 425000
+Maruti Suzuki,swift,2014, Manual,1200, 2WD, Petrol, White,11,21000,USED,Rs. 2295000
+Maruti Suzuki,swift,2014, Manual,1200, 2WD, Petrol, White,11,21000,USED,Rs. 2350000
+Maruti Suzuki,alto-LXI,2012, Manual,1000, 2WD, Petrol, Parasite Blue,9,26000,USED,Rs. 1325000
+,,,,,,,,,,,
+Maruti Suzuki,swift,2009, Manual,1300, 2WD, Petrol, silky silver,16,39000,USED,Rs. 1399000
+,,,,,,,,,,,
+,,,,,,,,,,,
+Maruti Suzuki,alto-800,2010, Manual,800, 2WD, Petrol, Dazzling Red,8,40500,USED,Rs. 925000
+Maruti Suzuki,swift,2012, Manual,1200, 2WD, Petrol, Silver,9,34000,USED,Rs. 1975000
+Maruti Suzuki,swift,2012, Manual,1197, 2WD, Petrol, Silver,10,23000,USED,Rs. 2250000
+,,,,,,,,,,,
+Maruti Suzuki,swift,2014, Manual,1200, 2WD, Petrol, Silver,12,18000,USED,Rs. 2225000
+Maruti Suzuki,swift,2010, Manual,1198, 2WD, Petrol, Blue,8,57500,USED,Rs. 1500000
+Maruti Suzuki,alto-LXI,2011, Manual,1000, 2WD, Petrol, Maroon,15,37000,USED,Rs. 1160000
+Maruti Suzuki,alto-800,2004, Manual,800, 2WD, Petrol, Gray,12,8000,USED,Rs. 450000
+Maruti Suzuki,800,2000, Manual,800, 2WD, Petrol, golden yellow,3,48000,USED,Rs. 325000
+,,,,,,,,,,,
+Maruti Suzuki,swift,2003, Manual,1300, 2WD, Petrol, DARK GREY,6,46000,USED,Rs. 1225000
+,,,,,,,,,,,
+,,,,,,,,,,,
+Maruti Suzuki,alto-LXI,2013, Manual,1000, 2WD, Petrol, silver,11,20000,USED,Rs. 1300000
+,,,,,,,,,,,
+,,,,,,,,,,,
+Maruti Suzuki,swift,2010, Manual,1200, 2WD, Petrol, Grey,8,35000,USED,Rs. 1875000
+,,,,,,,,,,,
+Maruti Suzuki,swift,2010, Manual,1200, 2WD, Petrol, GREY,9,38000,USED,Rs. 1775000
+,,,,,,,,,,,
+Maruti Suzuki,alto-800,2010, Manual,800, 2WD, Petrol, Silver,8,20000,USED,Rs. 800000
+Maruti Suzuki,alto-800,2009, Manual,800, 2WD, Petrol, silver,7,34000,USED,Rs. 800000
+Maruti Suzuki,alto-800,2007, Manual,800, 2WD, Petrol, Blue,7,37000,USED,Rs. 750000
+Maruti Suzuki,alto-800,2000, Manual,800, 2WD, Petrol, White,3,40000,USED,Rs. 460000
+Maruti Suzuki,swift,2014, Manual,1200, 2WD, Petrol, silver,11,18000,USED,Rs. 2450000
+Maruti Suzuki,alto-800,2010, Manual,800, 2WD, Petrol, Silver,8,41000,USED,Rs. 875000
+Maruti Suzuki,alto-LXI,2012, Manual,1000, 2WD, Petrol, Maroon,10,20000,USED,Rs. 1325000
+Maruti Suzuki,alto-LXI,2009, Manual,1000, 2WD, Petrol, Siver,7,13000,USED,Rs. 1000000
+Maruti Suzuki,alto-800,2001, Manual,800, 2WD, Petrol, Silver,3,70000,USED,Rs. 550000
+Maruti Suzuki,alto-LXI,2013, Manual,1000, 2WD, Petrol, Siver,11,10000,USED,Rs. 1050000
+Maruti Suzuki,swift,2014, Manual,1200, 2WD, Petrol, Grey,12,26000,USED,Rs. 2475000
+Maruti Suzuki,swift,2014, Manual,1197, 2WD, Petrol, Grey,12,11000,USED,Rs. 2475000
+Maruti Suzuki,swift,2005, Manual,1300, 2WD, Petrol, Green,5,50000,USED,Rs. 1050000
+Maruti Suzuki,alto-LXI,2013, Manual,1000, 2WD, Petrol, Blue,11,20000,USED,Rs. 1275000
+,,,,,,,,,,,
+Maruti Suzuki,alto-LXI,2011, Manual,1000, 2WD, Petrol, Siver,9,40000,USED,Rs. 1200000
+,,,,,,,,,,,
+Maruti Suzuki,alto-LXI,2010, Manual,1000, 2WD, Petrol, Silver golden,8,25800,USED,Rs. 1025000
+Maruti Suzuki,alto-LXI,2012, Manual,1000, 2WD, Petrol, White,10,18000,USED,Rs. 1250000
+Maruti Suzuki,alto-800,2013, Manual,800, 2WD, Petrol, Purple Blue,13,21000,USED,Rs. 1150000
+Maruti Suzuki,swift,2010, Manual,1200, 2WD, Petrol, cayenne orange,8,42000,USED,Rs. 1750000
+,,,,,,,,,,,
+Maruti Suzuki,alto-LXI,2008, Manual,1000, 2WD, Petrol, Metallic steel ,6,85000,USED,Rs. 1000000
+Maruti Suzuki,alto-LXI,2010, Manual,1000, 2WD, Petrol, Siver,8,26000,USED,Rs. 1125000
+,,,,,,,,,,,
+Maruti Suzuki,swift,2014, Manual,1200, 2WD, Petrol, GREY,11,12000,USED,Rs. 2450000
+Maruti Suzuki,swift,2013, Manual,1200, 2WD, Petrol, Grey,10,27000,USED,Rs. 2175000
+Maruti Suzuki,Omni,2011, Manual,800, 2WD, Petrol, White,9,20800,USED,Rs. 625000
+Maruti Suzuki,alto-LXI,2014, Manual,1000, 2WD, Petrol, Silver,12,22000,USED,Rs. 1575000
+Maruti Suzuki,swift,2013, Manual,1200, 2WD, Petrol, Blue,11,17000,USED,Rs. 2300000
+,,,,,,,,,,,
+Maruti Suzuki,alto-800,1999, Manual,800, 2WD, Petrol, maroon,3,50000,USED,Rs. 390000
+Maruti Suzuki,alto-800,2010, Manual,800, 2WD, Petrol, Golden,8,30000,USED,Rs. 975000
+Maruti Suzuki,swift,2012, Manual,1198, 2WD, Petrol, Grey,9,20000,USED,Rs. 2250000
+,,,,,,,,,,,
+Maruti Suzuki,swift,2012, Manual,1198, 2WD, Petrol, Silver,9,35500,USED,Rs. 1875000
+Maruti Suzuki,alto-800,2007, Manual,800, 2WD, Petrol, Maroon red,5,51000,USED,Rs. 775000
+Maruti Suzuki,alto-800,2000, Manual,800, 2WD, Petrol, green ,2,65000,USED,Rs. 465000
+Maruti Suzuki,alto-LXI,2014, Manual,1000, 2WD, Petrol, Silver,12,22000,USED,Rs. 1575000
+Maruti Suzuki,swift,2013, Manual,1200, 2WD, Petrol, Silver,10,17000,USED,Rs. 2275000
+Maruti Suzuki,swift,2009, Manual,1300, 2WD, Petrol, SILVER,7,32000,USED,Rs. 1550000
+Maruti Suzuki,alto,2002, Manual,1100, 2WD, Petrol, Red,4,52000,USED,Rs. 675000
+,,,,,,,,,,,
+Maruti Suzuki,alto-800,2002, Manual,800, 2WD, Petrol, Silver,7,68990,USED,Rs. 650000
+Maruti Suzuki,alto-800,2005, Manual,800, 2WD, Petrol, White ,5,68000,USED,Rs. 690000
+Maruti Suzuki,swift,2012, Manual,1200, 2WD, Petrol, White,10,34000,USED,Rs. 2250000
+Maruti Suzuki,swift,2009, Manual,1300, 2WD, Petrol, Silver,7,35000,USED,Rs. 1450000
+Maruti Suzuki,swift,2007, Manual,1298, 2WD, Petrol, Silver,7,51500,USED,Rs. 1325000
+,,,,,,,,,,,
+Maruti Suzuki,Omni,2011, Manual,800, 2WD, Petrol, White,9,40000,USED,Rs. 600000
+Maruti Suzuki,alto-LXI,2011, Manual,1000, 2WD, Petrol, Silver,9,35000,USED,Rs. 1225000
+Maruti Suzuki,alto-LXI,2014, Manual,1000, 2WD, Petrol, Maroon,11,15000,USED,Rs. 1375000
+Maruti Suzuki,alto-LXI,2010, Manual,1000, 2WD, Petrol, maroon,8,40000,USED,Rs. 1100000
+,,,,,,,,,,,
+Maruti Suzuki,alto-800,2002, Manual,800, 2WD, Petrol, Silver,4,60000,USED,Rs. 575000
+Maruti Suzuki,alto-800,2001, Manual,800, 2WD, Petrol, sky blue,5,50000,USED,Rs. 600000
+Maruti Suzuki,alto-800,2006, Manual,800, 2WD, Petrol, silver,5,55000,USED,Rs. 725000
+Maruti Suzuki,alto-LXI,2013, Manual,1000, 2WD, Petrol, Silver,12,14000,USED,Rs. 1525000
+Maruti Suzuki,alto-800,2004, Manual,800, 2WD, Petrol, purple,4,80000,USED,Rs. 600000
+Maruti Suzuki,swift,2013, Manual,1200, 2WD, Petrol, Silver,11,18000,USED,Rs. 2400000
+Maruti Suzuki,800,2014, Manual,800, 2WD, Petrol, White,12,20000,USED,Rs. 145000
+Maruti Suzuki,alto-800,2008, Manual,800, 2WD, Petrol, Silver,6,50000,USED,Rs. 825000
+Maruti Suzuki,alto-LXI,2011, Manual,1000, 2WD, Petrol, Light Golden ,9,40000,USED,Rs. 1000000
+Maruti Suzuki,swift,2010, Manual,1200, 2WD, Petrol, Silver,8,35000,USED,Rs. 1650000
+Maruti Suzuki,Omni,2014, Manual,800, 2WD, Petrol, sillky siliver,1,25000,USED,Rs. 1275000
+Maruti Suzuki,alto-LXI,2011, Manual,1000, 2WD, Petrol, orange ,9,33000,USED,Rs. 1150000
+Maruti Suzuki,swift,2007, Manual,1300, 2WD, Petrol, Silver,6,37000,USED,Rs. 1200000
+,,,,,,,,,,,
+Maruti Suzuki,alto-800,2007, Manual,800, 2WD, Petrol, Maroon,7,40000,USED,Rs. 775000
+,,,,,,,,,,,
+,,,,,,,,,,,
+Maruti Suzuki,alto-LXI,2011, Manual,1000, 2WD, Petrol, Silver,13,20000,USED,Rs. 1250000
+,,,,,,,,,,,
+Maruti Suzuki,dzire,2010, Manual,1200, 2WD, Petrol, blue,10,49000,USED,Rs. 1500000
+Maruti Suzuki,Omni,2010, Manual,800, 2WD, Petrol, silver,8,22000,USED,Rs. 875000
+Maruti Suzuki,alto-800,2012, Manual,800, 2WD, Petrol, Silver,9,25000,USED,Rs. 915000
+Maruti Suzuki,alto-800,2009, Manual,800, 2WD, Petrol, Red,7,27000,USED,Rs. 900000
+Maruti Suzuki,alto-LXI,2010, Manual,1000, 2WD, Petrol, dusky brown,7,35000,USED,Rs. 1250000
+Maruti Suzuki,alto-LXI,2011, Manual,1000, 2WD, Petrol, Silver,13,20000,USED,Rs. 1250000
+Maruti Suzuki,dzire,2009, Manual,1298, 2WD, Petrol, Silver,7,46500,USED,Rs. 1550000
+Maruti Suzuki,alto-LXI,2011, Manual,1000, 2WD, Petrol, silver,9,25000,USED,Rs. 1150000
+Maruti Suzuki,swift,2014, Manual,1200, 2WD, Petrol, silver,11,18000,USED,Rs. 2550000
+Maruti Suzuki,alto-LXI,2013, Manual,1000, 2WD, Petrol, Golden,11,25000,USED,Rs. 1525000
+Maruti Suzuki,alto-LXI,2011, Manual,1000, 2WD, Petrol, maroon,9,35000,USED,Rs. 1175000
+,,,,,,,,,,,
+Maruti Suzuki,swift,2015, Manual,1200, 2WD, Petrol, White,12,8000,USED,Rs. 2650000
+Maruti Suzuki,swift,2014, Manual,1200, 2WD, Petrol, GREY,11,12000,USED,Rs. 2525000
+Maruti Suzuki,swift,2013, Manual,1200, 2WD, Petrol, Gray ,10,21000,USED,Rs. 2375000
+Maruti Suzuki,alto-800,2007, Manual,800, 2WD, Petrol, Blue,6,24000,USED,Rs. 800000
+Maruti Suzuki,swift,2010, Manual,1198, 2WD, Petrol, Silver,8,32000,USED,Rs. 1650000
+,,,,,,,,,,,
+,,,,,,,,,,,
+Maruti Suzuki,swift,2014, Manual,1197, 2WD, Petrol, Red,12,13000,USED,Rs. 2490000
+,,,,,,,,,,,
+,,,,,,,,,,,
+Maruti Suzuki,swift,2010, Manual,1200, 2WD, Petrol, Grey,9,34000,USED,Rs. 1790000
+Maruti Suzuki,swift,2005, Manual,1300, 2WD, Petrol, Silver,5,50000,USED,Rs. 1150000
+,,,,,,,,,,,
+Maruti Suzuki,swift,2010, Manual,1198, 2WD, Petrol, silver,8,32000,USED,Rs. 1650000
+Maruti Suzuki,alto-800,2006, Manual,800, 2WD, Petrol, Blue,13,48700,USED,Rs. 525000
+Maruti Suzuki,alto-LXI,2014, Manual,1000, 2WD, Petrol, silver,11,18000,USED,Rs. 1375000
+Maruti Suzuki,swift,2013, Manual,1198, 2WD, Petrol, silky silver,13,7000,USED,Rs. 2700000
+Maruti Suzuki,swift,2007, Automatic,1200, 2WD, Petrol, silver,6,51000,USED,Rs. 1275000
+Maruti Suzuki,swift,2008, Manual,1298, 2WD, Petrol, grey,14,41000,USED,Rs. 1350000
+Maruti Suzuki,swift,2013, Manual,1200, 2WD, Petrol, Grey,10,19000,USED,Rs. 2350000
+,,,,,,,,,,,
+Maruti Suzuki,alto-800,2001, Manual,800, 2WD, Petrol, White,4,55900,USED,Rs. 555000
+Maruti Suzuki,Omni,2012, Manual,800, 2WD, Petrol, white,10,22000,USED,Rs. 600000
+Maruti Suzuki,alto-LXI,2013, Manual,1000, 2WD, Petrol, silver,11,14500,USED,Rs. 1350000
+,,,,,,,,,,,
+Maruti Suzuki,eeco,2013, Manual,1198, 2WD, Petrol, silky silver,10,27000,USED,Rs. 1350000
+,,,,,,,,,,,
+Maruti Suzuki,swift,2010, Manual,1300, 2WD, Petrol, White,8,31000,USED,Rs. 1650000
+Maruti Suzuki,swift,2014, Manual,1200, 2WD, Petrol, Gray,12,26000,USED,Rs. 2350000
+,,,,,,,,,,,
+Maruti Suzuki,alto-LXI,2014, Manual,1000, 2WD, Petrol, White,12,6000,USED,Rs. 1450000
+,,,,,,,,,,,
+Maruti Suzuki,swift,2013, Manual,1200, 2WD, Petrol, blue,11,18373,USED,Rs. 2175000
+Maruti Suzuki,alto-LXI,2014, Manual,1000, 2WD, Petrol, Silky silver,11,14000,USED,Rs. 1375000
+Maruti Suzuki,alto-LXI,2011, Manual,1000, 2WD, Petrol, Silver,9,21000,USED,Rs. 1025000
+Maruti Suzuki,astar,2010, Manual,1000, 2WD, Petrol, silver,9,40000,USED,Rs. 1350000
+Maruti Suzuki,swift,2014, Manual,1200, 2WD, Petrol, grey,11,23000,USED,Rs. 2575000
+Maruti Suzuki,alto-800,2009, Manual,800, 2WD, Petrol, Silver,7,30000,USED,Rs. 925000
+Maruti Suzuki,alto,2001, Manual,1100, 2WD, Petrol, Golden,3,30000,USED,Rs. 575000
+Maruti Suzuki,alto-LXI,2014, Manual,1000, 2WD, Petrol, Silver,11,1800,USED,Rs. 1125000
+Maruti Suzuki,alto,2001, Manual,1100, 2WD, Petrol, Silver,3,60000,USED,Rs. 575000
+,,,,,,,,,,,
+Maruti Suzuki,alto-LXI,2011, Manual,1000, 2WD, Petrol, maroon,8,31000,USED,Rs. 1225000
+Maruti Suzuki,swift,2013, Manual,1198, 2WD, Petrol, Silver,10,28000,USED,Rs. 2200000
+,,,,,,,,,,,
+Maruti Suzuki,swift,2008, Manual,1300, 2WD, Petrol, Gray ,6,33333,USED,Rs. 1400000
+Maruti Suzuki,Omni,2010, Manual,800, 2WD, Petrol, blue,8,32000,USED,Rs. 825000
+Maruti Suzuki,alto-LXI,2014, Manual,1000, 2WD, Petrol, Silver,11,35000,USED,Rs. 1000000
+,,,,,,,,,,,
+Maruti Suzuki,alto-LXI,2013, Manual,1000, 2WD, Petrol, orange,11,20000,USED,Rs. 1390000
+Maruti Suzuki,swift,2015, Manual,1200, 2WD, Petrol, Silver,13,1200,USED,Rs. 2750000
+Maruti Suzuki,alto-800,2009, Manual,800, 2WD, Petrol, Silver,7,58000,USED,Rs. 825000
+Maruti Suzuki,alto-800,2008, Manual,800, 2WD, Petrol, Silver,5,69000,USED,Rs. 775000
+Maruti Suzuki,swift,2010, Manual,1200, 2WD, Petrol, Gray,8,36000,USED,Rs. 1650000
+Maruti Suzuki,alto-800,2006, Manual,800, 2WD, Petrol, Silver,5,39000,USED,Rs. 725000
+Maruti Suzuki,alto,2001, Manual,1100, 2WD, Petrol, Blue,7,4000,USED,Rs. 675000
+,,,,,,,,,,,
+Maruti Suzuki,eeco,2011, Manual,1198, 2WD, Petrol, silky silver,9,38000,USED,Rs. 1250000
+,,,,,,,,,,,
+Maruti Suzuki,alto-LXI,2012, Manual,1000, 2WD, Petrol, Silver,10,22000,USED,Rs. 1275000
+Maruti Suzuki,swift,2012, Manual,1200, 2WD, Petrol, silver,10,18000,USED,Rs. 2300000
+,,,,,,,,,,,
+Maruti Suzuki,swift,2014, Manual,1300, 2WD, Petrol, GREY,12,3800,USED,Rs. 2600000
+,,,,,,,,,,,
+Maruti Suzuki,swift,2009, Manual,1298, 2WD, Petrol, blue,7,34000,USED,Rs. 1550000
+Maruti Suzuki,swift,2008, Manual,1298, 2WD, Petrol, azure grey,5,35000,USED,Rs. 1475000
+Maruti Suzuki,swift,2009, Manual,1298, 2WD, Petrol, blue,11,46000,USED,Rs. 1550000
+,,,,,,,,,,,
+Maruti Suzuki,swift,2009, Manual,1300, 2WD, Petrol, GREY,7,45000,USED,Rs. 1525000
+Maruti Suzuki,alto-LXI,2010, Manual,1000, 2WD, Petrol, Maroon,8,40000,USED,Rs. 1000000
+,,,,,,,,,,,
+Maruti Suzuki,astar,2010, Manual,1000, 2WD, Petrol, silky silver,8,46000,USED,Rs. 1300000
+Maruti Suzuki,swift,2009, Manual,1300, 2WD, Petrol, silky silver,7,32000,USED,Rs. 1475000
+Maruti Suzuki,eeco,2006, Manual,1300, 2WD, Petrol, White,5,55000,USED,Rs. 900000
+,,,,,,,,,,,
+Maruti Suzuki,astar,2009, Manual,1000, 2WD, Petrol, Healing Green,8,40000,USED,Rs. 1175000
+Maruti Suzuki,alto-LXI,2013, Manual,1000, 2WD, Petrol, Grey,11,15500,USED,Rs. 1375000
+Maruti Suzuki,eeco,2011, Manual,1196, 2WD, Petrol, silver,8,28000,USED,Rs. 1250000
+Maruti Suzuki,swift,2008, Manual,1300, 2WD, Petrol, Gray,6,40000,USED,Rs. 1425000
+Maruti Suzuki,astar,2009, Manual,1000, 2WD, Petrol, GREEN,8,56000,USED,Rs. 1175000
+Maruti Suzuki,swift,2014, Manual,1200, 2WD, Petrol, digital blue,11,12880,USED,Rs. 2575000
+Maruti Suzuki,alto-800,2008, Manual,800, 2WD, Petrol, Silver,6,68700,USED,Rs. 850000
+,,,,,,,,,,,
+Maruti Suzuki,swift,2009, Manual,1300, 2WD, Petrol, grey,7,45000,USED,Rs. 1199999
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Maruti Suzuki,eeco,2010, Manual,1298, 2WD, Petrol, blue,8,34000,USED,Rs. 1200000
+Maruti Suzuki,Omni,2010, Manual,800, 2WD, Petrol, White,8,40000,USED,Rs. 500000
+Maruti Suzuki,swift,2006, Manual,1300, 2WD, Petrol, Maroon,5,33000,USED,Rs. 1200000
+Maruti Suzuki,alto-LXI,2012, Manual,1000, 2WD, Petrol, Silver,9,20000,USED,Rs. 1300000
+Maruti Suzuki,alto-LXI,2013, Manual,1000, 2WD, Petrol, Maroon/Orange,10,17000,USED,Rs. 1350000
+Maruti Suzuki,alto-LXI,2011, Manual,1000, 2WD, Petrol, silver,9,20000,USED,Rs. 1095000
+Maruti Suzuki,alto-800,1995, Manual,800, 2WD, Petrol, White,2,63000,USED,Rs. 425000
+Maruti Suzuki,alto-800,2009, Manual,800, 2WD, Petrol, grey,7,35000,USED,Rs. 825000
+Maruti Suzuki,alto-800,2004, Manual,800, 2WD, Petrol, aqua blue,4,34000,USED,Rs. 525000
+Maruti Suzuki,swift,2013, Manual,1200, 2WD, Petrol, Gray,11,30000,USED,Rs. 2000000
+,,,,,,,,,,,
+Maruti Suzuki,alto-LXI,2013, Manual,1000, 2WD, Petrol, Red,10,17000,USED,Rs. 1385000
+Maruti Suzuki,alto-LXI,2013, Manual,1000, 2WD, Petrol, silver,10,21000,USED,Rs. 1200000
+Maruti Suzuki,swift,2013, Manual,1200, 2WD, Petrol, blue,13,18000,USED,Rs. 2425000
+Maruti Suzuki,swift,2013, Manual,1197, 2WD, Petrol, White ,11,17000,USED,Rs. 2350000
+Maruti Suzuki,swift,2012, Manual,1200, 2WD, Petrol, Maroon,9,20000,USED,Rs. 2250000
+,,,,,,,,,,,
+,,,,,,,,,,,
+Maruti Suzuki,alto-800,2011, Manual,800, 2WD, Petrol, Silver,10,40000,USED,Rs. 975000
+Maruti Suzuki,swift,2014, Manual,1200, 2WD, Petrol, Silver,12,5500,USED,Rs. 2650000
+Maruti Suzuki,alto-LXI,2012, Manual,1000, 2WD, Petrol, Silver,10,12000,USED,Rs. 1025000
+,,,,,,,,,,,
+Maruti Suzuki,swift,2009, Manual,1198, 2WD, Petrol, Blue ,13,41000,USED,Rs. 1600000
+Maruti Suzuki,swift,2009, Manual,1298, 2WD, Petrol, Silver ,7,39000,USED,Rs. 1400000
+,,,,,,,,,,,
+Maruti Suzuki,swift,2008, Manual,1300, 2WD, Petrol, Gray,6,45000,USED,Rs. 1450000
+,,,,,,,,,,,
+Maruti Suzuki,swift,2009, Manual,1300, 2WD, Petrol, Silver,7,40000,USED,Rs. 1500000
+,,,,,,,,,,,
+Maruti Suzuki,alto-800,2011, Manual,800, 2WD, Petrol, silver,9,17000,USED,Rs. 1150000
+Maruti Suzuki,alto-LXI,2011, Manual,1000, 2WD, Petrol, Silver,9,23000,USED,Rs. 1225000
+Maruti Suzuki,dzire,2009, Manual,1300, 2WD, Petrol, Gray,7,40000,USED,Rs. 1575000
+Maruti Suzuki,alto-800,2009, Manual,800, 2WD, Petrol, Sky Blue ,7,35000,USED,Rs. 950000
+,,,,,,,,,,,
+Maruti Suzuki,astar,2009, Manual,1000, 2WD, Petrol, Silver,7,40000,USED,Rs. 1210000
+Maruti Suzuki,alto-LXI,2012, Manual,1000, 2WD, Petrol, silver,9,23000,USED,Rs. 1450000
+Maruti Suzuki,800,1998, Manual,880, 2WD, Petrol, White,3,26000,USED,Rs. 200000
+Maruti Suzuki,alto-LXI,2011, Manual,1000, 2WD, Petrol, silver,9,32000,USED,Rs. 1050000
+Maruti Suzuki,alto-LXI,2011, Manual,1000, 2WD, Petrol, Silky silver ,13,25000,USED,Rs. 1225000
+Maruti Suzuki,alto-LXI,2013, Manual,1000, 2WD, Petrol, red ,10,23000,USED,Rs. 1375000
+,,,,,,,,,,,
+,,,,,,,,,,,
+Maruti Suzuki,alto-LXI,2013, Manual,1000, 2WD, Petrol, Copper Red ,10,13000,USED,Rs. 1425000
+Maruti Suzuki,swift,2012, Manual,1197, 2WD, Petrol, Grey,10,15000,USED,Rs. 2000000
+Maruti Suzuki,swift,2009, Manual,1298, 2WD, Petrol, orange,13,37000,USED,Rs. 1425000
+,,,,,,,,,,,
+Maruti Suzuki,Omni,2010, Manual,800, 2WD, Petrol, METALLIC SILKY SILVER,8,73000,USED,Rs. 950000
+Maruti Suzuki,swift,2008, Manual,1298, 2WD, Petrol, Gray ,6,42000,USED,Rs. 1350000
+Maruti Suzuki,swift,2009, Manual,1298, 2WD, Petrol, Dark Blue ,7,33300,USED,Rs. 1600000
+Maruti Suzuki,swift,2005, Manual,1298, 2WD, Petrol, Silver,8,140000,USED,Rs. 1000000
+,,,,,,,,,,,
+Maruti Suzuki,alto,2002, Manual,1100, 2WD, Petrol, SILVER,3,65000,USED,Rs. 650000
+Maruti Suzuki,swift,2009, Manual,1298, 2WD, Petrol, Silky silver ,13,38000,USED,Rs. 1600000
+Maruti Suzuki,alto-800,2006, Manual,800, 2WD, Petrol, silver,5,51000,USED,Rs. 750000
+Maruti Suzuki,alto-800,2006, Manual,800, 2WD, Petrol, RED,6,25000,USED,Rs. 650000
+Maruti Suzuki,astar,2010, Manual,1000, 2WD, Petrol, Silky silver ,8,34000,USED,Rs. 1350000
+,,,,,,,,,,,
+Maruti Suzuki,swift,2014, Manual,1197, 2WD, Petrol, CARBON GREY,11,12000,USED,Rs. 2350000
+Maruti Suzuki,swift,2005, Manual,1300, 2WD, Petrol, golden,5,45000,USED,Rs. 950000
+Maruti Suzuki,alto-LXI,2014, Manual,1000, 2WD, Petrol, pearl blue,11,6600,USED,Rs. 1150000
+Maruti Suzuki,astar,2012, Manual,1000, 2WD, Petrol, Silky silver ,10,25000,USED,Rs. 1400000
+Maruti Suzuki,astar,2009, Manual,1000, 2WD, Petrol, Blue,9,48000,USED,Rs. 1275000
+Maruti Suzuki,alto-LXI,2013, Manual,1000, 2WD, Petrol, Silver,12,20000,USED,Rs. 1425000
+Maruti Suzuki,swift,2009, Manual,1298, 2WD, Petrol, Silky silver ,7,38000,USED,Rs. 1450000
+Maruti Suzuki,astar,2009, Manual,1000, 2WD, Petrol, grey,7,42000,USED,Rs. 1250000
+Maruti Suzuki,alto-800,2005, Manual,800, 2WD, Petrol, SILVER,5,55000,USED,Rs. 675000
+Maruti Suzuki,swift,2008, Manual,1300, 2WD, Petrol, Grey,8,40000,USED,Rs. 1500000
+Maruti Suzuki,alto-800,2009, Manual,800, 2WD, Petrol, metallic blue,7,31000,USED,Rs. 900000
+Maruti Suzuki,alto-800,2005, Manual,800, 2WD, Petrol, silver,5,38000,USED,Rs. 650000
+Maruti Suzuki,eeco,2012, Manual,1297, 2WD, Petrol, silver,9,32000,USED,Rs. 1350000
+,,,,,,,,,,,
+,,,,,,,,,,,
+Maruti Suzuki,swift,2010, Manual,1200, 2WD, Petrol, Gret,9,25000,USED,Rs. 1650000
+Maruti Suzuki,alto-800,2005, Manual,800, 2WD, Petrol, white,6,36000,USED,Rs. 736000
+Maruti Suzuki,astar,2010, Manual,1000, 2WD, Petrol, Silky silver,8,33000,USED,Rs. 1350000
+Maruti Suzuki,eeco,2010, Manual,1196, 2WD, Petrol, gray,8,39000,USED,Rs. 1245000
+,,,,,,,,,,,
+Maruti Suzuki,Omni,2010, Manual,800, 2WD, Petrol, WHITE,8,35000,USED,Rs. 650000
+,,,,,,,,,,,
+Maruti Suzuki,swift,2014, Manual,1200, 2WD, Petrol, Silver,11,4000,USED,Rs. 2350000
+,,,,,,,,,,,
+Maruti Suzuki,astar,2009, Manual,1000, 2WD, Petrol, healing green,7,35000,USED,Rs. 1175000
+Maruti Suzuki,swift,2006, Manual,1300, 2WD, Petrol, silver,1,50000,USED,Rs. 1800000
+Maruti Suzuki,alto-LXI,2011, Manual,1000, 2WD, Petrol, Metalic Orange,9,20000,USED,Rs. 1350000
+Maruti Suzuki,eeco,2010, Manual,1400, 2WD, Petrol, Silver,10,10000,USED,Rs. 1450000
+,,,,,,,,,,,
+,,,,,,,,,,,
+Maruti Suzuki,alto-800,2005, Manual,800, 2WD, Petrol, Black,5,695000,USED,Rs. 725000
+,,,,,,,,,,,
+,,,,,,,,,,,
+Maruti Suzuki,alto-LXI,2014, Manual,1000, 2WD, Petrol, Silver ,11,3400,USED,Rs. 1425000
+Maruti Suzuki,alto-800,2009, Manual,800, 2WD, Petrol, SILVER,7,17000,USED,Rs. 910000
+Maruti Suzuki,swift,2009, Manual,1298, 2WD, Petrol, Sunlight copper ,13,34000,USED,Rs. 1425000
+Maruti Suzuki,alto-LXI,2013, Manual,1000, 2WD, Petrol, SILVER,11,7000,USED,Rs. 1450000
+Maruti Suzuki,alto-LXI,2012, Manual,1000, 2WD, Petrol, silvar,10,37000,USED,Rs. 1325000
+Maruti Suzuki,alto-LXI,2010, Manual,1000, 2WD, Petrol, silver,7,16000,USED,Rs. 1200000
+,,,,,,,,,,,
+Maruti Suzuki,alto-800,2011, Manual,800, 2WD, Petrol, Blue ,9,26000,USED,Rs. 925000
+,,,,,,,,,,,
+Maruti Suzuki,celerio,2014, Automatic,1000, 2WD, Petrol, SILVER,12,5900,USED,Rs. 2150000
+Maruti Suzuki,alto-800,2000, Manual,800, 2WD, Petrol, White,6,73000,USED,Rs. 460000
+Maruti Suzuki,swift,2008, Manual,1197, 2WD, Petrol, gray,6,33000,USED,Rs. 1400000
+Maruti Suzuki,alto-800,2008, Manual,800, 2WD, Petrol, Silver ,6,36000,USED,Rs. 850000
+,,,,,,,,,,,
+Maruti Suzuki,alto-800,2001, Manual,800, 2WD, Petrol, Silvery Blue,3,68000,USED,Rs. 630000
+Maruti Suzuki,eeco,2011, Manual,1199, 2WD, Petrol, silver ,9,24000,USED,Rs. 1300000
+Maruti Suzuki,alto,2001, Manual,1000, 2WD, Petrol, yelleow ,4,46000,USED,Rs. 625000
+Maruti Suzuki,alto-LXI,2013, Manual,1000, 2WD, Petrol, dark orange,11,27000,USED,Rs. 1400000
+Maruti Suzuki,alto-800,2002, Manual,800, 2WD, Petrol, golden brown,4,50000,USED,Rs. 450000
+,,,,,,,,,,,
+Maruti Suzuki,swift,2010, Manual,1400, 2WD, Diesel, Silver,8,35000,USED,Rs. 1900000
+,,,,,,,,,,,
+Maruti Suzuki,swift,2012, Manual,1200, 2WD, Petrol, Red,9,25000,USED,Rs. 2125000
+,,,,,,,,,,,
+Maruti Suzuki,alto-800,2007, Manual,800, 2WD, Petrol, Grey,5,55000,USED,Rs. 785000
+,,,,,,,,,,,
+Maruti Suzuki,alto-800,2009, Manual,800, 2WD, Petrol, Blue,9,30000,USED,Rs. 950000
+Maruti Suzuki,alto-LXI,2013, Manual,1000, 2WD, Petrol, gray ,10,25000,USED,Rs. 1075000
+Maruti Suzuki,alto-800,2005, Manual,800, 2WD, Petrol, Maroon Red,5,50806,USED,Rs. 900000
+,,,,,,,,,,,
+Maruti Suzuki,a-star,2009, Manual,1100, 2WD, Petrol, silver,7,39000,USED,Rs. 1275000
+Maruti Suzuki,swift,2009, Manual,1298, 2WD, Petrol, silver,7,31000,USED,Rs. 1625000
+Maruti Suzuki,alto-LXI,2012, Manual,1000, 2WD, Petrol, Silver,11,17000,USED,Rs. 1375000
+,,,,,,,,,,,
+Maruti Suzuki,alto-800,2007, Manual,800, 2WD, Petrol, silver,6,45000,USED,Rs. 850000
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Maruti Suzuki,swift,2009, Manual,1300, 2WD, Petrol, Blue,7,34000,USED,Rs. 1625000
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Maruti Suzuki,alto-800,2007, Manual,800, 2WD, Petrol, silver,5,50000,USED,Rs. 825000
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Maruti Suzuki,swift,2013, Manual,1299, 2WD, Petrol, Red,1,25000,USED,Rs. 2500000
+Maruti Suzuki,alto-800,2008, Manual,800, 2WD, Petrol, maroon red,6,28000,USED,Rs. 800000
+Maruti Suzuki,alto-800,2002, Manual,800, 2WD, Petrol, Silver,4,75000,USED,Rs. 660000
+Maruti Suzuki,alto-LXI,2013, Manual,1000, 2WD, Petrol, SILVER,12,14000,USED,Rs. 1375000
+Maruti Suzuki,swift,2009, Manual,1298, 2WD, Petrol, Silver,7,31000,USED,Rs. 1625000
+Maruti Suzuki,alto-800,2008, Manual,800, 2WD, Petrol, Blue,6,37500,USED,Rs. 715000
+Maruti Suzuki,swift,2005, Manual,1200, 2WD, Petrol, Black,5,43000,USED,Rs. 1100000
+Maruti Suzuki,alto-800,2016, Manual,800, 2WD, Petrol, Maroon ,4,52000,USED,Rs. 475000
+Maruti Suzuki,alto-800,2002, Manual,800, 2WD, Petrol, Silver,4,75000,USED,Rs. 625000
+,,,,,,,,,,,
+Maruti Suzuki,swift,2010, Manual,1200, 2WD, Petrol, navy blue,8,40000,USED,Rs. 1900000
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Maruti Suzuki,alto-800,2008, Manual,800, 2WD, Petrol, kaleji red,8,40000,USED,Rs. 900000
+Maruti Suzuki,alto-800,2007, Manual,800, 2WD, Petrol, Blue,6,24000,USED,Rs. 800000
+,,,,,,,,,,,
+Maruti Suzuki,alto-800,2007, Manual,800, 2WD, Petrol, Blue,6,24000,USED,Rs. 775000
+,,,,,,,,,,,
+Maruti Suzuki,alto-800,2010, Manual,800, 2WD, Petrol, Silver Gold,8,19000,USED,Rs. 950000
+,,,,,,,,,,,
+,,,,,,,,,,,
+Maruti Suzuki,swift,2005, Manual,1300, 2WD, Petrol, gray ,5,41000,USED,Rs. 1125000
+Maruti Suzuki,swift,2005, Manual,1197, 2WD, Petrol, SILVER,12,45000,USED,Rs. 1050000
+,,,,,,,,,,,
+Maruti Suzuki,swift,2013, Manual,1200, 2WD, Petrol, White,11,13000,USED,Rs. 2850000
+,,,,,,,,,,,
+Maruti Suzuki,swift,2010, Manual,1200, 2WD, Petrol, Silver,8,15000,USED,Rs. 1950000
+Maruti Suzuki,swift,2010, Manual,1200, 2WD, Petrol, Silver,8,35000,USED,Rs. 1850000
+Maruti Suzuki,swift,2009, Manual,1300, 2WD, Petrol, Silver,7,40000,USED,Rs. 1500000
+Maruti Suzuki,swift,2013, Manual,1200, 2WD, Petrol, Maroon,11,30000,USED,Rs. 2450000
+,,,,,,,,,,,
+,,,,,,,,,,,
+Maruti Suzuki,alto-LXI,2013, Manual,1000, 2WD, Petrol, Silver,12,12000,USED,Rs. 1300000
+,,,,,,,,,,,
+Maruti Suzuki,swift,2012, Manual,1800, 2WD, Petrol, Silver,10,5200,USED,Rs. 2400000
+Maruti Suzuki,swift,2005, Manual,1300, 2WD, Petrol, Grey,5,58000,USED,Rs. 1250000
+,,,,,,,,,,,
+Maruti Suzuki,alto-LXI,2013, Manual,1000, 2WD, Petrol, Copper Red ,10,9000,USED,Rs. 1499000
+,,,,,,,,,,,
+,,,,,,,,,,,
+Maruti Suzuki,alto-LXI,2013, Manual,1000, 2WD, Petrol, Sky Blue,10,180000,USED,Rs. 1325000
+Maruti Suzuki,swift,2005, Manual,1300, 2WD, Petrol, Blue And White,5,100000,USED,Rs. 1200000
+Maruti Suzuki,swift,2010, Manual,1200, 2WD, Petrol, Dark Blue,10,40000,USED,Rs. 1925000
+,,,,,,,,,,,
+Maruti Suzuki,alto-LXI,2013, Manual,1000, 2WD, Petrol, Shining White,10,24000,USED,Rs. 1500000
+Maruti Suzuki,alto-800,2006, Manual,800, 2WD, Petrol, Wine red,7,39900,USED,Rs. 750000
+Maruti Suzuki,alto-800,2005, Manual,800, 2WD, Petrol, Silver,5,69079,USED,Rs. 850000
+Maruti Suzuki,swift,2013, Manual,1197, 2WD, Petrol, Blue,11,9800,USED,Rs. 2500000
+Maruti Suzuki,swift,2005, Manual,1200, 2WD, Petrol, silver,5,36000,USED,Rs. 1325000
+Maruti Suzuki,swift,2009, Manual,1200, 2WD, Petrol, Silver,9,28000,USED,Rs. 1800000
+Maruti Suzuki,alto-LXI,2013, Manual,1000, 2WD, Petrol, Sky Blue,13,9000,USED,Rs. 1400000
+,,,,,,,,,,,
+Maruti Suzuki,alto-800,2006, Manual,800, 2WD, Petrol, Beige,5,67003,USED,Rs. 775000
+,,,,,,,,,,,
+Maruti Suzuki,alto-800,2007, Manual,800, 2WD, Petrol, silver,6,33000,USED,Rs. 880000
+,,,,,,,,,,,
+Maruti Suzuki,alto-LXI,2012, Manual,1000, 2WD, Petrol, Silver,12,16000,USED,Rs. 1200000
+Maruti Suzuki,Omni,2010, Manual,800, 2WD, Petrol, Arctic Silver,8,61000,USED,Rs. 800000
+,,,,,,,,,,,
+,,,,,,,,,,,
+Maruti Suzuki,astar,2012, Manual,1000, 2WD, Petrol, Silver,9,26000,USED,Rs. 1600000
+Maruti Suzuki,swift,2009, Manual,1300, 2WD, Petrol, Metallic Grey,8,21000,USED,Rs. 1600000
+Maruti Suzuki,alto,2001, Manual,1061, 2WD, Petrol, Sky Blue,3,26447,USED,Rs. 650000
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Nissan,saloon,2003, Manual,1600, 2WD, Petrol, Maroon,4,58000,USED,Rs. 990000
+Nissan,saloon,2008, Manual,1600, 2WD, Petrol, Silver,6,53000,USED,Rs. 1800000
+,,,,,,,,,,,
+Nissan,sunny,2015, Manual,1500, 2WD, Petrol, White,21,26000,USED,Rs. 2150000
+,,,,,,,,,,,
+Nissan,saloon,2005, Automatic,1600, 2WD, Petrol, Champion Gold,5,46000,USED,Rs. 1550000
+,,,,,,,,,,,
+Nissan,sunny,2002, Manual,1600, 2WD, Petrol, Marrone ,4,85000,USED,Rs. 1100000
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Nissan,tiida,2010, Manual,1800, 2WD, Petrol, Shampion Gold,8,39000,USED,Rs. 1850000
+Nissan,sunny,2008, Manual,1600, 2WD, Petrol, Silver,6,53000,USED,Rs. 1800000
+Nissan,sunny,2003, Manual,1600, 2WD, Petrol, Black,4,42000,USED,Rs. 1300000
+Nissan,saloon,2010, Manual,1600, 2WD, Petrol, Golden,7,38000,USED,Rs. 2300000
+,,,,,,,,,,,
+,,,,,,,,,,,
+Nissan,saloon,2001, Manual,1600, 2WD, Petrol, White,3,41000,USED,Rs. 900000
+Nissan,sunny,2013, Manual,1600, 2WD, Petrol, Silver,11,24000,USED,Rs. 2850000
+,,,,,,,,,,,
+,,,,,,,,,,,
+Nissan,sunny,2014, Manual,1498, 2WD, Petrol, Black,14,17000,USED,Rs. 3250000
+,,,,,,,,,,,
+Nissan,sunny,1997, Manual,2000, 2WD, Diesel, Silver,3,59700,USED,Rs. 555000
+Nissan,tiida,2010, Manual,1800, 2WD, Petrol, Shampion Gold,8,39000,USED,Rs. 2000000
+Nissan,sunny,1998, Manual,2000, 2WD, Diesel, Golden brown,3,150000,USED,Rs. 650000
+Nissan,saloon,2005, Manual,1600, 2WD, Petrol, silver,5,39000,USED,Rs. 1500000
+Nissan,saloon,2002, Manual,1597, 2WD, Petrol, blue ,4,79000,USED,Rs. 1100000
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Nissan,saloon,2005, Manual,1600, 2WD, Petrol, Silver,5,39000,USED,Rs. 1375000
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Nissan,tiida,2007, Manual,1800, 2WD, Petrol, White,5,30000,USED,Rs. 2000000
+Nissan,tiida,2007, Manual,1800, 2WD, Petrol, Light Golden,5,46000,USED,Rs. 1875000
+Nissan,tiida,2007, Manual,1800, 2WD, Petrol, Golden silver ,13,56000,USED,Rs. 1800000
+,,,,,,,,,,,
+,,,,,,,,,,,
+Nissan,saloon,2006, Manual,1600, 2WD, Petrol, maroon,5,43500,USED,Rs. 1690000
+,,,,,,,,,,,
+,,,,,,,,,,,
+Nissan,saloon,2007, Manual,1600, 2WD, Petrol, White,5,30000,USED,Rs. 1700000
+,,,,,,,,,,,
+,,,,,,,,,,,
+Nissan,saloon,2008, Manual,1600, 2WD, Petrol, Silver,7,29000,USED,Rs. 2975000
+,,,,,,,,,,,
+,,,,,,,,,,,
+Nissan,sunny,2010, Manual,1596, 2WD, Petrol, silver ,8,31000,USED,Rs. 2300000
+,,,,,,,,,,,
+,,,,,,,,,,,
+Nissan,saloon,2007, Manual,1600, 2WD, Petrol, golden,6,12345,USED,Rs. 1775000
+Nissan,sunny,2013, Manual,1500, 2WD, Petrol, Grey,12,19000,USED,Rs. 2900000
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Nissan,saloon,2007, Manual,1600, 2WD, Petrol, golden,5,48000,USED,Rs. 1750000
+Nissan,sunny,1998, Manual,2000, 2WD, Diesel, White,3,100000,USED,Rs. 575000
+Nissan,saloon,2006, Manual,1600, 2WD, Petrol, silver,5,32000,USED,Rs. 1725000
+,,,,,,,,,,,
+Nissan,saloon,2004, Manual,1600, 2WD, Petrol, Black,4,64000,USED,Rs. 1800000
+,,,,,,,,,,,
+,,,,,,,,,,,
+Nissan,saloon,2003, Manual,1600, 2WD, Petrol, Black,4,57773,USED,Rs. 1650000
+Nissan,saloon,2006, Manual,2000, 2WD, Petrol, Silver,5,61483,USED,Rs. 2200000
+Nissan,saloon,2005, Manual,1597, 2WD, Petrol, Silver,5,43828,USED,Rs. 1650000
+Nissan,tiida,2006, Manual,1800, 2WD, Petrol, Yellowish Silver,5,19000,USED,Rs. 1800000
+Nissan,saloon,2002, Manual,1600, 2WD, Petrol, Black,4,37000,USED,Rs. 1250000
+Nissan,tiida,2007, Manual,1800, 2WD, Petrol, Black,6,58000,USED,Rs. 2000000
+Skoda,fabia,2009, Manual,1200, 2WD, Petrol, Silver,7,42000,USED,Rs. 1125000
+Skoda,fabia,2009, Manual,1200, 2WD, Petrol, Silver,7,45000,USED,Rs. 900000
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Skoda,laura,2011, Manual,1900, 2WD, Diesel, Standard Black,9,35000,USED,Rs. 3600000
+,,,,,,,,,,,
+Skoda,laura,2011, Manual,1896, 2WD, Diesel, Black,9,42000,USED,Rs. 4000000
+Skoda,rapid,2012, Automatic,1600, 2WD, Petrol, black,10,65000,USED,Rs. 2250000
+Skoda,rapid,2013, Manual,1600, 2WD, Petrol, Grey,10,32000,USED,Rs. 1850000
+Skoda,laura,2010, Manual,2000, 2WD, Diesel, dark grey,8,49000,USED,Rs. 3600000
+Skoda,laura,2011, Manual,1900, 2WD, Diesel, Black,9,50000,USED,Rs. 3800000
+Skoda,fabia,2009, Manual,1200, 2WD, Petrol, Capachine Baige,7,54000,USED,Rs. 1275000
+Skoda,rapid,2013, Manual,1600, 2WD, Petrol, Chocolate colour,11,22000,USED,Rs. 2250000
+Skoda,rapid,2013, Manual,1600, 2WD, Petrol, Light brown,10,18000,USED,Rs. 2675000
+Skoda,fabia,2009, Manual,1200, 2WD, Petrol, Silver,7,40000,USED,Rs. 1425000
+Skoda,laura,2010, Manual,1900, 2WD, Diesel, Silver,8,47000,USED,Rs. 3600000
+Skoda,laura,2011, Manual,1896, 2WD, Petrol, Black,11,53000,USED,Rs. 4200000
+Skoda,superb,2009, Automatic,1798, 2WD, Petrol, Black,7,46000,USED,Rs. 5500000
+Skoda,octavia,2009, Manual,1900, 2WD, Diesel, Blue,6,57000,USED,Rs. 2750000
+Skoda,laura,2011, Manual,1896, 2WD, Petrol, Black,9,53000,USED,Rs. 4200000
+Skoda,laura,2011, Manual,2000, 2WD, Petrol, Black,8,45000,USED,Rs. 3800000
+Skoda,fabia,2009, Manual,1200, 2WD, Petrol, Silver,9,40000,USED,Rs. 1300000
+Skoda,rapid,2014, Manual,1598, 2WD, Petrol, Deep Black,12,13500,USED,Rs. 3300000
+Skoda,superb,2010, Automatic,2000, 2WD, Petrol, Maroon,10,20000,USED,Rs. 6000000
+Skoda,laura,2011, Manual,2000, 2WD, Diesel, Metallic Grey,9,30000,USED,Rs. 4300000
+,,,,,,,,,,,
+Skoda,fabia,2010, Manual,1600, 2WD, Petrol, Black,8,35000,USED,Rs. 1650000
+Skoda,fabia,2009, Manual,1198, 2WD, Petrol, red,7,33000,USED,Rs. 1625000
+Skoda,laura,2012, Manual,1968, 2WD, Diesel, Silver Grey,9,7200,USED,Rs. 5000000
+,,,,,,,,,,,
+Skoda,superb,2012, Automatic,1800, 2WD, Petrol, Maroon,9,20000,USED,Rs. 6000000
+Skoda,laura,2009, Manual,1800, 2WD, Diesel, Blue,7,43000,USED,Rs. 3300000
+Skoda,laura,2010, Manual,1968, 2WD, Diesel, Grey,8,40000,USED,Rs. 3650000
+Skoda,superb,2013, Manual,1800, 2WD, Diesel, White,11,9500,USED,Rs. 5750000
+Skoda,fabia,2009, Manual,1598, 2WD, Petrol, Red,9,29000,USED,Rs. 1575000
+Skoda,fabia,2012, Manual,1598, 2WD, Petrol, white,9,9000,USED,Rs. 2200000
+Skoda,fabia,2012, Manual,1598, 2WD, Petrol, white,9,7100,USED,Rs. 2400000
+Skoda,octavia,2008, Manual,2000, 2WD, Diesel, Silver,6,34216,USED,Rs. 2675000
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Tata,sumo,2017, Manual,2956, 2WD, Diesel, red/maroon,4,72000,USED,Rs. 2700000
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Tata,safari,2013, Manual,2179, 2WD, Diesel, White,11,45000,USED,Rs. 2950000
+Tata,ace,2013, Manual,800, 2WD, Diesel, White ,1,40000,USED,Rs. 550000
+Tata,indica,2008, Manual,1248, 2WD, Diesel, RED,6,65000,USED,Rs. 1300000
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Tata,bolt,2016, Manual,1248, 2WD, Petrol, silver,15,36000,USED,Rs. 2100000
+Tata,sumo,2015, Manual,2900, 2WD, Diesel, silver,14,150000,USED,Rs. 2000000
+,,,,,,,,,,,
+,,,,,,,,,,,
+Tata,ace,2017, Manual,800, 2WD, Diesel, Blue,17,48000,USED,Rs. 1100000
+Tata,indica,2010, Manual,1248, 2WD, Diesel, sky blue white,8,70000,USED,Rs. 925000
+Tata,indica,2014, Manual,1400, 2WD, Diesel, silver,12,35000,USED,Rs. 930000
+Tata,safari,2009, Manual,2200, 4WD, Petrol, Cycus Grey,7,95000,USED,Rs. 2500000
+Tata,indica,2010, Manual,1405, 2WD, Diesel, grey,8,60000,USED,Rs. 900000
+Tata,indica,2009, Manual,1248, 2WD, Diesel, sea grey,7,41000,USED,Rs. 900000
+Tata,safari,2010, Manual,2179, 2WD, Diesel, RED,8,35000,USED,Rs. 2500000
+Tata,sumo,2016, Manual,2900, 2WD, Diesel, Silver white,1,7000,USED,Rs. 2950000
+,,,,,,,,,,,
+Tata,sumo,2013, Manual,2900, 2WD, Diesel, Grey,10,35000,USED,Rs. 2000000
+Tata,indica,2010, Manual,1200, 2WD, Petrol, Res,10,20000,USED,Rs. 1300000
+Tata,sumo,2013, Manual,2900, 2WD, Diesel, Grey,10,35000,USED,Rs. 2000000
+Tata,indica,2004, Manual,1400, 2WD, Diesel, Aqua green,4,62000,USED,Rs. 450000
+Tata,indica,2012, Manual,1200, 2WD, Diesel, White,9,52000,USED,Rs. 1325000
+Tata,strome,2014, Manual,2200, 2WD, Diesel, Urban bronze,14,11000,USED,Rs. 4700000
+Tata,sumo,2014, Manual,3000, 2WD, Diesel, Red,12,45000,USED,Rs. 2850000
+Tata,nano,2012, Manual,625, 2WD, Petrol, Cream,10,5500,USED,Rs. 475000
+,,,,,,,,,,,
+,,,,,,,,,,,
+Tata,sumo,2014, Manual,2999, 2WD, Diesel, RED,12,45000,USED,Rs. 2750000
+,,,,,,,,,,,
+,,,,,,,,,,,
+Tata,ace,2015, Manual,702, 2WD, Diesel, Blue,14,16300,USED,Rs. 1050000
+Tata,indica,2000, Manual,1459, 2WD, Diesel, blue,3,100000,USED,Rs. 350000
+Tata,nano,2011, Manual,624, 2WD, Petrol, Red,9,20000,USED,Rs. 450000
+Tata,nano,2012, Manual,624, 2WD, Petrol, Yellow,10,44000,USED,Rs. 600000
+Tata,indica,2003, Manual,1405, 2WD, Diesel, Grey,4,100000,USED,Rs. 499999
+Tata,indica,2012, Manual,1405, 2WD, Diesel, Red,10,40000,USED,Rs. 1050000
+Tata,indica,2006, Manual,1400, 2WD, Petrol, silver,5,36000,USED,Rs. 666666
+Tata,nano,2011, Manual,624, 2WD, Petrol, Red,9,8000,USED,Rs. 450000
+Tata,sumo,2011, Manual,2400, 2WD, Diesel, Silver,9,800000,USED,Rs. 1850000
+,,,,,,,,,,,
+Tata,safari,2013, Manual,2200, 2WD, Diesel, Silver,10,25000,USED,Rs. 2400000
+,,,,,,,,,,,
+Tata,safari,2007, Manual,2200, 4WD, Diesel, WHITE,5,98000,USED,Rs. 1650000
+Tata,indica,2007, Manual,1405, 2WD, Diesel, Sky Blue,5,52000,USED,Rs. 550000
+Tata,nano,2012, Manual,624, 2WD, Petrol, Sky Blue,10,10000,USED,Rs. 425000
+Tata,indica,2003, Manual,1405, 2WD, Diesel, Maroon,5,33000,USED,Rs. 850000
+Tata,sumo,2013, Manual,2900, 2WD, Diesel, Silver,10,100000,USED,Rs. 2000000
+,,,,,,,,,,,
+,,,,,,,,,,,
+Tata,sumo,2012, Manual,2956, 2WD, Petrol, Sardania Red,9,40000,USED,Rs. 2050000
+Tata,grande,2008, Manual,2100, 2WD, Diesel, silver,6,110000,USED,Rs. 2200000
+Tata,indica,2005, Manual,1400, 2WD, Diesel, Maroon,5,52300,USED,Rs. 525000
+Tata,indica,2004, Manual,1400, 2WD, Petrol, Red,4,60000,USED,Rs. 500000
+Tata,grande,2016, Manual,1000, 2WD, Diesel, green,6,5000,USED,Rs. 1200000
+,,,,,,,,,,,
+,,,,,,,,,,,
+Tata,grande,2010, Manual,2200, 2WD, Diesel, Silver,8,55000,USED,Rs. 1550000
+Tata,indica,2005, Manual,1405, 2WD, Diesel, Silver,5,55700,USED,Rs. 575000
+Tata,sumo,2010, Manual,2956, 2WD, Petrol, maroon red,14,48000,USED,Rs. 1500000
+Tata,indica,2012, Manual,1400, 2WD, Diesel, Burgandy royal,10,13000,USED,Rs. 1230000
+Tata,nano,2011, Manual,624, 2WD, Petrol, Blue,9,40000,USED,Rs. 400000
+,,,,,,,,,,,
+,,,,,,,,,,,
+Tata,indica,2010, Manual,1500, 2WD, Petrol, Maroon/Orange,7,40000,USED,Rs. 1350000
+Tata,nano,2011, Manual,624, 2WD, Petrol, Blue,9,25000,USED,Rs. 400000
+,,,,,,,,,,,
+Tata,safari,2014, Manual,2200, 4WD, Diesel, White,12,20000,USED,Rs. 3600000
+Tata,manza,2013, Manual,1495, 2WD, Petrol, tyrine wine,11,25000,USED,Rs. 2450000
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Tata,indica,2010, Manual,1400, 2WD, Petrol, Gray,8,35000,USED,Rs. 800000
+Tata,indica,2009, Manual,1400, 2WD, Petrol, Gray,7,45000,USED,Rs. 875000
+Tata,indica,2010, Manual,1500, 2WD, Diesel, Maroon/Orange,8,40000,USED,Rs. 1350000
+Tata,nano,2012, Manual,624, 2WD, Petrol, Sky blue,10,23000,USED,Rs. 475000
+Tata,indica,2010, Manual,1248, 2WD, Diesel, sky blue,8,30000,USED,Rs. 1550000
+,,,,,,,,,,,
+Tata,indica,2002, Manual,1405, 2WD, Petrol, Aqua Green,4,76000,USED,Rs. 565000
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Tata,indica,2002, Manual,1405, 4WD, Petrol, Dark Red,4,22606,USED,Rs. 437000
+Tata,indica,2002, Manual,1405, 2WD, Petrol, Aqua Green,4,75000,USED,Rs. 645000
+Tata,sumo,2011, Manual,2523, 2WD, Diesel, red,13,35000,USED,Rs. 1675000
+Tata,indica,2010, Manual,1400, 2WD, Petrol, KARBON GREY,8,19000,USED,Rs. 775000
+,,,,,,,,,,,
+Tata,sumo,2013, Manual,2997, 2WD, Diesel, grey,10,50000,USED,Rs. 2300000
+Tata,indica,2010, Manual,1248, 2WD, Diesel, grey,8,36000,USED,Rs. 1300000
+Tata,ace,2014, Manual,1405, 2WD, Diesel, White,12,11000,USED,Rs. 1400000
+,,,,,,,,,,,
+Tata,venture,2012, Manual,1400, 2WD, Diesel, metallic silver,10,32000,USED,Rs. 1400000
+Tata,nano,2011, Manual,650, 2WD, Petrol, Yellow,9,6000,USED,Rs. 675000
+Tata,nano,2011, Manual,624, 2WD, Petrol, White,9,21000,USED,Rs. 475000
+Tata,indica,2007, Manual,1405, 2WD, Diesel, Carbon Black,5,43000,USED,Rs. 770000
+Tata,indica,2010, Manual,1300, 2WD, Diesel, Blue,7,35265,USED,Rs. 1200000
+Tata,sumo,2006, Manual,2000, 2WD, Diesel, Red,5,60000,USED,Rs. 1250000
+Tata,indica,2003, Manual,1405, 2WD, Petrol, Maroon,5,31059,USED,Rs. 800000
+Tata,indica,2007, Manual,1405, 2WD, Diesel, Silver,6,73060,USED,Rs. 700000
+Tata,indigo,2010, Manual,1000, 2WD, Petrol, black,12,15000,USED,Rs. 200000
+Tata,indica,2002, Manual,1450, 2WD, Diesel, Red,4,60000,USED,Rs. 380000
+Tata,sumo,2008, Manual,2000, 2WD, Diesel, Black ,6,55000,USED,Rs. 1300000
+,,,,,,,,,,,
+Tata,indica,2010, Manual,1500, 2WD, Diesel, Maroon Orange,10,40000,USED,Rs. 1350000
+Tata,indica,2007, Manual,1405, 2WD, Diesel, Gray ,5,38000,USED,Rs. 700000
+Tata,indica,2005, Manual,1405, 2WD, Diesel, Smokey Grey,5,72300,USED,Rs. 610000
+Tata,sumo,2012, Manual,3000, 2WD, Diesel, silvar,10,25000,USED,Rs. 2250000
+Tata,nano,2011, Manual,650, 2WD, Petrol, yellow,9,31000,USED,Rs. 575000
+Tata,grande,2010, Manual,2200, 2WD, Diesel, walnut green,8,65000,USED,Rs. 1800000
+,,,,,,,,,,,
+,,,,,,,,,,,
+Tata,safari,2007, Manual,2900, 2WD, Diesel, silver,6,80000,USED,Rs. 2200000
+Tata,nano,2012, Manual,624, 2WD, Petrol, blue,10,20000,USED,Rs. 525000
+Tata,grande,2008, Manual,2500, 2WD, Diesel, marin blue,6,100000,USED,Rs. 1650000
+Tata,indigo,2009, Manual,1405, 2WD, Petrol, grey,7,35000,USED,Rs. 1050000
+Tata,sumo,2010, Manual,1948, 2WD, Diesel, Silver ,8,64000,USED,Rs. 1575000
+Tata,manza,2013, Manual,1300, 2WD, Diesel, Purple,11,15000,USED,Rs. 2450000
+Tata,indica,2001, Manual,1400, 2WD, Diesel, Silver,3,58000,USED,Rs. 450000
+,,,,,,,,,,,
+Tata,indica,2011, Manual,1500, 2WD, Diesel, Green,9,32000,USED,Rs. 1125000
+Tata,indica,2007, Manual,1396, 2WD, Petrol, Red,5,70000,USED,Rs. 850000
+Tata,safari,2014, Manual,2200, 2WD, Diesel, Silver,11,6500,USED,Rs. 3650000
+Tata,manza,2014, Manual,1495, 2WD, Petrol, tyrine wine,11,15000,USED,Rs. 2450000
+,,,,,,,,,,,
+Tata,indigo,2003, Manual,1400, 2WD, Diesel, light green,4,92000,USED,Rs. 650000
+Tata,indica,2005, Manual,1405, 2WD, Diesel, Sky Blue,4,69000,USED,Rs. 725000
+Tata,indica,2005, Manual,1396, 2WD, Diesel, Silver,5,75000,USED,Rs. 700000
+Tata,grande,2013, Manual,2500, 2WD, Diesel, grey,13,85000,USED,Rs. 2750000
+Tata,indica,2001, Automatic,1405, 2WD, Petrol, golden,2,70000,USED,Rs. 480000
+Tata,sumo,2008, Manual,1900, 2WD, Diesel, red,2,100000,USED,Rs. 1400000
+,,,,,,,,,,,
+Tata,indica,2003, Manual,1400, 2WD, Diesel, Aqua Green,4,54000,USED,Rs. 595000
+Tata,indica,2011, Manual,1385, 2WD, Petrol, Gray,11,11000,USED,Rs. 1600000
+Tata,indica,2007, Manual,1400, 2WD, Diesel, orange,5,67000,USED,Rs. 725000
+,,,,,,,,,,,
+,,,,,,,,,,,
+Toyota,corolla,2007, Manual,1597, 2WD, Petrol, grey,6,85000,USED,Rs. 2250000
+Toyota,fortuner,2015, Manual,3000, 4WD, Diesel, White,14,37000,USED,Rs. 11500000
+Toyota,fortuner,2009, Manual,3000, 4WD, Diesel, Golden,17,58000,USED,Rs. 6775000
+Toyota,corolla,2007, Manual,1600, 2WD, Petrol, Black,6,42000,USED,Rs. 2600000
+Toyota,fortuner,2009, Manual,3000, 4WD, Diesel, Beige,7,78000,USED,Rs. 6550000
+Toyota,fortuner,2018, Manual,2600, 4WD, Petrol, Red,19,500000,USED,Rs. 6500000
+,,,,,,,,,,,
+Toyota,fortuner,2010, Manual,2897, 4WD, Diesel, SILVER,9,92314,USED,Rs. 6500000
+Toyota,corolla,2012, Manual,1600, 4WD, Petrol, matt black,11,35000,USED,Rs. 3500000
+Toyota,hilux,2015, Manual,3000, 4WD, Diesel, Blue,13,37000,USED,Rs. 6700000
+,,,,,,,,,,,
+Toyota,corolla,2008, Manual,1500, 2WD, Petrol, Grey,6,52000,USED,Rs. 2850000
+,,,,,,,,,,,
+Toyota,cruiser,1997, Manual,2800, 4WD, Diesel, metallic silver,3,98000,USED,Rs. 3300000
+,,,,,,,,,,,
+Toyota,corolla,2010, Manual,1200, 2WD, Petrol, Grey,8,40000,USED,Rs. 3700000
+Toyota,corolla,1996, Manual,1500, 2WD, Petrol, Silver,3,109721,USED,Rs. 700000
+Toyota,etios,2014, Manual,1500, 2WD, Petrol, Silver,12,7000,USED,Rs. 2700000
+,,,,,,,,,,,
+,,,,,,,,,,,
+Toyota,echo,2001, Manual,1300, 2WD, Petrol, Golden,3,72000,USED,Rs. 925000
+Toyota,avanza,2010, Manual,1298, 2WD, Petrol, Silver ,8,50000,USED,Rs. 2400000
+Toyota,corolla,1996, Manual,1500, 2WD, Petrol, Silver,3,109725,USED,Rs. 700000
+,,,,,,,,,,,
+Toyota,etios,2013, Manual,1500, 2WD, Petrol, Grey,11,31000,USED,Rs. 2400000
+Toyota,hilux,2011, Manual,2494, 4WD, Diesel, grey,9,65000,USED,Rs. 5045000
+,,,,,,,,,,,
+Toyota,corolla,2008, Manual,1600, 2WD, Petrol, grey,8,42000,USED,Rs. 3225000
+,,,,,,,,,,,
+Toyota,corolla,2007, Manual,1600, 2WD, Petrol, Black,6,42000,USED,Rs. 2650000
+Toyota,camry,1992, Manual,2000, 2WD, Diesel, Metalic Green,3,180000,USED,Rs. 1500000
+Toyota,corolla,2008, Manual,1600, 2WD, Petrol, Crystal White,6,37000,USED,Rs. 3150000
+,,,,,,,,,,,
+Toyota,corolla,2007, Manual,1600, 2WD, Petrol, Standard Black,6,38000,USED,Rs. 2900000
+,,,,,,,,,,,
+,,,,,,,,,,,
+Toyota,corolla,2006, Manual,1600, 2WD, Petrol, White,6,53000,USED,Rs. 2975000
+Toyota,cruiser,1997, Manual,2800, 4WD, Diesel, metallic silver ,3,94000,USED,Rs. 3500000
+,,,,,,,,,,,
+,,,,,,,,,,,
+Toyota,echo,2000, Manual,1300, 2WD, Petrol, Blue,4,70000,USED,Rs. 1000000
+,,,,,,,,,,,
+Toyota,corolla,2007, Manual,1600, 2WD, Petrol, Standard Black,6,38000,USED,Rs. 2900000
+Toyota,camry,2007, Automatic,2200, 2WD, Petrol, GREY,8,12601,USED,Rs. 240000
+Toyota,echo,2001, Manual,1300, 2WD, Petrol, Golden,8,60000,USED,Rs. 1150000
+Toyota,corolla,2009, Manual,1600, 2WD, Petrol, GREY,7,64000,USED,Rs. 3400000
+Toyota,corolla,1992, Automatic,1500, 2WD, Petrol, White,2,150,USED,Rs. 625000
+,,,,,,,,,,,
+Toyota,echo,2002, Manual,1300, 2WD, Petrol, BLUE,3,69000,USED,Rs. 1075000
+Toyota,corolla,2010, Manual,1596, 2WD, Petrol, Red,8,33000,USED,Rs. 4275000
+Toyota,hilux,2009, Manual,2494, 4WD, Diesel, Grey,7,55000,USED,Rs. 3900000
+Toyota,corolla,1996, Manual,1500, 2WD, Petrol, Green,3,75000,USED,Rs. 725000
+,,,,,,,,,,,
+,,,,,,,,,,,
+Toyota,hilux,2012, Manual,2500, 4WD, Diesel, Grey,9,92000,USED,Rs. 5000000
+Toyota,corona,1995, Automatic,1600, 2WD, Petrol, White,4,150000,USED,Rs. 700000
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Toyota,hilux,2010, Manual,2500, 4WD, Diesel, SILVER METALIC,8,59000,USED,Rs. 4400000
+Toyota,avanza,2011, Manual,1300, 2WD, Petrol, silver,14,50000,USED,Rs. 2450000
+Toyota,corolla,2007, Manual,1600, 2WD, Petrol, silver,6,40000,USED,Rs. 2750000
+Toyota,cruiser,1989, Manual,2800, 4WD, Diesel, Dark Maroon,2,97800,USED,Rs. 455000
+,,,,,,,,,,,
+,,,,,,,,,,,
+Toyota,corolla,2010, Manual,1200, 2WD, Petrol, gray,8,45000,USED,Rs. 3850000
+,,,,,,,,,,,
+Toyota,etios,2013, Manual,1500, 2WD, Petrol, silver,12,13000,USED,Rs. 3000000
+Toyota,corolla,2003, Manual,1500, 2WD, Petrol, Silver,4,70000,USED,Rs. 1550000
+Toyota,echo,2001, Manual,1300, 2WD, Petrol, Sampion Gold,3,70000,USED,Rs. 1050000
+Toyota,hilux,2012, Manual,2494, 4WD, Diesel, Grey,9,51000,USED,Rs. 5500000
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Toyota,corolla,2007, Manual,1498, 2WD, Petrol, silver,5,40500,USED,Rs. 2475000
+Toyota,prado,2007, Manual,2982, 4WD, Diesel, Maroon,6,81000,USED,Rs. 9000000
+Toyota,avanza,2012, Manual,1298, 2WD, Petrol, light blue metalic,10,38000,USED,Rs. 3500000
+Toyota,corolla,2007, Manual,1600, 2WD, Petrol, Silver,6,29000,USED,Rs. 2825000
+,,,,,,,,,,,
+,,,,,,,,,,,
+Toyota,hilux,2012, Manual,2500, 4WD, Diesel, Grey,9,32000,USED,Rs. 5275000
+,,,,,,,,,,,
+Toyota,corolla,2010, Manual,1598, 2WD, Petrol, Red,8,33000,USED,Rs. 4275000
+Toyota,avanza,2012, Manual,1298, 2WD, Petrol, Metallic Gray,10,45000,USED,Rs. 3500000
+Toyota,corolla,2007, Manual,1600, 2WD, Petrol, Silver,6,29000,USED,Rs. 2825000
+Toyota,cruiser,1998, Manual,4200, 4WD, Diesel, Cocktail of golden & black,2,105700,USED,Rs. 5300000
+Toyota,fortuner,2012, Manual,3000, 4WD, Diesel, Gray ,10,39000,USED,Rs. 9100000
+Toyota,hilux,2010, Manual,2500, 4WD, Diesel, white,7,9000,USED,Rs. 250000
+Toyota,corolla,2006, Manual,1500, 2WD, Petrol, Silver,5,70000,USED,Rs. 2100000
+Toyota,corolla,2006, Manual,1500, 2WD, Petrol, Silver,5,69000,USED,Rs. 2300000
+Toyota,echo,2002, Manual,1300, 2WD, Petrol, Gray,4,50000,USED,Rs. 1125000
+,,,,,,,,,,,
+,,,,,,,,,,,
+Toyota,hilux,2007, Manual,2523, 4WD, Diesel, brown,6,44000,USED,Rs. 3400000
+,,,,,,,,,,,
+Toyota,prado,2008, Manual,2986, 4WD, Diesel, Gray ,6,60000,USED,Rs. 9500000
+,,,,,,,,,,,
+,,,,,,,,,,,
+Toyota,corolla,2008, Manual,1600, 2WD, Petrol, black,6,37200,USED,Rs. 3250000
+Toyota,corolla,2008, Manual,1600, 2WD, Petrol, GREY,6,33000,USED,Rs. 3400000
+,,,,,,,,,,,
+Toyota,hilux,2008, Manual,2523, 4WD, Diesel, Silver,6,56000,USED,Rs. 3450000
+Toyota,avanza,2006, Manual,1300, 2WD, Petrol, Silver,5,67000,USED,Rs. 2175000
+,,,,,,,,,,,
+,,,,,,,,,,,
+Toyota,cruiser,2002, Manual,4200, 4WD, Diesel, Black,5,68000,USED,Rs. 16800000
+,,,,,,,,,,,
+,,,,,,,,,,,
+Toyota,hilux,2010, Manual,2800, 2WD, Petrol, Dark green,9,41000,USED,Rs. 4200000
+Toyota,echo,2004, Manual,1300, 2WD, Petrol, Gray,5,45000,USED,Rs. 1400000
+Toyota,hilux,2012, Manual,2523, 4WD, Petrol, Gray ,9,52000,USED,Rs. 4850000
+Toyota,prado,2007, Manual,2800, 4WD, Diesel, Golden,6,45000,USED,Rs. 9500000
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Toyota,corolla,2007, Manual,1600, 2WD, Petrol, Black,5,70000,USED,Rs. 2850000
+,,,,,,,,,,,
+Toyota,echo,2000, Manual,1300, 2WD, Petrol, Blue,3,60000,USED,Rs. 1050000
+,,,,,,,,,,,
+,,,,,,,,,,,
+Toyota,prado,2015, Automatic,2900, 4WD, Diesel, Black,13,369,USED,Rs. 20000000
+Toyota,camry,2011, Automatic,2200, 2WD, Diesel, Grey,8,23000,USED,Rs. 4600000
+Toyota,etios,2015, Manual,1500, 2WD, Petrol, RED,13,8000,USED,Rs. 3150000
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Toyota,hilux,2012, Manual,2494, 4WD, Diesel, Gray ,10,29000,USED,Rs. 5150000
+,,,,,,,,,,,
+Toyota,cruiser,2010, Automatic,4400, 4WD, Diesel, White,9,25000,USED,Rs. 18975000
+Toyota,hilux,2009, Manual,2523, 4WD, Diesel, Gray ,7,45000,USED,Rs. 3675000
+,,,,,,,,,,,
+Toyota,hilux,2009, Manual,2523, 4WD, Petrol, golden ,7,58000,USED,Rs. 3675000
+Toyota,hilux,2008, Manual,2523, 4WD, Diesel, Golden,6,55000,USED,Rs. 3400000
+,,,,,,,,,,,
+Toyota,avanza,2011, Manual,1300, 2WD, Petrol, Silver,9,23000,USED,Rs. 3200000
+Toyota,corolla,2008, Manual,1600, 2WD, Petrol, Black,6,44000,USED,Rs. 2950000
+Toyota,hilux,2010, Manual,2000, 4WD, Diesel, whit,8,60000,USED,Rs. 4075000
+Toyota,corolla,1991, Manual,1600, 2WD, Petrol, White,2,120000,USED,Rs. 390000
+Toyota,corolla,2010, Manual,1600, 2WD, Petrol, Grey,8,40000,USED,Rs. 4150000
+Toyota,avanza,2010, Manual,1300, 2WD, Petrol, Silver,8,45000,USED,Rs. 2500000
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Toyota,etios,2013, Manual,1496, 2WD, Petrol, Grey,12,8800,USED,Rs. 2950000
+Toyota,avanza,2014, Manual,1298, 2WD, Petrol, Grey metallic,1,9000,USED,Rs. 4800000
+Toyota,corolla,2007, Manual,1600, 2WD, Petrol, grey,6,35000,USED,Rs. 2825000
+,,,,,,,,,,,
+Toyota,corolla,2007, Manual,1500, 2WD, Petrol, sleek silver,6,80000,USED,Rs. 2450000
+Toyota,avanza,2011, Manual,1500, 2WD, Petrol, SILVER,11,28000,USED,Rs. 2875000
+Toyota,corolla,1999, Manual,1300, 2WD, Petrol, Silver,3,90000,USED,Rs. 1050000
+Toyota,corolla,2011, Manual,1600, 2WD, Petrol, SILVER,9,34000,USED,Rs. 4650000
+Toyota,echo,2000, Manual,1299, 2WD, Petrol, Golden ,3,84000,USED,Rs. 1125000
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Toyota,corolla,1989, Manual,1500, 2WD, Petrol, white,1,118511,USED,Rs. 475000
+Toyota,prado,1998, Manual,3000, 2WD, Diesel, silver,1,50000,USED,Rs. 4500000
+Toyota,corolla,2007, Manual,1600, 2WD, Petrol, Grey,6,55145,USED,Rs. 3150000
+Toyota,cruiser,1986, Manual,2600, 2WD, Diesel, Golden,3,200000,USED,Rs. 700000
+Toyota,prado,1997, Manual,2800, 4WD, Diesel, White,12,200000,USED,Rs. 3500000
+Toyota,echo,2003, Manual,1300, 2WD, Petrol, Grey,5,60000,USED,Rs. 1475000
+Toyota,hiace,2007, Manual,3000, 2WD, Diesel, silver,2,515175,USED,Rs. 4300000
+Toyota,corolla,1990, Manual,1500, 2WD, Petrol, Giolden,2,100000,USED,Rs. 450000
+,,,,,,,,,,,
+,,,,,,,,,,,
+Toyota,echo,2003, Manual,1300, 2WD, Petrol, Golden,5,90000,USED,Rs. 1150000
+Toyota,hilux,2010, Manual,2500, 4WD, Petrol, white,8,58000,USED,Rs. 4100000
+Toyota,corolla,1990, Manual,2000, 2WD, Diesel, Grey Metallic,2,90000,USED,Rs. 650000
+Toyota,cruiser,1994, Manual,2800, 4WD, Diesel, Silver blue,2,100000,USED,Rs. 2500000
+Toyota,prado,1999, Manual,2800, 4WD, Petrol, Silver,2,100000,USED,Rs. 4000000
+Toyota,corolla,2008, Manual,1600, 2WD, Petrol, grey,6,32000,USED,Rs. 3200000
+Toyota,corolla,2008, Manual,1600, 2WD, Petrol, grey,8,35000,USED,Rs. 3400000
+Toyota,prado,1997, Manual,2800, 4WD, Diesel, White,2,200000,USED,Rs. 3400000
+Toyota,cruiser,2002, Manual,3000, 4WD, Diesel, silver,10,93000,USED,Rs. 5800000
+Toyota,corolla,2008, Manual,1600, 2WD, Petrol, Silver,6,40000,USED,Rs. 2500000
+Toyota,corolla,2009, Automatic,1600, 2WD, Petrol, White,9,30500,USED,Rs. 4150000
+Toyota,corolla,2003, Manual,1500, 2WD, Petrol, Maroon,5,104000,USED,Rs. 1700000
+Toyota,hilux,2011, Manual,2500, 2WD, Petrol, Dark Gray,1,55000,USED,Rs. 4600000
+,,,,,,,,,,,
+Toyota,corolla,1987, Manual,1500, 2WD, Petrol, white,2,120000,USED,Rs. 450000
+Toyota,cruiser,1999, Manual,2800, 4WD, Diesel, Blue,1,101800,USED,Rs. 4400000
+Toyota,cruiser,2008, Manual,2982, 4WD, Diesel, silver,8,40000,USED,Rs. 17000000
+Toyota,corolla,2008, Manual,1600, 2WD, Petrol, Black,8,31900,USED,Rs. 3550000
+,,,,,,,,,,,
+,,,,,,,,,,,
+Toyota,cruiser,2002, Manual,4200, 4WD, Diesel, White,11,67218,USED,Rs. 9699000
+,,,,,,,,,,,
+Toyota,corolla,1987, Manual,1200, 2WD, Petrol, silver,1,50000,USED,Rs. 425000
+Toyota,hiace,2002, Manual,3000, 2WD, Diesel, White,11,65000,USED,Rs. 2950000
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Volkswagen,polo,2014, Manual,1598, 2WD, Petrol, Silver,12,32000,USED,Rs. 2075000
+Volkswagen,tiguan,2014, Manual,2000, 4WD, Petrol, Brown,12,52000,USED,Rs. 6500000
+,,,,,,,,,,,
+Volkswagen,polo,2011, Manual,1600, 2WD, Petrol, Red,9,11331,USED,Rs. 2200000
+Volkswagen,polo,2015, Manual,1600, 2WD, Petrol, toffee brown,13,27000,USED,Rs. 2500000
+Volkswagen,beetle,2010, Manual,1600, 2WD, Petrol, red,8,30000,USED,Rs. 3000000
+Volkswagen,polo,2011, Manual,1600, 2WD, Petrol, Silver,9,35000,USED,Rs. 2000000
+Volkswagen,polo,2011, Manual,1600, 2WD, Petrol, Grey,9,40000,USED,Rs. 2025000
+Volkswagen,tiguan,2010, Manual,2000, 4WD, Petrol, White,8,43000,USED,Rs. 4100000
+Volkswagen,polo,2011, Manual,1600, 2WD, Petrol, Grey ,9,51000,USED,Rs. 1725000
+Volkswagen,tiguan,2010, Manual,2000, 2WD, Petrol, Silver,8,43000,USED,Rs. 4750000
+Volkswagen,polo,2015, Manual,1600, 2WD, Petrol, toffee brown,13,27000,USED,Rs. 2500000
+Volkswagen,polo,2015, Manual,1600, 2WD, Petrol, grey,13,35000,USED,Rs. 2650000
+Volkswagen,tiguan,2010, Automatic,2000, 4WD, Diesel, Grey,8,47000,USED,Rs. 6100000
+Volkswagen,polo,2011, Manual,1600, 2WD, Petrol, Silver,9,26876,USED,Rs. 2025000
+Volkswagen,vento,2015, Manual,1600, 2WD, Petrol, White,13,10800,USED,Rs. 3450000
+Volkswagen,vento,2013, Manual,1600, 2WD, Petrol, White,10,27000,USED,Rs. 2800000
+Volkswagen,polo,2013, Manual,1600, 2WD, Petrol, Blue,11,28000,USED,Rs. 2350000
+Volkswagen,vento,2013, Manual,1598, 2WD, Petrol, Golden Beige,10,15000,USED,Rs. 3480000
+,,,,,,,,,,,
+Volkswagen,polo,2012, Manual,1600, 2WD, Petrol, gray ,10,25000,USED,Rs. 2350000
+Volkswagen,polo,2011, Manual,1600, 2WD, Petrol, Grey,8,32000,USED,Rs. 1975000
+Volkswagen,vento,2013, Manual,1600, 2WD, Petrol, Silver,11,43000,USED,Rs. 2800000
+Volkswagen,tiguan,2011, Manual,1984, 4WD, Petrol, Grey,9,35000,USED,Rs. 5350000
+Volkswagen,polo,2013, Manual,1600, 2WD, Petrol, Grey,10,23000,USED,Rs. 2450000
+Volkswagen,polo,2013, Manual,1200, 2WD, Petrol, Grey,11,25000,USED,Rs. 2150000
+,,,,,,,,,,,
+Volkswagen,polo,2011, Manual,1598, 2WD, Petrol, White,9,58382,USED,Rs. 2000000
+Volkswagen,polo,2011, Manual,1600, 2WD, Petrol, White,9,21000,USED,Rs. 1950000
+Volkswagen,polo,2014, Manual,1200, 2WD, Petrol, Silver,12,13000,USED,Rs. 2350000
+Volkswagen,polo,2011, Manual,1598, 2WD, Petrol, Red Flash,9,27000,USED,Rs. 2125000
+Volkswagen,tiguan,2010, Automatic,1968, 4WD, Diesel, White,8,41500,USED,Rs. 6350000
+,,,,,,,,,,,
+Volkswagen,polo,2012, Manual,1200, 2WD, Petrol, Line Blue,10,25000,USED,Rs. 2100000
+Volkswagen,tiguan,2010, Manual,1984, 2WD, Petrol, Black ,8,49000,USED,Rs. 4800000
+Volkswagen,vento,2012, Manual,1600, 2WD, Petrol, Sky blue,10,50000,USED,Rs. 2450000
+Volkswagen,touareg,2010, Automatic,3000, 4WD, Diesel, RID GREEN,8,52000,USED,Rs. 8050000
+Volkswagen,polo,2013, Manual,1600, 2WD, Petrol, White,12,24000,USED,Rs. 2650000
+,,,,,,,,,,,
+Volkswagen,polo,2013, Manual,1200, 2WD, Petrol, Gray,11,30000,USED,Rs. 2550000
+Volkswagen,polo,2011, Manual,1600, 2WD, Petrol, Black ,9,28000,USED,Rs. 2250000
+Volkswagen,polo,2012, Manual,1200, 2WD, Petrol, White,10,23000,USED,Rs. 1850000
+Volkswagen,touareg,2010, Automatic,2400, 4WD, Diesel, Silver,8,38000,USED,Rs. 10000000
+Volkswagen,polo,2011, Manual,1600, 2WD, Petrol, Silver,9,24324,USED,Rs. 2400000
+Volkswagen,polo,2014, Manual,1200, 2WD, Petrol, Silver,12,10000,USED,Rs. 2650000
+Volkswagen,polo,2013, Manual,1200, 2WD, Petrol, Gray,11,24000,USED,Rs. 2475000
+Volkswagen,tiguan,2011, Manual,2000, 4WD, Petrol, Dark meta lick blue,9,30000,USED,Rs. 5500000
+,,,,,,,,,,,
+Volkswagen,beetle,2010, Manual,1600, 2WD, Petrol, RED,8,19000,USED,Rs. 3800000
+,,,,,,,,,,,
+,,,,,,,,,,,
+Volkswagen,tiguan,2013, Manual,2000, 4WD, Petrol, Silver,11,20000,USED,Rs. 7450000
+Volkswagen,polo,2011, Manual,1600, 2WD, Petrol, silver,11,36000,USED,Rs. 2100000
+,,,,,,,,,,,
+Volkswagen,vento,2012, Manual,1600, 2WD, Petrol, Blue,10,23000,USED,Rs. 3000000
+Volkswagen,polo,2013, Manual,1198, 2WD, Petrol, White ,11,22000,USED,Rs. 2100000
+Volkswagen,passat,2010, Manual,1800, 2WD, Petrol, maroon red,8,12000,USED,Rs. 5650000
+,,,,,,,,,,,
+Volkswagen,polo,2012, Manual,1599, 2WD, Petrol, Red ,10,21000,USED,Rs. 2450000
+,,,,,,,,,,,
+Volkswagen,tiguan,2011, Manual,2000, 4WD, Petrol, WHITE,9,48000,USED,Rs. 5700000
+Volkswagen,polo,2011, Manual,1600, 2WD, Petrol, black,9,19000,USED,Rs. 2350000
+Volkswagen,polo,2011, Manual,1200, 2WD, Petrol, Silver,11,17000,USED,Rs. 2100000
+Volkswagen,tiguan,2010, Manual,2000, 4WD, Petrol, grey,8,30000,USED,Rs. 5250000
+Volkswagen,polo,2014, Manual,1200, 2WD, Petrol, silver,12,14000,USED,Rs. 2550000
+,,,,,,,,,,,
+Volkswagen,polo,2012, Manual,1198, 2WD, Petrol, Red ,10,17000,USED,Rs. 2050000
+Volkswagen,vento,2012, Manual,1600, 2WD, Petrol, Silver,11,30000,USED,Rs. 3000000
+Volkswagen,passat,2011, Manual,1800, 2WD, Petrol, Sky Blue,8,20000,USED,Rs. 6100000
+Volkswagen,polo,2014, Manual,1200, 2WD, Petrol, Silver,13,10000,USED,Rs. 2650000
+Volkswagen,polo,2012, Manual,1200, 2WD, Petrol, WHITE,10,20000,USED,Rs. 1995000
+Volkswagen,polo,2013, Manual,1600, 2WD, Petrol, SILVER,11,6300,USED,Rs. 2650000
+Volkswagen,polo,2012, Manual,1200, 2WD, Petrol, White,11,20000,USED,Rs. 2000000
+Volkswagen,polo,2012, Manual,1600, 2WD, Petrol, Red,10,9000,USED,Rs. 2550000
+Volkswagen,polo,2012, Manual,1200, 2WD, Petrol, WHITE,10,8700,USED,Rs. 2150000
+Volkswagen,tiguan,2011, Automatic,2000, 4WD, Diesel, white,11,32000,USED,Rs. 7000000
+Volkswagen,polo,2014, Manual,1200, 2WD, Petrol, White,10,7500,USED,Rs. 2400000
+Volkswagen,tiguan,2011, Manual,2000, 2WD, Petrol, Blue,8,26447,USED,Rs. 6175000
+Volkswagen,polo,2013, Manual,1600, 2WD, Petrol, Silver ,11,6300,USED,Rs. 2700000
+Volkswagen,beetle,2010, Manual,1595, 2WD, Petrol, Maroon Red,8,19000,USED,Rs. 3950000
+Volkswagen,passat,2010, Manual,1800, 2WD, Petrol, black,8,11000,USED,Rs. 5800000
+,,,,,,,,,,,
+Volkswagen,tiguan,2010, Manual,2000, 2WD, Petrol, India blue,8,25000,USED,Rs. 4900000
+,,,,,,,,,,,
+Volkswagen,vento,2012, Manual,1600, 2WD, Diesel, Silver,11,14000,USED,Rs. 3555555
